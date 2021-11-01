@@ -3,3 +3,4 @@
 - [2021-11-01] Fix model path bug
 - [2021-11-01] Add vehicle tracking module
 - [2021-11-01] Clean unused imports
+- [2021-11-01] Update test video clips
