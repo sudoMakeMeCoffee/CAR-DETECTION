@@ -1,2 +1,3 @@
 - [2021-11-01] Update test video clips
 - [2021-11-01] Improve detection accuracy
+- [2021-11-01] Fix model path bug
