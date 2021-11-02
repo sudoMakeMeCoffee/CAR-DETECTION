@@ -6,3 +6,4 @@
 - [2021-11-01] Update test video clips
 - [2021-11-02] Update test video clips
 - [2021-11-02] Update YOLOv5 model files
+- [2021-11-02] Update README with usage
