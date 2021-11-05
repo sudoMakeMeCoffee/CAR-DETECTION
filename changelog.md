@@ -8,3 +8,4 @@
 - [2021-11-02] Update YOLOv5 model files
 - [2021-11-02] Update README with usage
 - [2021-11-05] Fix model path bug
+- [2021-11-05] Refactor frame extractor
