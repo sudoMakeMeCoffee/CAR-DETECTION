@@ -11,3 +11,4 @@
 - [2021-11-05] Refactor frame extractor
 - [2021-11-05] Update YOLOv5 model files
 - [2021-11-05] Fix frame timing issue
+- [2021-11-06] Refactor frame extractor
