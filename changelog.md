@@ -13,3 +13,4 @@
 - [2021-11-05] Fix frame timing issue
 - [2021-11-06] Refactor frame extractor
 - [2021-11-06] Clean unused imports
+- [2021-11-06] Add sample inference notebook
