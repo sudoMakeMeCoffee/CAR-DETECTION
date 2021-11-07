@@ -15,3 +15,4 @@
 - [2021-11-06] Clean unused imports
 - [2021-11-06] Add sample inference notebook
 - [2021-11-07] Update test video clips
+- [2021-11-07] Add preprocessing pipeline
