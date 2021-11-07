@@ -14,3 +14,8 @@ classes = ['car', 'truck', 'bus']
 # Commit on 2021-11-07
 # Added bounding box format
 bbox = [x, y, w, h]
+
+# Commit on 2021-11-07
+# Refactored loop
+for frame in video:
+    detect(frame)
