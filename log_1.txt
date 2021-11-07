@@ -6,3 +6,7 @@ print('DEBUG: frame loaded')
 # Commit on 2021-11-06
 # Temporary debug log
 print('DEBUG: frame loaded')
+
+# Commit on 2021-11-07
+# Model tuning params
+CONFIDENCE_THRESHOLD = 0.45

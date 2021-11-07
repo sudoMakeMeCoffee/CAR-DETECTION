@@ -18,3 +18,4 @@
 - [2021-11-07] Add preprocessing pipeline
 - [2021-11-07] Update README with usage
 - [2021-11-07] Improve detection accuracy
+- [2021-11-07] Improve detection accuracy
