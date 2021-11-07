@@ -17,3 +17,4 @@
 - [2021-11-07] Update test video clips
 - [2021-11-07] Add preprocessing pipeline
 - [2021-11-07] Update README with usage
+- [2021-11-07] Improve detection accuracy
