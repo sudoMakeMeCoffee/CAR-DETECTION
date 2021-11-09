@@ -20,3 +20,4 @@
 - [2021-11-07] Improve detection accuracy
 - [2021-11-07] Improve detection accuracy
 - [2021-11-07] Fix frame timing issue
+- [2021-11-09] Add vehicle tracking module
