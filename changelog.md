@@ -22,3 +22,4 @@
 - [2021-11-07] Fix frame timing issue
 - [2021-11-09] Add vehicle tracking module
 - [2021-11-11] Add sample inference notebook
+- [2021-11-11] Add preprocessing pipeline
