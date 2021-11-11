@@ -24,3 +24,4 @@
 - [2021-11-11] Add sample inference notebook
 - [2021-11-11] Add preprocessing pipeline
 - [2021-11-11] Clean unused imports
+- [2021-11-11] Update README with usage
