@@ -27,3 +27,4 @@
 - [2021-11-11] Update README with usage
 - [2021-11-11] Improve detection accuracy
 - [2021-11-14] Fix model path bug
+- [2021-11-14] Add sample inference notebook
