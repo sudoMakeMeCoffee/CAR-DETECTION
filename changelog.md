@@ -29,3 +29,4 @@
 - [2021-11-14] Fix model path bug
 - [2021-11-14] Add sample inference notebook
 - [2021-11-15] Clean unused imports
+- [2021-11-15] Add vehicle tracking module
