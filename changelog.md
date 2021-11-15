@@ -28,3 +28,4 @@
 - [2021-11-11] Improve detection accuracy
 - [2021-11-14] Fix model path bug
 - [2021-11-14] Add sample inference notebook
+- [2021-11-15] Clean unused imports
