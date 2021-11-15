@@ -32,3 +32,4 @@
 - [2021-11-15] Add vehicle tracking module
 - [2021-11-15] Fix frame timing issue
 - [2021-11-15] Tune confidence threshold
+- [2021-11-15] Tune confidence threshold
