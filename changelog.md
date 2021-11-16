@@ -33,3 +33,4 @@
 - [2021-11-15] Fix frame timing issue
 - [2021-11-15] Tune confidence threshold
 - [2021-11-15] Tune confidence threshold
+- [2021-11-16] Add preprocessing pipeline
