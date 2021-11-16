@@ -35,3 +35,4 @@
 - [2021-11-15] Tune confidence threshold
 - [2021-11-16] Add preprocessing pipeline
 - [2021-11-16] Clean unused imports
+- [2021-11-16] Fix frame timing issue
