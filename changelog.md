@@ -36,3 +36,4 @@
 - [2021-11-16] Add preprocessing pipeline
 - [2021-11-16] Clean unused imports
 - [2021-11-16] Fix frame timing issue
+- [2021-11-16] Improve detection accuracy
