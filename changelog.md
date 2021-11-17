@@ -40,3 +40,4 @@
 - [2021-11-16] Tune confidence threshold
 - [2021-11-17] Update YOLOv5 model files
 - [2021-11-17] Update YOLOv5 model files
+- [2021-11-17] Update README with usage
