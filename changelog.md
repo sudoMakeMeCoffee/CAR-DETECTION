@@ -38,3 +38,4 @@
 - [2021-11-16] Fix frame timing issue
 - [2021-11-16] Improve detection accuracy
 - [2021-11-16] Tune confidence threshold
+- [2021-11-17] Update YOLOv5 model files
