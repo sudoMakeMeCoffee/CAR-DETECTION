@@ -45,3 +45,4 @@
 - [2021-11-17] Refactor frame extractor
 - [2021-11-20] Fix model path bug
 - [2021-11-20] Improve detection accuracy
+- [2021-11-20] Clean unused imports
