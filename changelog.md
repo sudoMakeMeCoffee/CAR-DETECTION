@@ -43,3 +43,4 @@
 - [2021-11-17] Update README with usage
 - [2021-11-17] Add preprocessing pipeline
 - [2021-11-17] Refactor frame extractor
+- [2021-11-20] Fix model path bug
