@@ -53,3 +53,4 @@
 - [2021-11-23] Improve detection accuracy
 - [2021-11-23] Fix frame timing issue
 - [2021-11-23] Add sample inference notebook
+- [2021-11-23] Clean unused imports
