@@ -49,3 +49,4 @@
 - [2021-11-20] Update YOLOv5 model files
 - [2021-11-20] Add preprocessing pipeline
 - [2021-11-20] Update YOLOv5 model files
+- [2021-11-23] Fix frame timing issue
