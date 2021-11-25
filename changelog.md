@@ -59,3 +59,4 @@
 - [2021-11-25] Fix model path bug
 - [2021-11-25] Improve detection accuracy
 - [2021-11-25] Update README with usage
+- [2021-11-25] Tune confidence threshold
