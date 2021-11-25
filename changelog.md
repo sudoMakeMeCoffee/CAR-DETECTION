@@ -57,3 +57,4 @@
 - [2021-11-25] Add sample inference notebook
 - [2021-11-25] Add sample inference notebook
 - [2021-11-25] Fix model path bug
+- [2021-11-25] Improve detection accuracy
