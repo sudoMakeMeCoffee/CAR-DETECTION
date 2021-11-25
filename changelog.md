@@ -56,3 +56,4 @@
 - [2021-11-23] Clean unused imports
 - [2021-11-25] Add sample inference notebook
 - [2021-11-25] Add sample inference notebook
+- [2021-11-25] Fix model path bug
