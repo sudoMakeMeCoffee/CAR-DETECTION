@@ -61,3 +61,4 @@
 - [2021-11-25] Update README with usage
 - [2021-11-25] Tune confidence threshold
 - [2021-11-28] Update test video clips
+- [2021-11-28] Fix frame timing issue
