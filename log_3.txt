@@ -53,3 +53,7 @@ for frame in video:
 # Commit on 2021-11-25
 # Temporary debug log
 print('DEBUG: frame loaded')
+
+# Commit on 2021-12-02
+# Temporary debug log
+print('DEBUG: frame loaded')

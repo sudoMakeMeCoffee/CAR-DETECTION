@@ -63,3 +63,4 @@
 - [2021-11-28] Update test video clips
 - [2021-11-28] Fix frame timing issue
 - [2021-11-28] Fix frame timing issue
+- [2021-12-02] Add sample inference notebook
