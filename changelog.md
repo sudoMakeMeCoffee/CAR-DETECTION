@@ -71,3 +71,4 @@
 - [2021-12-05] Tune confidence threshold
 - [2021-12-05] Add preprocessing pipeline
 - [2021-12-05] Refactor frame extractor
+- [2021-12-05] Fix frame timing issue
