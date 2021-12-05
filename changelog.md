@@ -73,3 +73,4 @@
 - [2021-12-05] Refactor frame extractor
 - [2021-12-05] Fix frame timing issue
 - [2021-12-05] Update test video clips
+- [2021-12-05] Tune confidence threshold
