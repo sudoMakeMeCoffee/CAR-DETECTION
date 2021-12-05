@@ -50,3 +50,7 @@ for frame in video:
 # Refactored loop
 for frame in video:
     detect(frame)
+
+# Commit on 2021-12-05
+# Temporary debug log
+print('DEBUG: frame loaded')
