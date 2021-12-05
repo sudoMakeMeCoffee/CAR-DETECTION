@@ -68,3 +68,4 @@
 - [2021-12-03] Fix frame timing issue
 - [2021-12-03] Add preprocessing pipeline
 - [2021-12-03] Update test video clips
+- [2021-12-05] Tune confidence threshold
