@@ -76,3 +76,4 @@
 - [2021-12-05] Tune confidence threshold
 - [2021-12-06] Update YOLOv5 model files
 - [2021-12-06] Add vehicle tracking module
+- [2021-12-06] Fix model path bug
