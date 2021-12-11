@@ -78,3 +78,4 @@
 - [2021-12-06] Add vehicle tracking module
 - [2021-12-06] Fix model path bug
 - [2021-12-10] Update YOLOv5 model files
+- [2021-12-11] Update test video clips
