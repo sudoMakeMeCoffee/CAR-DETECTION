@@ -82,3 +82,4 @@
 - [2021-12-13] Fix frame timing issue
 - [2021-12-13] Update test video clips
 - [2021-12-13] Add vehicle tracking module
+- [2021-12-13] Update README with usage
