@@ -84,3 +84,4 @@
 - [2021-12-13] Add vehicle tracking module
 - [2021-12-13] Update README with usage
 - [2021-12-16] Improve detection accuracy
+- [2021-12-16] Fix model path bug
