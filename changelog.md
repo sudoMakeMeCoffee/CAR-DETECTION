@@ -86,3 +86,4 @@
 - [2021-12-16] Improve detection accuracy
 - [2021-12-16] Fix model path bug
 - [2021-12-16] Update README with usage
+- [2021-12-16] Fix frame timing issue
