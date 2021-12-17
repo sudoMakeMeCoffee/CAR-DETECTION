@@ -89,3 +89,4 @@
 - [2021-12-16] Fix frame timing issue
 - [2021-12-16] Refactor frame extractor
 - [2021-12-16] Fix model path bug
+- [2021-12-17] Add preprocessing pipeline
