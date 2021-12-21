@@ -94,3 +94,4 @@
 - [2021-12-18] Update README with usage
 - [2021-12-18] Improve detection accuracy
 - [2021-12-20] Update test video clips
+- [2021-12-21] Update README with usage
