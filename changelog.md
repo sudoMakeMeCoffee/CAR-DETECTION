@@ -97,3 +97,4 @@
 - [2021-12-21] Update README with usage
 - [2021-12-21] Add vehicle tracking module
 - [2021-12-21] Improve detection accuracy
+- [2021-12-22] Add vehicle tracking module
