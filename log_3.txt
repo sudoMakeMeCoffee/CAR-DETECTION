@@ -106,3 +106,7 @@ classes = ['car', 'truck', 'bus']
 # Commit on 2021-12-21
 # Temporary debug log
 print('DEBUG: frame loaded')
+
+# Commit on 2021-12-22
+# Temporary debug log
+print('DEBUG: frame loaded')
