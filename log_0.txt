@@ -72,3 +72,7 @@ CONFIDENCE_THRESHOLD = 0.45
 # Commit on 2021-12-18
 # Added bounding box format
 bbox = [x, y, w, h]
+
+# Commit on 2021-12-22
+# Model tuning params
+CONFIDENCE_THRESHOLD = 0.45

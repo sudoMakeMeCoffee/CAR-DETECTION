@@ -101,3 +101,4 @@
 - [2021-12-22] Add sample inference notebook
 - [2021-12-22] Clean unused imports
 - [2021-12-22] Improve detection accuracy
+- [2021-12-22] Clean unused imports
