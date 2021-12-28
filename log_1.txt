@@ -53,3 +53,7 @@ for frame in video:
 # Commit on 2021-12-22
 # Added bounding box format
 bbox = [x, y, w, h]
+
+# Commit on 2021-12-28
+# Model tuning params
+CONFIDENCE_THRESHOLD = 0.45

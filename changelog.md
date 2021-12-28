@@ -106,3 +106,4 @@
 - [2021-12-28] Clean unused imports
 - [2021-12-28] Add vehicle tracking module
 - [2021-12-28] Tune confidence threshold
+- [2021-12-28] Add preprocessing pipeline
