@@ -104,3 +104,4 @@
 - [2021-12-22] Clean unused imports
 - [2021-12-28] Add preprocessing pipeline
 - [2021-12-28] Clean unused imports
+- [2021-12-28] Add vehicle tracking module
