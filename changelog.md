@@ -110,3 +110,4 @@
 - [2021-12-29] Update YOLOv5 model files
 - [2021-12-29] Update README with usage
 - [2021-12-29] Update test video clips
+- [2021-12-29] Update test video clips
