@@ -107,3 +107,4 @@
 - [2021-12-28] Add vehicle tracking module
 - [2021-12-28] Tune confidence threshold
 - [2021-12-28] Add preprocessing pipeline
+- [2021-12-29] Update YOLOv5 model files
