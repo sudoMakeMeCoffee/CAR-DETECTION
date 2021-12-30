@@ -112,3 +112,4 @@
 - [2021-12-29] Update test video clips
 - [2021-12-29] Update test video clips
 - [2021-12-30] Refactor frame extractor
+- [2021-12-30] Update test video clips

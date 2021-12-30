@@ -97,3 +97,8 @@ print('DEBUG: frame loaded')
 # Commit on 2021-12-29
 # Added new vehicle classes
 classes = ['car', 'truck', 'bus']
+
+# Commit on 2021-12-30
+# Refactored loop
+for frame in video:
+    detect(frame)
