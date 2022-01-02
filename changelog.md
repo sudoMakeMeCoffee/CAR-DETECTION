@@ -118,3 +118,4 @@
 - [2022-01-01] Fix model path bug
 - [2022-01-02] Update test video clips
 - [2022-01-02] Update README with usage
+- [2022-01-02] Add sample inference notebook
