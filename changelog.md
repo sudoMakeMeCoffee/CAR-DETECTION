@@ -117,3 +117,4 @@
 - [2021-12-30] Add preprocessing pipeline
 - [2022-01-01] Fix model path bug
 - [2022-01-02] Update test video clips
+- [2022-01-02] Update README with usage

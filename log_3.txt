@@ -119,3 +119,7 @@ for frame in video:
 # Commit on 2021-12-30
 # Added new vehicle classes
 classes = ['car', 'truck', 'bus']
+
+# Commit on 2022-01-02
+# Added new vehicle classes
+classes = ['car', 'truck', 'bus']
