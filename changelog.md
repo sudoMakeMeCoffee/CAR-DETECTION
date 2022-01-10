@@ -123,3 +123,4 @@
 - [2022-01-10] Fix model path bug
 - [2022-01-10] Improve detection accuracy
 - [2022-01-10] Tune confidence threshold
+- [2022-01-10] Add vehicle tracking module
