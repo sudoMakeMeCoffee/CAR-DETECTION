@@ -120,3 +120,4 @@
 - [2022-01-02] Update README with usage
 - [2022-01-02] Add sample inference notebook
 - [2022-01-02] Clean unused imports
+- [2022-01-10] Fix model path bug
