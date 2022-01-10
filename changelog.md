@@ -122,3 +122,4 @@
 - [2022-01-02] Clean unused imports
 - [2022-01-10] Fix model path bug
 - [2022-01-10] Improve detection accuracy
+- [2022-01-10] Tune confidence threshold
