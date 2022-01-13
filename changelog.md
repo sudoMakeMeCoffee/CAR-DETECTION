@@ -126,3 +126,4 @@
 - [2022-01-10] Add vehicle tracking module
 - [2022-01-11] Improve detection accuracy
 - [2022-01-11] Add preprocessing pipeline
+- [2022-01-13] Fix frame timing issue
