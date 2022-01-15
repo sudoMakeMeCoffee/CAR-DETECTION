@@ -130,3 +130,4 @@
 - [2022-01-15] Update YOLOv5 model files
 - [2022-01-15] Update test video clips
 - [2022-01-15] Clean unused imports
+- [2022-01-15] Update test video clips
