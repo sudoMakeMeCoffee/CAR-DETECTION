@@ -127,3 +127,4 @@
 - [2022-01-11] Improve detection accuracy
 - [2022-01-11] Add preprocessing pipeline
 - [2022-01-13] Fix frame timing issue
+- [2022-01-15] Update YOLOv5 model files
