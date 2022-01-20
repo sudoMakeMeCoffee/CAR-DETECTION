@@ -138,3 +138,4 @@
 - [2022-01-20] Refactor frame extractor
 - [2022-01-20] Fix model path bug
 - [2022-01-20] Fix frame timing issue
+- [2022-01-20] Improve detection accuracy
