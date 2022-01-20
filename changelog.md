@@ -135,3 +135,4 @@
 - [2022-01-17] Update README with usage
 - [2022-01-20] Clean unused imports
 - [2022-01-20] Fix model path bug
+- [2022-01-20] Refactor frame extractor
