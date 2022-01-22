@@ -140,3 +140,4 @@
 - [2022-01-20] Fix frame timing issue
 - [2022-01-20] Improve detection accuracy
 - [2022-01-22] Update README with usage
+- [2022-01-22] Update test video clips
