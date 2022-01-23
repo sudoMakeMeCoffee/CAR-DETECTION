@@ -143,3 +143,4 @@
 - [2022-01-22] Update test video clips
 - [2022-01-22] Update test video clips
 - [2022-01-22] Add sample inference notebook
+- [2022-01-23] Add sample inference notebook
