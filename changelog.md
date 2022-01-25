@@ -145,3 +145,4 @@
 - [2022-01-22] Add sample inference notebook
 - [2022-01-23] Add sample inference notebook
 - [2022-01-23] Clean unused imports
+- [2022-01-25] Refactor frame extractor
