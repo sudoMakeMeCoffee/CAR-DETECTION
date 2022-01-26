@@ -104,3 +104,8 @@ CONFIDENCE_THRESHOLD = 0.45
 # Refactored loop
 for frame in video:
     detect(frame)
+
+# Commit on 2022-01-26
+# Refactored loop
+for frame in video:
+    detect(frame)

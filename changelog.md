@@ -149,3 +149,4 @@
 - [2022-01-25] Fix frame timing issue
 - [2022-01-25] Add vehicle tracking module
 - [2022-01-26] Refactor frame extractor
+- [2022-01-26] Fix model path bug
