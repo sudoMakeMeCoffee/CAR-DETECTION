@@ -152,3 +152,4 @@
 - [2022-01-26] Fix model path bug
 - [2022-01-26] Improve detection accuracy
 - [2022-01-26] Clean unused imports
+- [2022-01-27] Update README with usage
