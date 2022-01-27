@@ -156,3 +156,4 @@
 - [2022-01-27] Add vehicle tracking module
 - [2022-01-27] Add preprocessing pipeline
 - [2022-01-27] Update README with usage
+- [2022-01-27] Fix model path bug
