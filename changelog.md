@@ -158,3 +158,4 @@
 - [2022-01-27] Update README with usage
 - [2022-01-27] Fix model path bug
 - [2022-01-27] Update test video clips
+- [2022-01-29] Improve detection accuracy
