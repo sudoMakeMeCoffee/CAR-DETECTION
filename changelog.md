@@ -162,3 +162,4 @@
 - [2022-01-29] Update README with usage
 - [2022-02-01] Add vehicle tracking module
 - [2022-02-01] Fix frame timing issue
+- [2022-02-01] Tune confidence threshold
