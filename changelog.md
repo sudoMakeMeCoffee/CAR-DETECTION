@@ -164,3 +164,4 @@
 - [2022-02-01] Fix frame timing issue
 - [2022-02-01] Tune confidence threshold
 - [2022-02-01] Improve detection accuracy
+- [2022-02-01] Update README with usage
