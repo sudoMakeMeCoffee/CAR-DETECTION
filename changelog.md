@@ -166,3 +166,4 @@
 - [2022-02-01] Improve detection accuracy
 - [2022-02-01] Update README with usage
 - [2022-02-02] Add sample inference notebook
+- [2022-02-02] Fix frame timing issue
