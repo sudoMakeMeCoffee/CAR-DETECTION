@@ -169,3 +169,4 @@
 - [2022-02-02] Fix frame timing issue
 - [2022-02-02] Add preprocessing pipeline
 - [2022-02-02] Update README with usage
+- [2022-02-02] Add sample inference notebook
