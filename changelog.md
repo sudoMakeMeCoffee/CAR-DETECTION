@@ -175,3 +175,4 @@
 - [2022-02-04] Improve detection accuracy
 - [2022-02-04] Update README with usage
 - [2022-02-04] Fix model path bug
+- [2022-02-04] Add preprocessing pipeline
