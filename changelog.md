@@ -173,3 +173,4 @@
 - [2022-02-04] Tune confidence threshold
 - [2022-02-04] Tune confidence threshold
 - [2022-02-04] Improve detection accuracy
+- [2022-02-04] Update README with usage
