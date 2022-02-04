@@ -170,3 +170,4 @@
 - [2022-02-02] Add preprocessing pipeline
 - [2022-02-02] Update README with usage
 - [2022-02-02] Add sample inference notebook
+- [2022-02-04] Tune confidence threshold
