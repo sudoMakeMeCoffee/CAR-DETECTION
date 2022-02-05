@@ -178,3 +178,4 @@
 - [2022-02-04] Add preprocessing pipeline
 - [2022-02-05] Add preprocessing pipeline
 - [2022-02-05] Refactor frame extractor
+- [2022-02-05] Tune confidence threshold
