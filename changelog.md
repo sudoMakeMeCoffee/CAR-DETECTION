@@ -177,3 +177,4 @@
 - [2022-02-04] Fix model path bug
 - [2022-02-04] Add preprocessing pipeline
 - [2022-02-05] Add preprocessing pipeline
+- [2022-02-05] Refactor frame extractor
