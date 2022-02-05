@@ -181,3 +181,4 @@
 - [2022-02-05] Tune confidence threshold
 - [2022-02-05] Fix frame timing issue
 - [2022-02-05] Fix frame timing issue
+- [2022-02-05] Fix model path bug
