@@ -179,3 +179,4 @@
 - [2022-02-05] Add preprocessing pipeline
 - [2022-02-05] Refactor frame extractor
 - [2022-02-05] Tune confidence threshold
+- [2022-02-05] Fix frame timing issue
