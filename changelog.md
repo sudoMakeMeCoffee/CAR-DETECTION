@@ -182,3 +182,4 @@
 - [2022-02-05] Fix frame timing issue
 - [2022-02-05] Fix frame timing issue
 - [2022-02-05] Fix model path bug
+- [2022-02-06] Improve detection accuracy
