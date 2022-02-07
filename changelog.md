@@ -185,3 +185,4 @@
 - [2022-02-06] Improve detection accuracy
 - [2022-02-06] Refactor frame extractor
 - [2022-02-07] Refactor frame extractor
+- [2022-02-07] Fix model path bug
