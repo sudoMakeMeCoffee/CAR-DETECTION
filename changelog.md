@@ -187,3 +187,4 @@
 - [2022-02-07] Refactor frame extractor
 - [2022-02-07] Fix model path bug
 - [2022-02-08] Tune confidence threshold
+- [2022-02-08] Update README with usage
