@@ -191,3 +191,4 @@
 - [2022-02-08] Tune confidence threshold
 - [2022-02-08] Refactor frame extractor
 - [2022-02-09] Fix frame timing issue
+- [2022-02-09] Update README with usage
