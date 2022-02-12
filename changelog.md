@@ -194,3 +194,4 @@
 - [2022-02-09] Update README with usage
 - [2022-02-10] Clean unused imports
 - [2022-02-10] Refactor frame extractor
+- [2022-02-12] Fix frame timing issue
