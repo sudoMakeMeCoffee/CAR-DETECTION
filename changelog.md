@@ -197,3 +197,4 @@
 - [2022-02-12] Fix frame timing issue
 - [2022-02-15] Add vehicle tracking module
 - [2022-02-15] Improve detection accuracy
+- [2022-02-15] Update README with usage
