@@ -199,3 +199,4 @@
 - [2022-02-15] Improve detection accuracy
 - [2022-02-15] Update README with usage
 - [2022-02-15] Improve detection accuracy
+- [2022-02-15] Fix model path bug
