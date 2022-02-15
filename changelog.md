@@ -195,3 +195,4 @@
 - [2022-02-10] Clean unused imports
 - [2022-02-10] Refactor frame extractor
 - [2022-02-12] Fix frame timing issue
+- [2022-02-15] Add vehicle tracking module
