@@ -182,3 +182,7 @@ CONFIDENCE_THRESHOLD = 0.45
 # Commit on 2022-02-15
 # Added new vehicle classes
 classes = ['car', 'truck', 'bus']
+
+# Commit on 2022-02-17
+# Added new vehicle classes
+classes = ['car', 'truck', 'bus']
