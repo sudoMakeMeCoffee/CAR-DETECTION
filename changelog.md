@@ -205,3 +205,4 @@
 - [2022-02-18] Clean unused imports
 - [2022-02-19] Clean unused imports
 - [2022-02-19] Fix model path bug
+- [2022-02-19] Add preprocessing pipeline
