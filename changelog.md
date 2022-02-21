@@ -208,3 +208,4 @@
 - [2022-02-19] Add preprocessing pipeline
 - [2022-02-19] Clean unused imports
 - [2022-02-21] Add sample inference notebook
+- [2022-02-21] Fix model path bug
