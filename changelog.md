@@ -210,3 +210,4 @@
 - [2022-02-21] Add sample inference notebook
 - [2022-02-21] Fix model path bug
 - [2022-02-22] Add preprocessing pipeline
+- [2022-02-22] Fix model path bug
