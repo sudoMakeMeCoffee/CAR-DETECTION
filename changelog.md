@@ -211,3 +211,4 @@
 - [2022-02-21] Fix model path bug
 - [2022-02-22] Add preprocessing pipeline
 - [2022-02-22] Fix model path bug
+- [2022-02-22] Update YOLOv5 model files
