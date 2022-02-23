@@ -215,3 +215,4 @@
 - [2022-02-22] Update test video clips
 - [2022-02-22] Update YOLOv5 model files
 - [2022-02-23] Add sample inference notebook
+- [2022-02-23] Update test video clips
