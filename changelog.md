@@ -219,3 +219,4 @@
 - [2022-02-26] Refactor frame extractor
 - [2022-02-27] Add preprocessing pipeline
 - [2022-03-01] Add preprocessing pipeline
+- [2022-03-01] Fix frame timing issue
