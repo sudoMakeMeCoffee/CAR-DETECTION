@@ -221,3 +221,4 @@
 - [2022-03-01] Add preprocessing pipeline
 - [2022-03-01] Fix frame timing issue
 - [2022-03-01] Clean unused imports
+- [2022-03-01] Add sample inference notebook
