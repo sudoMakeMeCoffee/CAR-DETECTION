@@ -224,3 +224,4 @@
 - [2022-03-01] Add sample inference notebook
 - [2022-03-01] Add sample inference notebook
 - [2022-03-01] Add sample inference notebook
+- [2022-03-02] Fix model path bug

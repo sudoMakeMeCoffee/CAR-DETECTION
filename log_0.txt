@@ -177,3 +177,7 @@ classes = ['car', 'truck', 'bus']
 # Commit on 2022-03-01
 # Added new vehicle classes
 classes = ['car', 'truck', 'bus']
+
+# Commit on 2022-03-02
+# Added new vehicle classes
+classes = ['car', 'truck', 'bus']
