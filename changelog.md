@@ -228,3 +228,4 @@
 - [2022-03-02] Tune confidence threshold
 - [2022-03-03] Refactor frame extractor
 - [2022-03-03] Update README with usage
+- [2022-03-03] Add sample inference notebook
