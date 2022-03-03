@@ -226,3 +226,4 @@
 - [2022-03-01] Add sample inference notebook
 - [2022-03-02] Fix model path bug
 - [2022-03-02] Tune confidence threshold
+- [2022-03-03] Refactor frame extractor
