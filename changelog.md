@@ -231,3 +231,4 @@
 - [2022-03-03] Add sample inference notebook
 - [2022-03-03] Update YOLOv5 model files
 - [2022-03-03] Improve detection accuracy
+- [2022-03-06] Update test video clips
