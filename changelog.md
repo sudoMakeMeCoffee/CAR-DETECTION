@@ -241,3 +241,4 @@
 - [2022-03-10] Update test video clips
 - [2022-03-10] Fix frame timing issue
 - [2022-03-10] Update README with usage
+- [2022-03-12] Improve detection accuracy
