@@ -249,3 +249,4 @@
 - [2022-03-17] Fix frame timing issue
 - [2022-03-17] Add sample inference notebook
 - [2022-03-17] Improve detection accuracy
+- [2022-03-17] Add sample inference notebook
