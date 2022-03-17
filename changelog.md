@@ -245,3 +245,4 @@
 - [2022-03-12] Update README with usage
 - [2022-03-12] Update YOLOv5 model files
 - [2022-03-12] Tune confidence threshold
+- [2022-03-17] Tune confidence threshold
