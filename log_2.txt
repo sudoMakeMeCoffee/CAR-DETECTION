@@ -225,3 +225,7 @@ bbox = [x, y, w, h]
 # Refactored loop
 for frame in video:
     detect(frame)
+
+# Commit on 2022-03-17
+# Model tuning params
+CONFIDENCE_THRESHOLD = 0.45
