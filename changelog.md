@@ -257,3 +257,4 @@
 - [2022-03-25] Update test video clips
 - [2022-03-25] Improve detection accuracy
 - [2022-03-25] Improve detection accuracy
+- [2022-03-25] Add preprocessing pipeline
