@@ -260,3 +260,4 @@
 - [2022-03-25] Add preprocessing pipeline
 - [2022-03-25] Update YOLOv5 model files
 - [2022-03-25] Refactor frame extractor
+- [2022-03-26] Update YOLOv5 model files
