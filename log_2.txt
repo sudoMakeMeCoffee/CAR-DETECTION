@@ -264,3 +264,7 @@ print('DEBUG: frame loaded')
 # Commit on 2022-03-31
 # Added new vehicle classes
 classes = ['car', 'truck', 'bus']
+
+# Commit on 2022-03-31
+# Model tuning params
+CONFIDENCE_THRESHOLD = 0.45
