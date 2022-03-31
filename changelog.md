@@ -273,3 +273,4 @@
 - [2022-03-27] Add sample inference notebook
 - [2022-03-28] Add preprocessing pipeline
 - [2022-03-28] Update README with usage
+- [2022-03-31] Improve detection accuracy
