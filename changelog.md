@@ -277,3 +277,4 @@
 - [2022-03-31] Fix frame timing issue
 - [2022-03-31] Add sample inference notebook
 - [2022-03-31] Fix model path bug
+- [2022-04-01] Add preprocessing pipeline
