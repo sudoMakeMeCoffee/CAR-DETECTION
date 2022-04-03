@@ -283,3 +283,4 @@
 - [2022-04-01] Fix frame timing issue
 - [2022-04-03] Improve detection accuracy
 - [2022-04-03] Update README with usage
+- [2022-04-03] Update README with usage
