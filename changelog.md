@@ -288,3 +288,4 @@
 - [2022-04-03] Clean unused imports
 - [2022-04-05] Update test video clips
 - [2022-04-05] Update test video clips
+- [2022-04-05] Update README with usage
