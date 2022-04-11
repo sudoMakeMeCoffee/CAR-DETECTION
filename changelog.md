@@ -291,3 +291,4 @@
 - [2022-04-05] Update README with usage
 - [2022-04-07] Update test video clips
 - [2022-04-07] Update YOLOv5 model files
+- [2022-04-11] Update README with usage
