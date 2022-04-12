@@ -296,3 +296,4 @@
 - [2022-04-12] Fix model path bug
 - [2022-04-12] Update test video clips
 - [2022-04-12] Update README with usage
+- [2022-04-12] Refactor frame extractor
