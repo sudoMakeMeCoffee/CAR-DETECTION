@@ -299,3 +299,4 @@
 - [2022-04-12] Refactor frame extractor
 - [2022-04-12] Tune confidence threshold
 - [2022-04-14] Add vehicle tracking module
+- [2022-04-14] Tune confidence threshold
