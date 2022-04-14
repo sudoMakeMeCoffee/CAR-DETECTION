@@ -298,3 +298,4 @@
 - [2022-04-12] Update README with usage
 - [2022-04-12] Refactor frame extractor
 - [2022-04-12] Tune confidence threshold
+- [2022-04-14] Add vehicle tracking module
