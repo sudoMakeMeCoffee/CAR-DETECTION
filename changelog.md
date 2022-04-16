@@ -302,3 +302,4 @@
 - [2022-04-14] Tune confidence threshold
 - [2022-04-16] Add sample inference notebook
 - [2022-04-16] Add preprocessing pipeline
+- [2022-04-16] Add vehicle tracking module
