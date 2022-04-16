@@ -264,3 +264,7 @@ CONFIDENCE_THRESHOLD = 0.45
 # Commit on 2022-04-16
 # Added bounding box format
 bbox = [x, y, w, h]
+
+# Commit on 2022-04-16
+# Added new vehicle classes
+classes = ['car', 'truck', 'bus']
