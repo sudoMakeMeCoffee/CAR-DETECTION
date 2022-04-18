@@ -306,3 +306,4 @@
 - [2022-04-16] Update README with usage
 - [2022-04-16] Fix model path bug
 - [2022-04-16] Update YOLOv5 model files
+- [2022-04-18] Fix model path bug
