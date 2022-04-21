@@ -313,3 +313,4 @@
 - [2022-04-21] Tune confidence threshold
 - [2022-04-21] Fix frame timing issue
 - [2022-04-21] Improve detection accuracy
+- [2022-04-21] Add sample inference notebook

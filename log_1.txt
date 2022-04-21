@@ -278,3 +278,8 @@ for frame in video:
 # Refactored loop
 for frame in video:
     detect(frame)
+
+# Commit on 2022-04-21
+# Refactored loop
+for frame in video:
+    detect(frame)
