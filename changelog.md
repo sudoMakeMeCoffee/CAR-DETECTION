@@ -308,3 +308,4 @@
 - [2022-04-16] Update YOLOv5 model files
 - [2022-04-18] Fix model path bug
 - [2022-04-18] Fix frame timing issue
+- [2022-04-21] Refactor frame extractor
