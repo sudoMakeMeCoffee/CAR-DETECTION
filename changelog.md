@@ -311,3 +311,4 @@
 - [2022-04-21] Refactor frame extractor
 - [2022-04-21] Refactor frame extractor
 - [2022-04-21] Tune confidence threshold
+- [2022-04-21] Fix frame timing issue
