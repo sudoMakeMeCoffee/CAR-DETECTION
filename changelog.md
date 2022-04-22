@@ -317,3 +317,4 @@
 - [2022-04-22] Improve detection accuracy
 - [2022-04-22] Update YOLOv5 model files
 - [2022-04-22] Tune confidence threshold
+- [2022-04-22] Update YOLOv5 model files
