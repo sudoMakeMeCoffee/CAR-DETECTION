@@ -320,3 +320,4 @@
 - [2022-04-22] Update YOLOv5 model files
 - [2022-04-22] Add sample inference notebook
 - [2022-04-24] Update test video clips
+- [2022-04-24] Clean unused imports
