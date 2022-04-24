@@ -322,3 +322,4 @@
 - [2022-04-24] Update test video clips
 - [2022-04-24] Clean unused imports
 - [2022-04-24] Tune confidence threshold
+- [2022-04-24] Update test video clips
