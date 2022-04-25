@@ -325,3 +325,4 @@
 - [2022-04-24] Update test video clips
 - [2022-04-24] Add preprocessing pipeline
 - [2022-04-24] Add preprocessing pipeline
+- [2022-04-25] Update test video clips
