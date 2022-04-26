@@ -329,3 +329,4 @@
 - [2022-04-25] Improve detection accuracy
 - [2022-04-25] Add preprocessing pipeline
 - [2022-04-25] Improve detection accuracy
+- [2022-04-26] Add vehicle tracking module
