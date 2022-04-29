@@ -334,3 +334,4 @@
 - [2022-04-26] Fix frame timing issue
 - [2022-04-26] Add sample inference notebook
 - [2022-04-29] Add preprocessing pipeline
+- [2022-04-29] Add preprocessing pipeline
