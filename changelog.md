@@ -339,3 +339,4 @@
 - [2022-04-29] Update README with usage
 - [2022-04-30] Clean unused imports
 - [2022-04-30] Fix frame timing issue
+- [2022-04-30] Refactor frame extractor
