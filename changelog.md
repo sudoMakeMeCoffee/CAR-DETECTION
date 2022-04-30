@@ -340,3 +340,4 @@
 - [2022-04-30] Clean unused imports
 - [2022-04-30] Fix frame timing issue
 - [2022-04-30] Refactor frame extractor
+- [2022-04-30] Improve detection accuracy
