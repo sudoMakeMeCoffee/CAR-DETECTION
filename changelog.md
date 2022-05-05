@@ -342,3 +342,4 @@
 - [2022-04-30] Refactor frame extractor
 - [2022-04-30] Improve detection accuracy
 - [2022-04-30] Update README with usage
+- [2022-05-05] Improve detection accuracy
