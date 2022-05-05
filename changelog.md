@@ -345,3 +345,4 @@
 - [2022-05-05] Improve detection accuracy
 - [2022-05-05] Add sample inference notebook
 - [2022-05-05] Clean unused imports
+- [2022-05-05] Fix frame timing issue
