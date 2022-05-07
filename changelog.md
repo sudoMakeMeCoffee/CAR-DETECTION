@@ -350,3 +350,4 @@
 - [2022-05-06] Update YOLOv5 model files
 - [2022-05-07] Fix model path bug
 - [2022-05-07] Update YOLOv5 model files
+- [2022-05-07] Add sample inference notebook
