@@ -351,3 +351,4 @@
 - [2022-05-07] Fix model path bug
 - [2022-05-07] Update YOLOv5 model files
 - [2022-05-07] Add sample inference notebook
+- [2022-05-10] Improve detection accuracy
