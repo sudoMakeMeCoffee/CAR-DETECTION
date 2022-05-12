@@ -354,3 +354,4 @@
 - [2022-05-10] Improve detection accuracy
 - [2022-05-10] Update test video clips
 - [2022-05-10] Update test video clips
+- [2022-05-12] Fix model path bug
