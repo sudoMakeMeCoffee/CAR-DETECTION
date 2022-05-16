@@ -355,3 +355,4 @@
 - [2022-05-10] Update test video clips
 - [2022-05-10] Update test video clips
 - [2022-05-12] Fix model path bug
+- [2022-05-16] Update YOLOv5 model files
