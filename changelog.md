@@ -357,3 +357,4 @@
 - [2022-05-12] Fix model path bug
 - [2022-05-16] Update YOLOv5 model files
 - [2022-05-16] Tune confidence threshold
+- [2022-05-16] Update README with usage
