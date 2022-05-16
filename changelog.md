@@ -358,3 +358,4 @@
 - [2022-05-16] Update YOLOv5 model files
 - [2022-05-16] Tune confidence threshold
 - [2022-05-16] Update README with usage
+- [2022-05-16] Fix frame timing issue
