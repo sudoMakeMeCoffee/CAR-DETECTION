@@ -361,3 +361,4 @@
 - [2022-05-16] Fix frame timing issue
 - [2022-05-17] Fix frame timing issue
 - [2022-05-17] Fix model path bug
+- [2022-05-17] Update YOLOv5 model files
