@@ -363,3 +363,4 @@
 - [2022-05-17] Fix model path bug
 - [2022-05-17] Update YOLOv5 model files
 - [2022-05-17] Update README with usage
+- [2022-05-17] Update YOLOv5 model files
