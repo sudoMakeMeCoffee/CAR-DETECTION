@@ -365,3 +365,4 @@
 - [2022-05-17] Update README with usage
 - [2022-05-17] Update YOLOv5 model files
 - [2022-05-18] Tune confidence threshold
+- [2022-05-18] Improve detection accuracy
