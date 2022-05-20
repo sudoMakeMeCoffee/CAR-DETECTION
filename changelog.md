@@ -366,3 +366,4 @@
 - [2022-05-17] Update YOLOv5 model files
 - [2022-05-18] Tune confidence threshold
 - [2022-05-18] Improve detection accuracy
+- [2022-05-20] Add sample inference notebook
