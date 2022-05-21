@@ -371,3 +371,4 @@
 - [2022-05-21] Improve detection accuracy
 - [2022-05-21] Refactor frame extractor
 - [2022-05-21] Tune confidence threshold
+- [2022-05-21] Add sample inference notebook
