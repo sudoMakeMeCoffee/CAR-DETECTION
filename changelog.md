@@ -368,3 +368,4 @@
 - [2022-05-18] Improve detection accuracy
 - [2022-05-20] Add sample inference notebook
 - [2022-05-20] Tune confidence threshold
+- [2022-05-21] Improve detection accuracy
