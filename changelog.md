@@ -373,3 +373,4 @@
 - [2022-05-21] Tune confidence threshold
 - [2022-05-21] Add sample inference notebook
 - [2022-05-22] Fix frame timing issue
+- [2022-05-25] Tune confidence threshold
