@@ -377,3 +377,4 @@
 - [2022-05-25] Update YOLOv5 model files
 - [2022-05-25] Update YOLOv5 model files
 - [2022-05-25] Add vehicle tracking module
+- [2022-05-26] Add preprocessing pipeline
