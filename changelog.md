@@ -383,3 +383,4 @@
 - [2022-05-26] Tune confidence threshold
 - [2022-05-26] Update YOLOv5 model files
 - [2022-05-27] Fix model path bug
+- [2022-05-27] Refactor frame extractor
