@@ -386,3 +386,4 @@
 - [2022-05-27] Refactor frame extractor
 - [2022-05-28] Update YOLOv5 model files
 - [2022-05-28] Refactor frame extractor
+- [2022-05-28] Add vehicle tracking module
