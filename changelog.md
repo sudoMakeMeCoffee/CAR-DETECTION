@@ -390,3 +390,4 @@
 - [2022-05-28] Refactor frame extractor
 - [2022-05-31] Clean unused imports
 - [2022-05-31] Improve detection accuracy
+- [2022-05-31] Refactor frame extractor
