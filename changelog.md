@@ -394,3 +394,4 @@
 - [2022-05-31] Add vehicle tracking module
 - [2022-05-31] Add vehicle tracking module
 - [2022-05-31] Add vehicle tracking module
+- [2022-06-01] Add preprocessing pipeline
