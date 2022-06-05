@@ -399,3 +399,4 @@
 - [2022-06-01] Update test video clips
 - [2022-06-01] Update README with usage
 - [2022-06-01] Fix frame timing issue
+- [2022-06-05] Add vehicle tracking module
