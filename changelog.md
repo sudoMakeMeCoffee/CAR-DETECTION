@@ -401,3 +401,4 @@
 - [2022-06-01] Fix frame timing issue
 - [2022-06-05] Add vehicle tracking module
 - [2022-06-05] Tune confidence threshold
+- [2022-06-05] Fix model path bug
