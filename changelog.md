@@ -407,3 +407,4 @@
 - [2022-06-06] Update YOLOv5 model files
 - [2022-06-06] Add vehicle tracking module
 - [2022-06-08] Refactor frame extractor
+- [2022-06-08] Fix model path bug
