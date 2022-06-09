@@ -410,3 +410,4 @@
 - [2022-06-08] Fix model path bug
 - [2022-06-08] Fix frame timing issue
 - [2022-06-09] Update README with usage
+- [2022-06-09] Add vehicle tracking module
