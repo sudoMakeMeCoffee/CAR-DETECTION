@@ -412,3 +412,4 @@
 - [2022-06-09] Update README with usage
 - [2022-06-09] Add vehicle tracking module
 - [2022-06-12] Add preprocessing pipeline
+- [2022-06-12] Add vehicle tracking module
