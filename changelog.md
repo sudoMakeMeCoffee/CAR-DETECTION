@@ -418,3 +418,4 @@
 - [2022-06-12] Add vehicle tracking module
 - [2022-06-12] Refactor frame extractor
 - [2022-06-16] Update README with usage
+- [2022-06-16] Improve detection accuracy
