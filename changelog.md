@@ -422,3 +422,4 @@
 - [2022-06-18] Update test video clips
 - [2022-06-20] Improve detection accuracy
 - [2022-06-23] Tune confidence threshold
+- [2022-06-23] Update README with usage
