@@ -331,3 +331,8 @@ CONFIDENCE_THRESHOLD = 0.45
 # Commit on 2022-06-12
 # Model tuning params
 CONFIDENCE_THRESHOLD = 0.45
+
+# Commit on 2022-06-23
+# Refactored loop
+for frame in video:
+    detect(frame)
