@@ -427,3 +427,4 @@
 - [2022-06-25] Update YOLOv5 model files
 - [2022-06-25] Add preprocessing pipeline
 - [2022-06-25] Tune confidence threshold
+- [2022-06-25] Tune confidence threshold
