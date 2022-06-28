@@ -340,3 +340,7 @@ for frame in video:
 # Commit on 2022-06-23
 # Added new vehicle classes
 classes = ['car', 'truck', 'bus']
+
+# Commit on 2022-06-28
+# Model tuning params
+CONFIDENCE_THRESHOLD = 0.45
