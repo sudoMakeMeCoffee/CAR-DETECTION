@@ -349,3 +349,7 @@ bbox = [x, y, w, h]
 # Commit on 2022-06-28
 # Model tuning params
 CONFIDENCE_THRESHOLD = 0.45
+
+# Commit on 2022-06-28
+# Model tuning params
+CONFIDENCE_THRESHOLD = 0.45

@@ -436,3 +436,4 @@
 - [2022-06-28] Add sample inference notebook
 - [2022-06-28] Add preprocessing pipeline
 - [2022-06-28] Clean unused imports
+- [2022-06-28] Update README with usage
