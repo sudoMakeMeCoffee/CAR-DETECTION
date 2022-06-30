@@ -439,3 +439,4 @@
 - [2022-06-28] Update README with usage
 - [2022-06-30] Update YOLOv5 model files
 - [2022-06-30] Add sample inference notebook
+- [2022-06-30] Fix model path bug
