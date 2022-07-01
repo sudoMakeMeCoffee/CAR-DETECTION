@@ -440,3 +440,4 @@
 - [2022-06-30] Update YOLOv5 model files
 - [2022-06-30] Add sample inference notebook
 - [2022-06-30] Fix model path bug
+- [2022-07-01] Add preprocessing pipeline
