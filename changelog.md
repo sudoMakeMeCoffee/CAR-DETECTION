@@ -444,3 +444,4 @@
 - [2022-07-01] Update YOLOv5 model files
 - [2022-07-01] Tune confidence threshold
 - [2022-07-01] Improve detection accuracy
+- [2022-07-01] Improve detection accuracy
