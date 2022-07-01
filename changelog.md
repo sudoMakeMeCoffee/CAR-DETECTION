@@ -442,3 +442,4 @@
 - [2022-06-30] Fix model path bug
 - [2022-07-01] Add preprocessing pipeline
 - [2022-07-01] Update YOLOv5 model files
+- [2022-07-01] Tune confidence threshold
