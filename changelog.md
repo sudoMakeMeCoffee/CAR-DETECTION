@@ -445,3 +445,4 @@
 - [2022-07-01] Tune confidence threshold
 - [2022-07-01] Improve detection accuracy
 - [2022-07-01] Improve detection accuracy
+- [2022-07-01] Add preprocessing pipeline
