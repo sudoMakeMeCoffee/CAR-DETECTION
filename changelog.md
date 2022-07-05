@@ -449,3 +449,4 @@
 - [2022-07-04] Improve detection accuracy
 - [2022-07-04] Fix model path bug
 - [2022-07-04] Add vehicle tracking module
+- [2022-07-05] Update README with usage
