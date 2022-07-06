@@ -451,3 +451,4 @@
 - [2022-07-04] Add vehicle tracking module
 - [2022-07-05] Update README with usage
 - [2022-07-06] Refactor frame extractor
+- [2022-07-06] Add preprocessing pipeline
