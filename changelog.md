@@ -453,3 +453,4 @@
 - [2022-07-06] Refactor frame extractor
 - [2022-07-06] Add preprocessing pipeline
 - [2022-07-06] Add sample inference notebook
+- [2022-07-06] Add vehicle tracking module
