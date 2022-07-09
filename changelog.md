@@ -455,3 +455,4 @@
 - [2022-07-06] Add sample inference notebook
 - [2022-07-06] Add vehicle tracking module
 - [2022-07-06] Update YOLOv5 model files
+- [2022-07-09] Add preprocessing pipeline
