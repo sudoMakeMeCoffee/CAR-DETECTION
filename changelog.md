@@ -457,3 +457,4 @@
 - [2022-07-06] Update YOLOv5 model files
 - [2022-07-09] Add preprocessing pipeline
 - [2022-07-09] Update README with usage
+- [2022-07-10] Add vehicle tracking module

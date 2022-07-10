@@ -366,3 +366,8 @@ for frame in video:
 # Commit on 2022-07-04
 # Temporary debug log
 print('DEBUG: frame loaded')
+
+# Commit on 2022-07-10
+# Refactored loop
+for frame in video:
+    detect(frame)
