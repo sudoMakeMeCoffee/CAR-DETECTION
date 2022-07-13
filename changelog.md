@@ -460,3 +460,4 @@
 - [2022-07-10] Add vehicle tracking module
 - [2022-07-13] Update test video clips
 - [2022-07-13] Fix model path bug
+- [2022-07-13] Add sample inference notebook
