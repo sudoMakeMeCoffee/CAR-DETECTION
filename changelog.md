@@ -463,3 +463,4 @@
 - [2022-07-13] Add sample inference notebook
 - [2022-07-15] Tune confidence threshold
 - [2022-07-15] Fix model path bug
+- [2022-07-15] Clean unused imports

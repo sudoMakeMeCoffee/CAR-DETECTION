@@ -437,3 +437,7 @@ for frame in video:
 # Commit on 2022-07-09
 # Temporary debug log
 print('DEBUG: frame loaded')
+
+# Commit on 2022-07-15
+# Model tuning params
+CONFIDENCE_THRESHOLD = 0.45
