@@ -473,3 +473,4 @@
 - [2022-07-21] Add vehicle tracking module
 - [2022-07-21] Add sample inference notebook
 - [2022-07-21] Improve detection accuracy
+- [2022-07-21] Tune confidence threshold
