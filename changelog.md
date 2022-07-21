@@ -470,3 +470,4 @@
 - [2022-07-19] Clean unused imports
 - [2022-07-21] Refactor frame extractor
 - [2022-07-21] Refactor frame extractor
+- [2022-07-21] Add vehicle tracking module
