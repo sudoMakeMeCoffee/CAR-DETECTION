@@ -454,3 +454,7 @@ for frame in video:
 # Commit on 2022-07-28
 # Added bounding box format
 bbox = [x, y, w, h]
+
+# Commit on 2022-07-28
+# Temporary debug log
+print('DEBUG: frame loaded')
