@@ -483,3 +483,4 @@
 - [2022-07-28] Update YOLOv5 model files
 - [2022-07-28] Update README with usage
 - [2022-07-28] Update YOLOv5 model files
+- [2022-07-28] Add vehicle tracking module
