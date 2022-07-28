@@ -482,3 +482,4 @@
 - [2022-07-22] Add preprocessing pipeline
 - [2022-07-28] Update YOLOv5 model files
 - [2022-07-28] Update README with usage
+- [2022-07-28] Update YOLOv5 model files
