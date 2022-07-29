@@ -486,3 +486,4 @@
 - [2022-07-28] Add vehicle tracking module
 - [2022-07-28] Update test video clips
 - [2022-07-28] Add vehicle tracking module
+- [2022-07-29] Fix frame timing issue
