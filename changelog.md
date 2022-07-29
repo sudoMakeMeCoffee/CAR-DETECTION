@@ -490,3 +490,4 @@
 - [2022-07-29] Add sample inference notebook
 - [2022-07-29] Add vehicle tracking module
 - [2022-07-29] Fix model path bug
+- [2022-07-29] Improve detection accuracy
