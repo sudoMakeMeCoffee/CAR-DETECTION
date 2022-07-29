@@ -489,3 +489,4 @@
 - [2022-07-29] Fix frame timing issue
 - [2022-07-29] Add sample inference notebook
 - [2022-07-29] Add vehicle tracking module
+- [2022-07-29] Fix model path bug
