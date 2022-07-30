@@ -492,3 +492,4 @@
 - [2022-07-29] Fix model path bug
 - [2022-07-29] Improve detection accuracy
 - [2022-07-30] Refactor frame extractor
+- [2022-07-30] Add sample inference notebook
