@@ -493,3 +493,4 @@
 - [2022-07-29] Improve detection accuracy
 - [2022-07-30] Refactor frame extractor
 - [2022-07-30] Add sample inference notebook
+- [2022-07-30] Update YOLOv5 model files
