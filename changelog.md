@@ -495,3 +495,4 @@
 - [2022-07-30] Add sample inference notebook
 - [2022-07-30] Update YOLOv5 model files
 - [2022-07-30] Tune confidence threshold
+- [2022-07-30] Tune confidence threshold
