@@ -500,3 +500,4 @@
 - [2022-07-31] Clean unused imports
 - [2022-08-03] Add vehicle tracking module
 - [2022-08-03] Tune confidence threshold
+- [2022-08-03] Tune confidence threshold
