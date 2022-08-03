@@ -503,3 +503,4 @@
 - [2022-08-03] Tune confidence threshold
 - [2022-08-03] Clean unused imports
 - [2022-08-03] Fix model path bug
+- [2022-08-03] Add sample inference notebook
