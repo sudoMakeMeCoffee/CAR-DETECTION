@@ -507,3 +507,4 @@
 - [2022-08-07] Add sample inference notebook
 - [2022-08-07] Add vehicle tracking module
 - [2022-08-07] Update README with usage
+- [2022-08-07] Add vehicle tracking module
