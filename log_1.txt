@@ -430,3 +430,7 @@ print('DEBUG: frame loaded')
 # Commit on 2022-08-07
 # Temporary debug log
 print('DEBUG: frame loaded')
+
+# Commit on 2022-08-08
+# Added new vehicle classes
+classes = ['car', 'truck', 'bus']
