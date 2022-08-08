@@ -514,3 +514,4 @@
 - [2022-08-08] Add vehicle tracking module
 - [2022-08-08] Fix frame timing issue
 - [2022-08-08] Fix model path bug
+- [2022-08-08] Fix model path bug
