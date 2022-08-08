@@ -511,3 +511,4 @@
 - [2022-08-07] Improve detection accuracy
 - [2022-08-08] Clean unused imports
 - [2022-08-08] Improve detection accuracy
+- [2022-08-08] Add vehicle tracking module
