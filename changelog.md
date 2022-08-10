@@ -515,3 +515,4 @@
 - [2022-08-08] Fix frame timing issue
 - [2022-08-08] Fix model path bug
 - [2022-08-08] Fix model path bug
+- [2022-08-10] Add preprocessing pipeline
