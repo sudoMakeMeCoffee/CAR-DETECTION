@@ -516,3 +516,4 @@
 - [2022-08-08] Fix model path bug
 - [2022-08-08] Fix model path bug
 - [2022-08-10] Add preprocessing pipeline
+- [2022-08-13] Update test video clips
