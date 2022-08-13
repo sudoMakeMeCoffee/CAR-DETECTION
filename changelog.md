@@ -519,3 +519,4 @@
 - [2022-08-13] Update test video clips
 - [2022-08-13] Update test video clips
 - [2022-08-13] Refactor frame extractor
+- [2022-08-13] Improve detection accuracy
