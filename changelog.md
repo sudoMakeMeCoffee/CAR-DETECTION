@@ -522,3 +522,4 @@
 - [2022-08-13] Improve detection accuracy
 - [2022-08-13] Clean unused imports
 - [2022-08-13] Update test video clips
+- [2022-08-14] Update test video clips
