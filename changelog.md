@@ -525,3 +525,4 @@
 - [2022-08-14] Update test video clips
 - [2022-08-14] Refactor frame extractor
 - [2022-08-14] Fix frame timing issue
+- [2022-08-14] Tune confidence threshold
