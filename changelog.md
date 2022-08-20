@@ -533,3 +533,4 @@
 - [2022-08-20] Update README with usage
 - [2022-08-20] Add vehicle tracking module
 - [2022-08-20] Improve detection accuracy
+- [2022-08-20] Update README with usage
