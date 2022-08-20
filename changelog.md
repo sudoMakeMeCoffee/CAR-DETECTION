@@ -530,3 +530,4 @@
 - [2022-08-16] Improve detection accuracy
 - [2022-08-16] Improve detection accuracy
 - [2022-08-16] Clean unused imports
+- [2022-08-20] Update README with usage
