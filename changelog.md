@@ -535,3 +535,4 @@
 - [2022-08-20] Improve detection accuracy
 - [2022-08-20] Update README with usage
 - [2022-08-20] Fix frame timing issue
+- [2022-08-20] Add sample inference notebook
