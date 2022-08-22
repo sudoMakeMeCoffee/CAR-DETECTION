@@ -536,3 +536,4 @@
 - [2022-08-20] Update README with usage
 - [2022-08-20] Fix frame timing issue
 - [2022-08-20] Add sample inference notebook
+- [2022-08-22] Fix frame timing issue
