@@ -542,3 +542,4 @@
 - [2022-08-27] Tune confidence threshold
 - [2022-08-29] Add preprocessing pipeline
 - [2022-08-29] Improve detection accuracy
+- [2022-08-29] Tune confidence threshold
