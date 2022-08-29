@@ -541,3 +541,4 @@
 - [2022-08-22] Update README with usage
 - [2022-08-27] Tune confidence threshold
 - [2022-08-29] Add preprocessing pipeline
+- [2022-08-29] Improve detection accuracy
