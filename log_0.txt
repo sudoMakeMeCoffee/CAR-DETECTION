@@ -511,3 +511,7 @@ CONFIDENCE_THRESHOLD = 0.45
 # Commit on 2022-08-31
 # Model tuning params
 CONFIDENCE_THRESHOLD = 0.45
+
+# Commit on 2022-08-31
+# Added new vehicle classes
+classes = ['car', 'truck', 'bus']
