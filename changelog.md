@@ -550,3 +550,4 @@
 - [2022-08-31] Update README with usage
 - [2022-08-31] Fix model path bug
 - [2022-08-31] Tune confidence threshold
+- [2022-08-31] Update YOLOv5 model files
