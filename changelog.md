@@ -552,3 +552,4 @@
 - [2022-08-31] Tune confidence threshold
 - [2022-08-31] Update YOLOv5 model files
 - [2022-09-01] Clean unused imports
+- [2022-09-02] Fix model path bug
