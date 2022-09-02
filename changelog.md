@@ -554,3 +554,4 @@
 - [2022-09-01] Clean unused imports
 - [2022-09-02] Fix model path bug
 - [2022-09-02] Add vehicle tracking module
+- [2022-09-02] Update YOLOv5 model files
