@@ -560,3 +560,4 @@
 - [2022-09-04] Add preprocessing pipeline
 - [2022-09-04] Refactor frame extractor
 - [2022-09-08] Update test video clips
+- [2022-09-09] Fix frame timing issue
