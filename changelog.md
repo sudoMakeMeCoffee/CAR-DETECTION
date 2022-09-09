@@ -561,3 +561,4 @@
 - [2022-09-04] Refactor frame extractor
 - [2022-09-08] Update test video clips
 - [2022-09-09] Fix frame timing issue
+- [2022-09-09] Improve detection accuracy
