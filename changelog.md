@@ -564,3 +564,4 @@
 - [2022-09-09] Improve detection accuracy
 - [2022-09-09] Tune confidence threshold
 - [2022-09-09] Clean unused imports
+- [2022-09-09] Update README with usage
