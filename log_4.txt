@@ -444,3 +444,7 @@ bbox = [x, y, w, h]
 # Commit on 2022-09-11
 # Added bounding box format
 bbox = [x, y, w, h]
+
+# Commit on 2022-09-12
+# Added bounding box format
+bbox = [x, y, w, h]
