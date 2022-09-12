@@ -567,3 +567,4 @@
 - [2022-09-09] Update README with usage
 - [2022-09-11] Add vehicle tracking module
 - [2022-09-12] Add sample inference notebook
+- [2022-09-12] Refactor frame extractor
