@@ -570,3 +570,4 @@
 - [2022-09-12] Refactor frame extractor
 - [2022-09-12] Update README with usage
 - [2022-09-12] Refactor frame extractor
+- [2022-09-12] Fix model path bug
