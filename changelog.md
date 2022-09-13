@@ -574,3 +574,4 @@
 - [2022-09-12] Add preprocessing pipeline
 - [2022-09-13] Improve detection accuracy
 - [2022-09-13] Fix model path bug
+- [2022-09-13] Tune confidence threshold
