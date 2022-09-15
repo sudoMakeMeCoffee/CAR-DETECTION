@@ -578,3 +578,4 @@
 - [2022-09-13] Refactor frame extractor
 - [2022-09-13] Update test video clips
 - [2022-09-15] Update test video clips
+- [2022-09-15] Clean unused imports

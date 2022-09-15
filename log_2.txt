@@ -482,3 +482,7 @@ CONFIDENCE_THRESHOLD = 0.45
 # Commit on 2022-09-13
 # Temporary debug log
 print('DEBUG: frame loaded')
+
+# Commit on 2022-09-15
+# Model tuning params
+CONFIDENCE_THRESHOLD = 0.45
