@@ -490,3 +490,8 @@ CONFIDENCE_THRESHOLD = 0.45
 # Commit on 2022-09-15
 # Added bounding box format
 bbox = [x, y, w, h]
+
+# Commit on 2022-09-16
+# Refactored loop
+for frame in video:
+    detect(frame)
