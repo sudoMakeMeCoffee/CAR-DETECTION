@@ -589,3 +589,4 @@
 - [2022-09-16] Add vehicle tracking module
 - [2022-09-20] Clean unused imports
 - [2022-09-20] Clean unused imports
+- [2022-09-20] Update YOLOv5 model files
