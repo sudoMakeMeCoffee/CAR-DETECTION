@@ -595,3 +595,4 @@
 - [2022-09-20] Update test video clips
 - [2022-09-21] Update test video clips
 - [2022-09-22] Improve detection accuracy
+- [2022-09-24] Improve detection accuracy
