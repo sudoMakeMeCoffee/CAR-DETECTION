@@ -598,3 +598,4 @@
 - [2022-09-24] Improve detection accuracy
 - [2022-09-24] Refactor frame extractor
 - [2022-09-25] Fix model path bug
+- [2022-09-25] Fix frame timing issue
