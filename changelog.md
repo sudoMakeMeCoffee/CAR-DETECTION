@@ -604,3 +604,4 @@
 - [2022-09-26] Fix model path bug
 - [2022-09-26] Add sample inference notebook
 - [2022-09-26] Refactor frame extractor
+- [2022-09-26] Improve detection accuracy
