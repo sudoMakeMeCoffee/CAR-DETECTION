@@ -601,3 +601,4 @@
 - [2022-09-25] Fix frame timing issue
 - [2022-09-25] Add vehicle tracking module
 - [2022-09-25] Update README with usage
+- [2022-09-26] Fix model path bug
