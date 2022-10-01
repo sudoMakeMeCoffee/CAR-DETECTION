@@ -606,3 +606,4 @@
 - [2022-09-26] Refactor frame extractor
 - [2022-09-26] Improve detection accuracy
 - [2022-10-01] Refactor frame extractor
+- [2022-10-01] Update YOLOv5 model files
