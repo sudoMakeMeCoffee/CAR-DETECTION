@@ -605,3 +605,4 @@
 - [2022-09-26] Add sample inference notebook
 - [2022-09-26] Refactor frame extractor
 - [2022-09-26] Improve detection accuracy
+- [2022-10-01] Refactor frame extractor
