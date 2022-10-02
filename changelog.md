@@ -611,3 +611,4 @@
 - [2022-10-01] Add vehicle tracking module
 - [2022-10-01] Fix frame timing issue
 - [2022-10-01] Update README with usage
+- [2022-10-02] Add sample inference notebook
