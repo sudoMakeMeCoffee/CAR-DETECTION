@@ -612,3 +612,4 @@
 - [2022-10-01] Fix frame timing issue
 - [2022-10-01] Update README with usage
 - [2022-10-02] Add sample inference notebook
+- [2022-10-03] Tune confidence threshold
