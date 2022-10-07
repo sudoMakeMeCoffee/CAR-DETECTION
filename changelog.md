@@ -621,3 +621,4 @@
 - [2022-10-05] Update test video clips
 - [2022-10-05] Update YOLOv5 model files
 - [2022-10-05] Fix model path bug
+- [2022-10-07] Tune confidence threshold
