@@ -625,3 +625,4 @@
 - [2022-10-07] Update README with usage
 - [2022-10-07] Refactor frame extractor
 - [2022-10-07] Fix frame timing issue
+- [2022-10-07] Fix model path bug
