@@ -623,3 +623,4 @@
 - [2022-10-05] Fix model path bug
 - [2022-10-07] Tune confidence threshold
 - [2022-10-07] Update README with usage
+- [2022-10-07] Refactor frame extractor
