@@ -477,3 +477,7 @@ classes = ['car', 'truck', 'bus']
 # Commit on 2022-10-05
 # Model tuning params
 CONFIDENCE_THRESHOLD = 0.45
+
+# Commit on 2022-10-07
+# Model tuning params
+CONFIDENCE_THRESHOLD = 0.45
