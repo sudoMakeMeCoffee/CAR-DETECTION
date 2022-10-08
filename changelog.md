@@ -630,3 +630,4 @@
 - [2022-10-08] Fix frame timing issue
 - [2022-10-08] Improve detection accuracy
 - [2022-10-08] Add vehicle tracking module
+- [2022-10-08] Add sample inference notebook
