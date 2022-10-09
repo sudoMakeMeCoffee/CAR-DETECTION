@@ -636,3 +636,4 @@
 - [2022-10-09] Refactor frame extractor
 - [2022-10-09] Clean unused imports
 - [2022-10-09] Refactor frame extractor
+- [2022-10-09] Fix model path bug
