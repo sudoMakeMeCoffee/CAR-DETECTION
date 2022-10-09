@@ -633,3 +633,4 @@
 - [2022-10-08] Add sample inference notebook
 - [2022-10-08] Update test video clips
 - [2022-10-08] Refactor frame extractor
+- [2022-10-09] Refactor frame extractor
