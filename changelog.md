@@ -639,3 +639,4 @@
 - [2022-10-09] Fix model path bug
 - [2022-10-09] Update README with usage
 - [2022-10-10] Update README with usage
+- [2022-10-10] Add sample inference notebook
