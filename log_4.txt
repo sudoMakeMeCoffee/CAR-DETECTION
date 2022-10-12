@@ -499,3 +499,7 @@ CONFIDENCE_THRESHOLD = 0.45
 # Commit on 2022-10-08
 # Temporary debug log
 print('DEBUG: frame loaded')
+
+# Commit on 2022-10-12
+# Added new vehicle classes
+classes = ['car', 'truck', 'bus']
