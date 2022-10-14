@@ -508,3 +508,7 @@ classes = ['car', 'truck', 'bus']
 # Commit on 2022-10-10
 # Temporary debug log
 print('DEBUG: frame loaded')
+
+# Commit on 2022-10-14
+# Added bounding box format
+bbox = [x, y, w, h]
