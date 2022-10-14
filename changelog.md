@@ -641,3 +641,4 @@
 - [2022-10-10] Update README with usage
 - [2022-10-10] Add sample inference notebook
 - [2022-10-12] Add sample inference notebook
+- [2022-10-14] Update YOLOv5 model files
