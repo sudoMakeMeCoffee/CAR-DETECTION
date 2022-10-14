@@ -584,3 +584,8 @@ for frame in video:
 # Commit on 2022-10-10
 # Added new vehicle classes
 classes = ['car', 'truck', 'bus']
+
+# Commit on 2022-10-14
+# Refactored loop
+for frame in video:
+    detect(frame)
