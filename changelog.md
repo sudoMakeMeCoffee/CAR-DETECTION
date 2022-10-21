@@ -644,3 +644,4 @@
 - [2022-10-14] Update YOLOv5 model files
 - [2022-10-14] Add preprocessing pipeline
 - [2022-10-14] Add vehicle tracking module
+- [2022-10-21] Tune confidence threshold
