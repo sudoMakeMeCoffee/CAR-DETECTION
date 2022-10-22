@@ -653,3 +653,4 @@
 - [2022-10-22] Add vehicle tracking module
 - [2022-10-22] Update README with usage
 - [2022-10-22] Add sample inference notebook
+- [2022-10-22] Fix model path bug
