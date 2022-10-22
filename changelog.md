@@ -651,3 +651,4 @@
 - [2022-10-21] Update test video clips
 - [2022-10-22] Add preprocessing pipeline
 - [2022-10-22] Add vehicle tracking module
+- [2022-10-22] Update README with usage
