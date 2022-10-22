@@ -649,3 +649,4 @@
 - [2022-10-21] Add preprocessing pipeline
 - [2022-10-21] Improve detection accuracy
 - [2022-10-21] Update test video clips
+- [2022-10-22] Add preprocessing pipeline
