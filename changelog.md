@@ -655,3 +655,4 @@
 - [2022-10-22] Add sample inference notebook
 - [2022-10-22] Fix model path bug
 - [2022-10-23] Update README with usage
+- [2022-10-23] Fix model path bug
