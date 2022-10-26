@@ -660,3 +660,4 @@
 - [2022-10-23] Add vehicle tracking module
 - [2022-10-26] Fix model path bug
 - [2022-10-26] Add sample inference notebook
+- [2022-10-26] Fix frame timing issue
