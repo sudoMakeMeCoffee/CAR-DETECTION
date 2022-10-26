@@ -658,3 +658,4 @@
 - [2022-10-23] Fix model path bug
 - [2022-10-23] Fix model path bug
 - [2022-10-23] Add vehicle tracking module
+- [2022-10-26] Fix model path bug
