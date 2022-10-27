@@ -667,3 +667,4 @@
 - [2022-10-27] Fix model path bug
 - [2022-10-27] Refactor frame extractor
 - [2022-10-27] Improve detection accuracy
+- [2022-10-27] Tune confidence threshold
