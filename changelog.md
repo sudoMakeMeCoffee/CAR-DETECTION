@@ -664,3 +664,4 @@
 - [2022-10-26] Add sample inference notebook
 - [2022-10-26] Clean unused imports
 - [2022-10-26] Update README with usage
+- [2022-10-27] Fix model path bug
