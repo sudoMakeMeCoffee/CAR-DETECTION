@@ -668,3 +668,4 @@
 - [2022-10-27] Refactor frame extractor
 - [2022-10-27] Improve detection accuracy
 - [2022-10-27] Tune confidence threshold
+- [2022-10-27] Add preprocessing pipeline
