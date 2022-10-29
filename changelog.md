@@ -670,3 +670,4 @@
 - [2022-10-27] Tune confidence threshold
 - [2022-10-27] Add preprocessing pipeline
 - [2022-10-29] Fix model path bug
+- [2022-10-29] Update README with usage
