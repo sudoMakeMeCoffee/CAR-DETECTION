@@ -673,3 +673,4 @@
 - [2022-10-29] Update README with usage
 - [2022-10-30] Clean unused imports
 - [2022-10-30] Fix model path bug
+- [2022-10-30] Update README with usage
