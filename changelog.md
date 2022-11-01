@@ -676,3 +676,4 @@
 - [2022-10-30] Update README with usage
 - [2022-10-30] Fix model path bug
 - [2022-11-01] Fix frame timing issue
+- [2022-11-01] Add sample inference notebook
