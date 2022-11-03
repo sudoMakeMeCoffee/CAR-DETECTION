@@ -679,3 +679,4 @@
 - [2022-11-01] Add sample inference notebook
 - [2022-11-01] Add preprocessing pipeline
 - [2022-11-01] Add sample inference notebook
+- [2022-11-03] Refactor frame extractor
