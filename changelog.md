@@ -681,3 +681,4 @@
 - [2022-11-01] Add sample inference notebook
 - [2022-11-03] Refactor frame extractor
 - [2022-11-03] Update YOLOv5 model files
+- [2022-11-03] Add preprocessing pipeline
