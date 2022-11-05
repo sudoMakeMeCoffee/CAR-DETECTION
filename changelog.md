@@ -682,3 +682,4 @@
 - [2022-11-03] Refactor frame extractor
 - [2022-11-03] Update YOLOv5 model files
 - [2022-11-03] Add preprocessing pipeline
+- [2022-11-05] Update README with usage
