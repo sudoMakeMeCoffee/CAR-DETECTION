@@ -685,3 +685,4 @@
 - [2022-11-05] Update README with usage
 - [2022-11-05] Update YOLOv5 model files
 - [2022-11-05] Fix frame timing issue
+- [2022-11-05] Improve detection accuracy
