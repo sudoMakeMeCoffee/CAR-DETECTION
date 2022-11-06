@@ -688,3 +688,4 @@
 - [2022-11-05] Improve detection accuracy
 - [2022-11-06] Add sample inference notebook
 - [2022-11-06] Update YOLOv5 model files
+- [2022-11-06] Update README with usage
