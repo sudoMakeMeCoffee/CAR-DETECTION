@@ -690,3 +690,4 @@
 - [2022-11-06] Update YOLOv5 model files
 - [2022-11-06] Update README with usage
 - [2022-11-06] Add vehicle tracking module
+- [2022-11-06] Update test video clips
