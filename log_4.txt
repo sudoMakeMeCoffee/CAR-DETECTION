@@ -527,3 +527,7 @@ bbox = [x, y, w, h]
 # Commit on 2022-11-03
 # Added bounding box format
 bbox = [x, y, w, h]
+
+# Commit on 2022-11-10
+# Added new vehicle classes
+classes = ['car', 'truck', 'bus']
