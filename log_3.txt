@@ -521,3 +521,7 @@ bbox = [x, y, w, h]
 # Commit on 2022-11-05
 # Added new vehicle classes
 classes = ['car', 'truck', 'bus']
+
+# Commit on 2022-11-10
+# Temporary debug log
+print('DEBUG: frame loaded')
