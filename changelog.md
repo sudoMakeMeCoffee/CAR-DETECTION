@@ -699,3 +699,4 @@
 - [2022-11-10] Fix frame timing issue
 - [2022-11-11] Tune confidence threshold
 - [2022-11-11] Update YOLOv5 model files
+- [2022-11-11] Add sample inference notebook
