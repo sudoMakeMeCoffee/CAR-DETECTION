@@ -702,3 +702,4 @@
 - [2022-11-11] Add sample inference notebook
 - [2022-11-12] Fix frame timing issue
 - [2022-11-12] Improve detection accuracy
+- [2022-11-12] Improve detection accuracy
