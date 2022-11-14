@@ -710,3 +710,4 @@
 - [2022-11-14] Update YOLOv5 model files
 - [2022-11-14] Add preprocessing pipeline
 - [2022-11-14] Fix model path bug
+- [2022-11-14] Improve detection accuracy
