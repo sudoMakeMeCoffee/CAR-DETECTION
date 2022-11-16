@@ -712,3 +712,4 @@
 - [2022-11-14] Fix model path bug
 - [2022-11-14] Improve detection accuracy
 - [2022-11-16] Improve detection accuracy
+- [2022-11-16] Tune confidence threshold
