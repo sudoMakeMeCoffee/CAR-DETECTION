@@ -711,3 +711,4 @@
 - [2022-11-14] Add preprocessing pipeline
 - [2022-11-14] Fix model path bug
 - [2022-11-14] Improve detection accuracy
+- [2022-11-16] Improve detection accuracy
