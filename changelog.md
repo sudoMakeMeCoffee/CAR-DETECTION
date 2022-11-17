@@ -717,3 +717,4 @@
 - [2022-11-17] Add preprocessing pipeline
 - [2022-11-17] Update README with usage
 - [2022-11-17] Update test video clips
+- [2022-11-17] Update test video clips
