@@ -715,3 +715,4 @@
 - [2022-11-16] Tune confidence threshold
 - [2022-11-17] Fix frame timing issue
 - [2022-11-17] Add preprocessing pipeline
+- [2022-11-17] Update README with usage
