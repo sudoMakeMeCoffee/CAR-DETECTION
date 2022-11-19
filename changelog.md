@@ -721,3 +721,4 @@
 - [2022-11-19] Update README with usage
 - [2022-11-19] Update YOLOv5 model files
 - [2022-11-19] Refactor frame extractor
+- [2022-11-19] Fix frame timing issue
