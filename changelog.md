@@ -724,3 +724,4 @@
 - [2022-11-19] Fix frame timing issue
 - [2022-11-19] Add vehicle tracking module
 - [2022-11-20] Fix frame timing issue
+- [2022-11-20] Add preprocessing pipeline
