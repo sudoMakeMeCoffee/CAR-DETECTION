@@ -727,3 +727,4 @@
 - [2022-11-20] Add preprocessing pipeline
 - [2022-11-20] Refactor frame extractor
 - [2022-11-20] Add preprocessing pipeline
+- [2022-11-20] Add vehicle tracking module
