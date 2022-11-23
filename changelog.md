@@ -730,3 +730,4 @@
 - [2022-11-20] Add vehicle tracking module
 - [2022-11-22] Update test video clips
 - [2022-11-22] Fix frame timing issue
+- [2022-11-23] Tune confidence threshold
