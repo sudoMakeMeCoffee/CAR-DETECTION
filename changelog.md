@@ -732,3 +732,4 @@
 - [2022-11-22] Fix frame timing issue
 - [2022-11-23] Tune confidence threshold
 - [2022-11-24] Improve detection accuracy
+- [2022-11-24] Tune confidence threshold
