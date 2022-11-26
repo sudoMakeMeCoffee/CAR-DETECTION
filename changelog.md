@@ -736,3 +736,4 @@
 - [2022-11-24] Add preprocessing pipeline
 - [2022-11-24] Refactor frame extractor
 - [2022-11-24] Add vehicle tracking module
+- [2022-11-26] Fix model path bug
