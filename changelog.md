@@ -743,3 +743,4 @@
 - [2022-12-02] Update YOLOv5 model files
 - [2022-12-02] Update test video clips
 - [2022-12-02] Add preprocessing pipeline
+- [2022-12-02] Add sample inference notebook
