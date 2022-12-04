@@ -747,3 +747,4 @@
 - [2022-12-04] Fix model path bug
 - [2022-12-04] Fix model path bug
 - [2022-12-04] Update README with usage
+- [2022-12-04] Update README with usage
