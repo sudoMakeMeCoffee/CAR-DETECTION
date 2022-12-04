@@ -744,3 +744,4 @@
 - [2022-12-02] Update test video clips
 - [2022-12-02] Add preprocessing pipeline
 - [2022-12-02] Add sample inference notebook
+- [2022-12-04] Fix model path bug
