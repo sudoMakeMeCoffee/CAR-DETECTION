@@ -751,3 +751,4 @@
 - [2022-12-04] Improve detection accuracy
 - [2022-12-05] Fix model path bug
 - [2022-12-05] Fix frame timing issue
+- [2022-12-05] Fix model path bug
