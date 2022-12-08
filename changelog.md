@@ -755,3 +755,4 @@
 - [2022-12-08] Improve detection accuracy
 - [2022-12-08] Add vehicle tracking module
 - [2022-12-08] Fix model path bug
+- [2022-12-08] Refactor frame extractor
