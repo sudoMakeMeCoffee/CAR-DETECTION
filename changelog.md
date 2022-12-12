@@ -760,3 +760,4 @@
 - [2022-12-10] Update README with usage
 - [2022-12-12] Refactor frame extractor
 - [2022-12-12] Clean unused imports
+- [2022-12-12] Add sample inference notebook
