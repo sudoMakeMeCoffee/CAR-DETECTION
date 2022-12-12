@@ -758,3 +758,4 @@
 - [2022-12-08] Refactor frame extractor
 - [2022-12-10] Update test video clips
 - [2022-12-10] Update README with usage
+- [2022-12-12] Refactor frame extractor
