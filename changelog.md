@@ -761,3 +761,4 @@
 - [2022-12-12] Refactor frame extractor
 - [2022-12-12] Clean unused imports
 - [2022-12-12] Add sample inference notebook
+- [2022-12-14] Refactor frame extractor
