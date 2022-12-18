@@ -571,3 +571,7 @@ classes = ['car', 'truck', 'bus']
 # Commit on 2022-12-12
 # Added new vehicle classes
 classes = ['car', 'truck', 'bus']
+
+# Commit on 2022-12-18
+# Model tuning params
+CONFIDENCE_THRESHOLD = 0.45
