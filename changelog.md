@@ -765,3 +765,4 @@
 - [2022-12-14] Improve detection accuracy
 - [2022-12-14] Add vehicle tracking module
 - [2022-12-18] Add vehicle tracking module
+- [2022-12-20] Fix frame timing issue
