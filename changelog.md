@@ -771,3 +771,4 @@
 - [2022-12-21] Add sample inference notebook
 - [2022-12-22] Improve detection accuracy
 - [2022-12-23] Fix model path bug
+- [2022-12-26] Add preprocessing pipeline
