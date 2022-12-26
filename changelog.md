@@ -773,3 +773,4 @@
 - [2022-12-23] Fix model path bug
 - [2022-12-26] Add preprocessing pipeline
 - [2022-12-26] Update YOLOv5 model files
+- [2022-12-26] Improve detection accuracy
