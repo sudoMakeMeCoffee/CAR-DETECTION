@@ -775,3 +775,4 @@
 - [2022-12-26] Update YOLOv5 model files
 - [2022-12-26] Improve detection accuracy
 - [2022-12-26] Fix model path bug
+- [2022-12-26] Add vehicle tracking module
