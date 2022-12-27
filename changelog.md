@@ -778,3 +778,4 @@
 - [2022-12-26] Add vehicle tracking module
 - [2022-12-26] Refactor frame extractor
 - [2022-12-27] Update README with usage
+- [2022-12-27] Update test video clips
