@@ -784,3 +784,4 @@
 - [2022-12-27] Add sample inference notebook
 - [2022-12-27] Update README with usage
 - [2022-12-30] Update YOLOv5 model files
+- [2023-01-03] Clean unused imports
