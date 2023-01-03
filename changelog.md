@@ -786,3 +786,4 @@
 - [2022-12-30] Update YOLOv5 model files
 - [2023-01-03] Clean unused imports
 - [2023-01-03] Tune confidence threshold
+- [2023-01-03] Refactor frame extractor
