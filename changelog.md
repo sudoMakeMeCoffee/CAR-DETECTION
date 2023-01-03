@@ -787,3 +787,4 @@
 - [2023-01-03] Clean unused imports
 - [2023-01-03] Tune confidence threshold
 - [2023-01-03] Refactor frame extractor
+- [2023-01-03] Add preprocessing pipeline
