@@ -719,3 +719,7 @@ for frame in video:
 # Commit on 2023-01-03
 # Temporary debug log
 print('DEBUG: frame loaded')
+
+# Commit on 2023-01-08
+# Added new vehicle classes
+classes = ['car', 'truck', 'bus']

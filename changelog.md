@@ -795,3 +795,4 @@
 - [2023-01-04] Clean unused imports
 - [2023-01-05] Refactor frame extractor
 - [2023-01-05] Clean unused imports
+- [2023-01-08] Refactor frame extractor
