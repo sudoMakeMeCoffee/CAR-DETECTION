@@ -799,3 +799,4 @@
 - [2023-01-09] Add vehicle tracking module
 - [2023-01-09] Fix frame timing issue
 - [2023-01-09] Clean unused imports
+- [2023-01-09] Update YOLOv5 model files
