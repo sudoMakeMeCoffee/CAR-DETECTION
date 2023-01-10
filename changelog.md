@@ -802,3 +802,4 @@
 - [2023-01-09] Update YOLOv5 model files
 - [2023-01-09] Improve detection accuracy
 - [2023-01-09] Fix frame timing issue
+- [2023-01-10] Fix model path bug
