@@ -808,3 +808,4 @@
 - [2023-01-11] Improve detection accuracy
 - [2023-01-12] Update README with usage
 - [2023-01-12] Add preprocessing pipeline
+- [2023-01-12] Refactor frame extractor
