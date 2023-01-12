@@ -811,3 +811,4 @@
 - [2023-01-12] Refactor frame extractor
 - [2023-01-12] Tune confidence threshold
 - [2023-01-12] Tune confidence threshold
+- [2023-01-12] Update README with usage
