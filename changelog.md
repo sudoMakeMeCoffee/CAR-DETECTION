@@ -812,3 +812,4 @@
 - [2023-01-12] Tune confidence threshold
 - [2023-01-12] Tune confidence threshold
 - [2023-01-12] Update README with usage
+- [2023-01-13] Add vehicle tracking module
