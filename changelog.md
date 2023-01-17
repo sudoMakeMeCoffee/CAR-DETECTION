@@ -816,3 +816,4 @@
 - [2023-01-13] Improve detection accuracy
 - [2023-01-13] Add vehicle tracking module
 - [2023-01-13] Update README with usage
+- [2023-01-17] Update README with usage
