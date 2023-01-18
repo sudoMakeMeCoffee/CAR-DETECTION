@@ -826,3 +826,4 @@
 - [2023-01-18] Update test video clips
 - [2023-01-18] Refactor frame extractor
 - [2023-01-18] Fix frame timing issue
+- [2023-01-18] Add preprocessing pipeline
