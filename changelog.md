@@ -830,3 +830,4 @@
 - [2023-01-23] Refactor frame extractor
 - [2023-01-23] Refactor frame extractor
 - [2023-01-23] Improve detection accuracy
+- [2023-01-23] Refactor frame extractor
