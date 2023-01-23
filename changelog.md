@@ -829,3 +829,4 @@
 - [2023-01-18] Add preprocessing pipeline
 - [2023-01-23] Refactor frame extractor
 - [2023-01-23] Refactor frame extractor
+- [2023-01-23] Improve detection accuracy
