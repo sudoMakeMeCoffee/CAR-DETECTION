@@ -841,3 +841,4 @@
 - [2023-01-25] Clean unused imports
 - [2023-01-25] Update test video clips
 - [2023-01-25] Refactor frame extractor
+- [2023-01-25] Fix frame timing issue
