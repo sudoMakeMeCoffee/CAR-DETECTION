@@ -837,3 +837,4 @@
 - [2023-01-24] Add preprocessing pipeline
 - [2023-01-24] Add vehicle tracking module
 - [2023-01-25] Add sample inference notebook
+- [2023-01-25] Tune confidence threshold
