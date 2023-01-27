@@ -847,3 +847,4 @@
 - [2023-01-27] Refactor frame extractor
 - [2023-01-27] Fix frame timing issue
 - [2023-01-27] Add vehicle tracking module
+- [2023-01-27] Refactor frame extractor
