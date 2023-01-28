@@ -850,3 +850,4 @@
 - [2023-01-27] Refactor frame extractor
 - [2023-01-28] Improve detection accuracy
 - [2023-01-28] Add vehicle tracking module
+- [2023-01-28] Clean unused imports
