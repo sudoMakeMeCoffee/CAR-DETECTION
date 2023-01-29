@@ -853,3 +853,4 @@
 - [2023-01-28] Clean unused imports
 - [2023-01-29] Update YOLOv5 model files
 - [2023-01-29] Add preprocessing pipeline
+- [2023-01-29] Update README with usage
