@@ -857,3 +857,4 @@
 - [2023-02-01] Fix frame timing issue
 - [2023-02-01] Update README with usage
 - [2023-02-01] Update README with usage
+- [2023-02-01] Add sample inference notebook
