@@ -859,3 +859,4 @@
 - [2023-02-01] Update README with usage
 - [2023-02-01] Add sample inference notebook
 - [2023-02-02] Improve detection accuracy
+- [2023-02-02] Clean unused imports
