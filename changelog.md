@@ -860,3 +860,4 @@
 - [2023-02-01] Add sample inference notebook
 - [2023-02-02] Improve detection accuracy
 - [2023-02-02] Clean unused imports
+- [2023-02-04] Improve detection accuracy
