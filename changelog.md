@@ -864,3 +864,4 @@
 - [2023-02-04] Clean unused imports
 - [2023-02-04] Clean unused imports
 - [2023-02-06] Add sample inference notebook
+- [2023-02-06] Update YOLOv5 model files
