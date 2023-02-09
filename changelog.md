@@ -871,3 +871,4 @@
 - [2023-02-08] Fix frame timing issue
 - [2023-02-08] Update README with usage
 - [2023-02-09] Update test video clips
+- [2023-02-09] Fix model path bug
