@@ -873,3 +873,4 @@
 - [2023-02-09] Update test video clips
 - [2023-02-09] Fix model path bug
 - [2023-02-09] Fix model path bug
+- [2023-02-09] Improve detection accuracy
