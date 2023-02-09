@@ -874,3 +874,4 @@
 - [2023-02-09] Fix model path bug
 - [2023-02-09] Fix model path bug
 - [2023-02-09] Improve detection accuracy
+- [2023-02-09] Add preprocessing pipeline
