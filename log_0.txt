@@ -807,3 +807,8 @@ for frame in video:
 # Commit on 2023-02-09
 # Temporary debug log
 print('DEBUG: frame loaded')
+
+# Commit on 2023-02-10
+# Refactored loop
+for frame in video:
+    detect(frame)
