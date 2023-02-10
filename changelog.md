@@ -878,3 +878,4 @@
 - [2023-02-09] Update test video clips
 - [2023-02-10] Fix frame timing issue
 - [2023-02-10] Update test video clips
+- [2023-02-10] Tune confidence threshold
