@@ -884,3 +884,4 @@
 - [2023-02-11] Update test video clips
 - [2023-02-11] Add vehicle tracking module
 - [2023-02-11] Add sample inference notebook
+- [2023-02-12] Update test video clips
