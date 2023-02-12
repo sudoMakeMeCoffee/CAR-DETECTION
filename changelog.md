@@ -889,3 +889,4 @@
 - [2023-02-12] Update test video clips
 - [2023-02-12] Improve detection accuracy
 - [2023-02-12] Update test video clips
+- [2023-02-12] Fix model path bug
