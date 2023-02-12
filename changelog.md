@@ -886,3 +886,4 @@
 - [2023-02-11] Add sample inference notebook
 - [2023-02-12] Update test video clips
 - [2023-02-12] Fix model path bug
+- [2023-02-12] Update test video clips
