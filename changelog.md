@@ -892,3 +892,4 @@
 - [2023-02-12] Fix model path bug
 - [2023-02-13] Improve detection accuracy
 - [2023-02-13] Add preprocessing pipeline
+- [2023-02-13] Add sample inference notebook
