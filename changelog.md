@@ -897,3 +897,4 @@
 - [2023-02-14] Add preprocessing pipeline
 - [2023-02-14] Add preprocessing pipeline
 - [2023-02-14] Update YOLOv5 model files
+- [2023-02-14] Improve detection accuracy
