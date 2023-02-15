@@ -900,3 +900,4 @@
 - [2023-02-14] Improve detection accuracy
 - [2023-02-14] Add vehicle tracking module
 - [2023-02-15] Update test video clips
+- [2023-02-15] Fix model path bug
