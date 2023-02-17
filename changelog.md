@@ -905,3 +905,4 @@
 - [2023-02-17] Update YOLOv5 model files
 - [2023-02-17] Add sample inference notebook
 - [2023-02-17] Clean unused imports
+- [2023-02-17] Improve detection accuracy
