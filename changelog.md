@@ -906,3 +906,4 @@
 - [2023-02-17] Add sample inference notebook
 - [2023-02-17] Clean unused imports
 - [2023-02-17] Improve detection accuracy
+- [2023-02-17] Improve detection accuracy
