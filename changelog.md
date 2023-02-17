@@ -903,3 +903,4 @@
 - [2023-02-15] Fix model path bug
 - [2023-02-15] Fix frame timing issue
 - [2023-02-17] Update YOLOv5 model files
+- [2023-02-17] Add sample inference notebook
