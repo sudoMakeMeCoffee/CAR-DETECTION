@@ -912,3 +912,4 @@
 - [2023-02-21] Add sample inference notebook
 - [2023-02-21] Update test video clips
 - [2023-02-21] Add sample inference notebook
+- [2023-02-21] Improve detection accuracy
