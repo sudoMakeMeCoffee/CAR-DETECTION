@@ -909,3 +909,4 @@
 - [2023-02-17] Improve detection accuracy
 - [2023-02-17] Update test video clips
 - [2023-02-21] Tune confidence threshold
+- [2023-02-21] Add sample inference notebook
