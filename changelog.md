@@ -919,3 +919,4 @@
 - [2023-02-25] Update YOLOv5 model files
 - [2023-02-27] Refactor frame extractor
 - [2023-02-27] Fix frame timing issue
+- [2023-02-27] Fix model path bug
