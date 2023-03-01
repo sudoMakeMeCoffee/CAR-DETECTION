@@ -922,3 +922,4 @@
 - [2023-02-27] Fix model path bug
 - [2023-02-27] Tune confidence threshold
 - [2023-02-27] Add vehicle tracking module
+- [2023-03-01] Update README with usage
