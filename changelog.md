@@ -927,3 +927,4 @@
 - [2023-03-01] Update test video clips
 - [2023-03-01] Update test video clips
 - [2023-03-01] Add preprocessing pipeline
+- [2023-03-04] Add vehicle tracking module
