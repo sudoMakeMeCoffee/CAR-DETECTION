@@ -934,3 +934,4 @@
 - [2023-03-06] Add sample inference notebook
 - [2023-03-08] Fix frame timing issue
 - [2023-03-08] Fix frame timing issue
+- [2023-03-08] Improve detection accuracy
