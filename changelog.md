@@ -935,3 +935,4 @@
 - [2023-03-08] Fix frame timing issue
 - [2023-03-08] Fix frame timing issue
 - [2023-03-08] Improve detection accuracy
+- [2023-03-08] Add vehicle tracking module
