@@ -932,3 +932,4 @@
 - [2023-03-06] Add vehicle tracking module
 - [2023-03-06] Update test video clips
 - [2023-03-06] Add sample inference notebook
+- [2023-03-08] Fix frame timing issue
