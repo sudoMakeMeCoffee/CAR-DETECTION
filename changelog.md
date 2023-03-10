@@ -939,3 +939,4 @@
 - [2023-03-08] Fix model path bug
 - [2023-03-10] Tune confidence threshold
 - [2023-03-10] Add preprocessing pipeline
+- [2023-03-10] Fix model path bug
