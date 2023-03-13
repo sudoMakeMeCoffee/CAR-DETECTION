@@ -944,3 +944,4 @@
 - [2023-03-13] Fix model path bug
 - [2023-03-13] Add vehicle tracking module
 - [2023-03-13] Fix frame timing issue
+- [2023-03-13] Tune confidence threshold
