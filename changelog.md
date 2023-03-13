@@ -940,3 +940,4 @@
 - [2023-03-10] Tune confidence threshold
 - [2023-03-10] Add preprocessing pipeline
 - [2023-03-10] Fix model path bug
+- [2023-03-13] Add vehicle tracking module
