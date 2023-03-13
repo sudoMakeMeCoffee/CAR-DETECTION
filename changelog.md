@@ -942,3 +942,4 @@
 - [2023-03-10] Fix model path bug
 - [2023-03-13] Add vehicle tracking module
 - [2023-03-13] Fix model path bug
+- [2023-03-13] Add vehicle tracking module
