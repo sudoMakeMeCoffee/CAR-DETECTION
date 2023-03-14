@@ -950,3 +950,4 @@
 - [2023-03-14] Refactor frame extractor
 - [2023-03-14] Fix frame timing issue
 - [2023-03-14] Improve detection accuracy
+- [2023-03-14] Update README with usage
