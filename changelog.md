@@ -948,3 +948,4 @@
 - [2023-03-14] Fix model path bug
 - [2023-03-14] Tune confidence threshold
 - [2023-03-14] Refactor frame extractor
+- [2023-03-14] Fix frame timing issue
