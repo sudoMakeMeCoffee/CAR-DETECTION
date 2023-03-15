@@ -951,3 +951,4 @@
 - [2023-03-14] Fix frame timing issue
 - [2023-03-14] Improve detection accuracy
 - [2023-03-14] Update README with usage
+- [2023-03-15] Fix frame timing issue
