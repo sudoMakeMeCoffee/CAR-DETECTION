@@ -970,3 +970,4 @@
 - [2023-03-20] Clean unused imports
 - [2023-03-20] Improve detection accuracy
 - [2023-03-20] Refactor frame extractor
+- [2023-03-20] Add preprocessing pipeline
