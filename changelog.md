@@ -973,3 +973,4 @@
 - [2023-03-20] Add preprocessing pipeline
 - [2023-03-20] Fix frame timing issue
 - [2023-03-21] Improve detection accuracy
+- [2023-03-21] Update README with usage
