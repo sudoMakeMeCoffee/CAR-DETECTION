@@ -974,3 +974,4 @@
 - [2023-03-20] Fix frame timing issue
 - [2023-03-21] Improve detection accuracy
 - [2023-03-21] Update README with usage
+- [2023-03-23] Fix model path bug
