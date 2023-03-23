@@ -976,3 +976,4 @@
 - [2023-03-21] Update README with usage
 - [2023-03-23] Fix model path bug
 - [2023-03-23] Update README with usage
+- [2023-03-23] Refactor frame extractor
