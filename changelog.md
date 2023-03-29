@@ -979,3 +979,4 @@
 - [2023-03-23] Refactor frame extractor
 - [2023-03-23] Improve detection accuracy
 - [2023-03-23] Update YOLOv5 model files
+- [2023-03-29] Fix frame timing issue
