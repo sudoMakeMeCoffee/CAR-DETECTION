@@ -982,3 +982,4 @@
 - [2023-03-29] Fix frame timing issue
 - [2023-03-30] Clean unused imports
 - [2023-03-30] Add vehicle tracking module
+- [2023-03-30] Add vehicle tracking module
