@@ -984,3 +984,4 @@
 - [2023-03-30] Add vehicle tracking module
 - [2023-03-30] Add vehicle tracking module
 - [2023-04-02] Update YOLOv5 model files
+- [2023-04-02] Add sample inference notebook
