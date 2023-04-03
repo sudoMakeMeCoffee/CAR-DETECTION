@@ -989,3 +989,4 @@
 - [2023-04-02] Clean unused imports
 - [2023-04-03] Update test video clips
 - [2023-04-03] Add vehicle tracking module
+- [2023-04-03] Update README with usage
