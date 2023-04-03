@@ -991,3 +991,4 @@
 - [2023-04-03] Add vehicle tracking module
 - [2023-04-03] Update README with usage
 - [2023-04-03] Tune confidence threshold
+- [2023-04-03] Update YOLOv5 model files
