@@ -994,3 +994,4 @@
 - [2023-04-03] Update YOLOv5 model files
 - [2023-04-04] Tune confidence threshold
 - [2023-04-04] Add preprocessing pipeline
+- [2023-04-04] Update YOLOv5 model files
