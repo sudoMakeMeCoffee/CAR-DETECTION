@@ -992,3 +992,4 @@
 - [2023-04-03] Update README with usage
 - [2023-04-03] Tune confidence threshold
 - [2023-04-03] Update YOLOv5 model files
+- [2023-04-04] Tune confidence threshold
