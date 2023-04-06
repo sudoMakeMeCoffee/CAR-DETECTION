@@ -997,3 +997,4 @@
 - [2023-04-04] Update YOLOv5 model files
 - [2023-04-06] Tune confidence threshold
 - [2023-04-06] Fix frame timing issue
+- [2023-04-06] Add sample inference notebook
