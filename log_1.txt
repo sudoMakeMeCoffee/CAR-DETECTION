@@ -779,3 +779,7 @@ bbox = [x, y, w, h]
 # Commit on 2023-04-06
 # Added new vehicle classes
 classes = ['car', 'truck', 'bus']
+
+# Commit on 2023-04-10
+# Added new vehicle classes
+classes = ['car', 'truck', 'bus']
