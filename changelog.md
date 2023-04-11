@@ -1002,3 +1002,4 @@
 - [2023-04-09] Fix frame timing issue
 - [2023-04-10] Add vehicle tracking module
 - [2023-04-11] Add sample inference notebook
+- [2023-04-11] Fix model path bug
