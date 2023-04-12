@@ -1004,3 +1004,4 @@
 - [2023-04-11] Add sample inference notebook
 - [2023-04-11] Fix model path bug
 - [2023-04-11] Update README with usage
+- [2023-04-12] Add sample inference notebook
