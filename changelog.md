@@ -1011,3 +1011,4 @@
 - [2023-04-12] Fix model path bug
 - [2023-04-12] Tune confidence threshold
 - [2023-04-15] Fix model path bug
+- [2023-04-15] Refactor frame extractor
