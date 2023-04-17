@@ -1017,3 +1017,4 @@
 - [2023-04-17] Tune confidence threshold
 - [2023-04-17] Refactor frame extractor
 - [2023-04-17] Fix frame timing issue
+- [2023-04-17] Fix frame timing issue
