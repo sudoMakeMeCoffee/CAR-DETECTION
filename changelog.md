@@ -1015,3 +1015,4 @@
 - [2023-04-16] Add sample inference notebook
 - [2023-04-17] Add vehicle tracking module
 - [2023-04-17] Tune confidence threshold
+- [2023-04-17] Refactor frame extractor
