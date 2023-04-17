@@ -1013,3 +1013,4 @@
 - [2023-04-15] Fix model path bug
 - [2023-04-15] Refactor frame extractor
 - [2023-04-16] Add sample inference notebook
+- [2023-04-17] Add vehicle tracking module
