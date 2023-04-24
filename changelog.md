@@ -1025,3 +1025,4 @@
 - [2023-04-20] Update YOLOv5 model files
 - [2023-04-24] Update YOLOv5 model files
 - [2023-04-24] Update YOLOv5 model files
+- [2023-04-24] Add sample inference notebook
