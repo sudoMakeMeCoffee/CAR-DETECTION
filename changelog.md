@@ -1028,3 +1028,4 @@
 - [2023-04-24] Add sample inference notebook
 - [2023-04-25] Tune confidence threshold
 - [2023-04-25] Update test video clips
+- [2023-04-25] Fix model path bug
