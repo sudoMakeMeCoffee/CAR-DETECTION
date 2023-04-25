@@ -1029,3 +1029,4 @@
 - [2023-04-25] Tune confidence threshold
 - [2023-04-25] Update test video clips
 - [2023-04-25] Fix model path bug
+- [2023-04-25] Update README with usage
