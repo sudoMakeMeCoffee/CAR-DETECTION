@@ -1032,3 +1032,4 @@
 - [2023-04-25] Update README with usage
 - [2023-04-27] Tune confidence threshold
 - [2023-04-27] Add sample inference notebook
+- [2023-05-02] Refactor frame extractor
