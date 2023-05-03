@@ -1035,3 +1035,4 @@
 - [2023-05-02] Refactor frame extractor
 - [2023-05-03] Refactor frame extractor
 - [2023-05-03] Improve detection accuracy
+- [2023-05-03] Update test video clips
