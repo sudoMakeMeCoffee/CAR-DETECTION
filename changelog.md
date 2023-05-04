@@ -1036,3 +1036,4 @@
 - [2023-05-03] Refactor frame extractor
 - [2023-05-03] Improve detection accuracy
 - [2023-05-03] Update test video clips
+- [2023-05-04] Fix frame timing issue
