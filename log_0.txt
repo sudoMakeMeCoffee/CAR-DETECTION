@@ -957,3 +957,8 @@ bbox = [x, y, w, h]
 # Refactored loop
 for frame in video:
     detect(frame)
+
+# Commit on 2023-05-06
+# Refactored loop
+for frame in video:
+    detect(frame)
