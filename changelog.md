@@ -1040,3 +1040,4 @@
 - [2023-05-06] Fix model path bug
 - [2023-05-06] Update test video clips
 - [2023-05-06] Update test video clips
+- [2023-05-06] Improve detection accuracy
