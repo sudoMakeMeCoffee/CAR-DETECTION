@@ -1043,3 +1043,4 @@
 - [2023-05-06] Improve detection accuracy
 - [2023-05-06] Add sample inference notebook
 - [2023-05-07] Fix model path bug
+- [2023-05-07] Update YOLOv5 model files
