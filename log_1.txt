@@ -813,3 +813,7 @@ for frame in video:
 # Commit on 2023-05-04
 # Added bounding box format
 bbox = [x, y, w, h]
+
+# Commit on 2023-05-07
+# Added new vehicle classes
+classes = ['car', 'truck', 'bus']

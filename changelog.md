@@ -1045,3 +1045,4 @@
 - [2023-05-07] Fix model path bug
 - [2023-05-07] Update YOLOv5 model files
 - [2023-05-07] Add vehicle tracking module
+- [2023-05-07] Add vehicle tracking module
