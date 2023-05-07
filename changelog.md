@@ -1047,3 +1047,4 @@
 - [2023-05-07] Add vehicle tracking module
 - [2023-05-07] Add vehicle tracking module
 - [2023-05-07] Improve detection accuracy
+- [2023-05-07] Add sample inference notebook
