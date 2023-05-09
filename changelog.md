@@ -1049,3 +1049,4 @@
 - [2023-05-07] Improve detection accuracy
 - [2023-05-07] Add sample inference notebook
 - [2023-05-09] Update test video clips
+- [2023-05-09] Update YOLOv5 model files
