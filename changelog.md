@@ -1052,3 +1052,4 @@
 - [2023-05-09] Update YOLOv5 model files
 - [2023-05-09] Fix frame timing issue
 - [2023-05-12] Clean unused imports
+- [2023-05-12] Update test video clips
