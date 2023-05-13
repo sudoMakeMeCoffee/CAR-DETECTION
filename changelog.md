@@ -1054,3 +1054,4 @@
 - [2023-05-12] Clean unused imports
 - [2023-05-12] Update test video clips
 - [2023-05-12] Clean unused imports
+- [2023-05-13] Update README with usage
