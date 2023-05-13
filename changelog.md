@@ -1056,3 +1056,4 @@
 - [2023-05-12] Clean unused imports
 - [2023-05-13] Update README with usage
 - [2023-05-13] Add vehicle tracking module
+- [2023-05-13] Update README with usage
