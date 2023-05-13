@@ -906,3 +906,8 @@ CONFIDENCE_THRESHOLD = 0.45
 # Commit on 2023-05-12
 # Temporary debug log
 print('DEBUG: frame loaded')
+
+# Commit on 2023-05-13
+# Refactored loop
+for frame in video:
+    detect(frame)
