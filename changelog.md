@@ -1059,3 +1059,4 @@
 - [2023-05-13] Update README with usage
 - [2023-05-13] Fix frame timing issue
 - [2023-05-13] Improve detection accuracy
+- [2023-05-14] Refactor frame extractor
