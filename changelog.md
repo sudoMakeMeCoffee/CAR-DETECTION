@@ -1061,3 +1061,4 @@
 - [2023-05-13] Improve detection accuracy
 - [2023-05-14] Refactor frame extractor
 - [2023-05-14] Tune confidence threshold
+- [2023-05-16] Clean unused imports
