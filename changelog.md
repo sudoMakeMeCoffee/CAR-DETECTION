@@ -1063,3 +1063,4 @@
 - [2023-05-14] Tune confidence threshold
 - [2023-05-16] Clean unused imports
 - [2023-05-18] Add sample inference notebook
+- [2023-05-18] Update YOLOv5 model files
