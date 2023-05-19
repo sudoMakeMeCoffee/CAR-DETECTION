@@ -1066,3 +1066,4 @@
 - [2023-05-18] Update YOLOv5 model files
 - [2023-05-18] Add vehicle tracking module
 - [2023-05-19] Improve detection accuracy
+- [2023-05-19] Add vehicle tracking module
