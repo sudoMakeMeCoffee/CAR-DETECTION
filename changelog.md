@@ -1070,3 +1070,4 @@
 - [2023-05-20] Add sample inference notebook
 - [2023-05-23] Tune confidence threshold
 - [2023-05-23] Fix model path bug
+- [2023-05-23] Improve detection accuracy
