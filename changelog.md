@@ -1071,3 +1071,4 @@
 - [2023-05-23] Tune confidence threshold
 - [2023-05-23] Fix model path bug
 - [2023-05-23] Improve detection accuracy
+- [2023-05-23] Fix frame timing issue
