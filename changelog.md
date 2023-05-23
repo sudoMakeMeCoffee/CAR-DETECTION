@@ -1072,3 +1072,4 @@
 - [2023-05-23] Fix model path bug
 - [2023-05-23] Improve detection accuracy
 - [2023-05-23] Fix frame timing issue
+- [2023-05-23] Refactor frame extractor
