@@ -1081,3 +1081,4 @@
 - [2023-05-27] Refactor frame extractor
 - [2023-05-28] Update test video clips
 - [2023-05-28] Refactor frame extractor
+- [2023-05-28] Refactor frame extractor
