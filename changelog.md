@@ -1079,3 +1079,4 @@
 - [2023-05-27] Update test video clips
 - [2023-05-27] Update YOLOv5 model files
 - [2023-05-27] Refactor frame extractor
+- [2023-05-28] Update test video clips
