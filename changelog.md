@@ -1085,3 +1085,4 @@
 - [2023-05-29] Add preprocessing pipeline
 - [2023-05-31] Add preprocessing pipeline
 - [2023-05-31] Fix model path bug
+- [2023-05-31] Update README with usage
