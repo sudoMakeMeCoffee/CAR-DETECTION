@@ -1084,3 +1084,4 @@
 - [2023-05-28] Refactor frame extractor
 - [2023-05-29] Add preprocessing pipeline
 - [2023-05-31] Add preprocessing pipeline
+- [2023-05-31] Fix model path bug
