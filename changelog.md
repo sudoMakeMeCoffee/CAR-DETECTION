@@ -1088,3 +1088,4 @@
 - [2023-05-31] Update README with usage
 - [2023-05-31] Add vehicle tracking module
 - [2023-05-31] Add vehicle tracking module
+- [2023-06-01] Improve detection accuracy
