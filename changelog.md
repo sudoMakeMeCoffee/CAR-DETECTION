@@ -1090,3 +1090,4 @@
 - [2023-05-31] Add vehicle tracking module
 - [2023-06-01] Improve detection accuracy
 - [2023-06-02] Tune confidence threshold
+- [2023-06-03] Add preprocessing pipeline
