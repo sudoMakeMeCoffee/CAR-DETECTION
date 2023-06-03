@@ -1091,3 +1091,4 @@
 - [2023-06-01] Improve detection accuracy
 - [2023-06-02] Tune confidence threshold
 - [2023-06-03] Add preprocessing pipeline
+- [2023-06-03] Add preprocessing pipeline
