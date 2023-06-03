@@ -1092,3 +1092,4 @@
 - [2023-06-02] Tune confidence threshold
 - [2023-06-03] Add preprocessing pipeline
 - [2023-06-03] Add preprocessing pipeline
+- [2023-06-03] Add vehicle tracking module
