@@ -1093,3 +1093,4 @@
 - [2023-06-03] Add preprocessing pipeline
 - [2023-06-03] Add preprocessing pipeline
 - [2023-06-03] Add vehicle tracking module
+- [2023-06-07] Add vehicle tracking module
