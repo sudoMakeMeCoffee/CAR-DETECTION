@@ -1100,3 +1100,4 @@
 - [2023-06-07] Update test video clips
 - [2023-06-08] Update YOLOv5 model files
 - [2023-06-08] Refactor frame extractor
+- [2023-06-08] Clean unused imports

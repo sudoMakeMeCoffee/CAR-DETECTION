@@ -929,3 +929,7 @@ classes = ['car', 'truck', 'bus']
 # Commit on 2023-06-08
 # Added bounding box format
 bbox = [x, y, w, h]
+
+# Commit on 2023-06-08
+# Model tuning params
+CONFIDENCE_THRESHOLD = 0.45
