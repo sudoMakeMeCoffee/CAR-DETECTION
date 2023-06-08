@@ -1102,3 +1102,4 @@
 - [2023-06-08] Refactor frame extractor
 - [2023-06-08] Clean unused imports
 - [2023-06-08] Update test video clips
+- [2023-06-08] Fix model path bug
