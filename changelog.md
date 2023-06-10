@@ -1104,3 +1104,4 @@
 - [2023-06-08] Update test video clips
 - [2023-06-08] Fix model path bug
 - [2023-06-08] Add vehicle tracking module
+- [2023-06-10] Refactor frame extractor
