@@ -1108,3 +1108,4 @@
 - [2023-06-10] Fix model path bug
 - [2023-06-10] Refactor frame extractor
 - [2023-06-10] Update test video clips
+- [2023-06-11] Tune confidence threshold
