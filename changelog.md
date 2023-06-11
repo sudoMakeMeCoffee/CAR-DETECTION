@@ -1111,3 +1111,4 @@
 - [2023-06-11] Tune confidence threshold
 - [2023-06-11] Tune confidence threshold
 - [2023-06-11] Tune confidence threshold
+- [2023-06-11] Update YOLOv5 model files
