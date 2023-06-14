@@ -1117,3 +1117,4 @@
 - [2023-06-13] Tune confidence threshold
 - [2023-06-13] Tune confidence threshold
 - [2023-06-14] Fix frame timing issue
+- [2023-06-14] Improve detection accuracy
