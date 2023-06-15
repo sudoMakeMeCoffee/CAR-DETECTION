@@ -1123,3 +1123,4 @@
 - [2023-06-15] Update test video clips
 - [2023-06-15] Improve detection accuracy
 - [2023-06-15] Update README with usage
+- [2023-06-15] Improve detection accuracy
