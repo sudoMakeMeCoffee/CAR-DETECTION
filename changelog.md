@@ -1121,3 +1121,4 @@
 - [2023-06-14] Update YOLOv5 model files
 - [2023-06-15] Update YOLOv5 model files
 - [2023-06-15] Update test video clips
+- [2023-06-15] Improve detection accuracy
