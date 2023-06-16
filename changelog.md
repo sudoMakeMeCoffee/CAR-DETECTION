@@ -1125,3 +1125,4 @@
 - [2023-06-15] Update README with usage
 - [2023-06-15] Improve detection accuracy
 - [2023-06-15] Fix model path bug
+- [2023-06-16] Clean unused imports
