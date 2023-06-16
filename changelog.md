@@ -1127,3 +1127,4 @@
 - [2023-06-15] Fix model path bug
 - [2023-06-16] Clean unused imports
 - [2023-06-16] Add sample inference notebook
+- [2023-06-16] Update README with usage
