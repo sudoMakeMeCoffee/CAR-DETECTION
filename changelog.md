@@ -1133,3 +1133,4 @@
 - [2023-06-18] Update YOLOv5 model files
 - [2023-06-18] Update README with usage
 - [2023-06-18] Clean unused imports
+- [2023-06-18] Improve detection accuracy
