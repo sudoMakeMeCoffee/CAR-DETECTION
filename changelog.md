@@ -1129,3 +1129,4 @@
 - [2023-06-16] Add sample inference notebook
 - [2023-06-16] Update README with usage
 - [2023-06-18] Improve detection accuracy
+- [2023-06-18] Clean unused imports
