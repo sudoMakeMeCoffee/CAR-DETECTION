@@ -1136,3 +1136,4 @@
 - [2023-06-18] Improve detection accuracy
 - [2023-06-20] Update README with usage
 - [2023-06-20] Add preprocessing pipeline
+- [2023-06-20] Add sample inference notebook
