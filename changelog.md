@@ -1137,3 +1137,4 @@
 - [2023-06-20] Update README with usage
 - [2023-06-20] Add preprocessing pipeline
 - [2023-06-20] Add sample inference notebook
+- [2023-06-22] Add vehicle tracking module
