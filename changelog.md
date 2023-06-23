@@ -1144,3 +1144,4 @@
 - [2023-06-22] Fix frame timing issue
 - [2023-06-22] Fix model path bug
 - [2023-06-23] Fix model path bug
+- [2023-06-23] Improve detection accuracy
