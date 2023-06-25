@@ -1148,3 +1148,4 @@
 - [2023-06-25] Update YOLOv5 model files
 - [2023-06-25] Clean unused imports
 - [2023-06-25] Fix frame timing issue
+- [2023-06-25] Add sample inference notebook
