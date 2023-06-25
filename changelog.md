@@ -1147,3 +1147,4 @@
 - [2023-06-23] Improve detection accuracy
 - [2023-06-25] Update YOLOv5 model files
 - [2023-06-25] Clean unused imports
+- [2023-06-25] Fix frame timing issue
