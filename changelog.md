@@ -1149,3 +1149,4 @@
 - [2023-06-25] Clean unused imports
 - [2023-06-25] Fix frame timing issue
 - [2023-06-25] Add sample inference notebook
+- [2023-06-25] Refactor frame extractor
