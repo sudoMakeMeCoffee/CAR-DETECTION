@@ -1153,3 +1153,4 @@
 - [2023-06-26] Update README with usage
 - [2023-06-26] Update YOLOv5 model files
 - [2023-06-26] Refactor frame extractor
+- [2023-06-26] Update YOLOv5 model files
