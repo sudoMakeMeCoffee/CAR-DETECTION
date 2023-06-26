@@ -1151,3 +1151,4 @@
 - [2023-06-25] Add sample inference notebook
 - [2023-06-25] Refactor frame extractor
 - [2023-06-26] Update README with usage
+- [2023-06-26] Update YOLOv5 model files
