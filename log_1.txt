@@ -937,3 +937,8 @@ bbox = [x, y, w, h]
 # Commit on 2023-06-26
 # Temporary debug log
 print('DEBUG: frame loaded')
+
+# Commit on 2023-06-26
+# Refactored loop
+for frame in video:
+    detect(frame)
