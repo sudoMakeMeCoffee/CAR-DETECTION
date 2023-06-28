@@ -1157,3 +1157,4 @@
 - [2023-06-26] Tune confidence threshold
 - [2023-06-26] Add vehicle tracking module
 - [2023-06-28] Add sample inference notebook
+- [2023-06-28] Clean unused imports
