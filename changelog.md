@@ -1160,3 +1160,4 @@
 - [2023-06-28] Clean unused imports
 - [2023-06-28] Clean unused imports
 - [2023-06-28] Update README with usage
+- [2023-06-30] Tune confidence threshold
