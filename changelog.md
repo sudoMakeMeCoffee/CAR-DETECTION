@@ -1163,3 +1163,4 @@
 - [2023-06-30] Tune confidence threshold
 - [2023-07-01] Refactor frame extractor
 - [2023-07-01] Add vehicle tracking module
+- [2023-07-01] Add preprocessing pipeline
