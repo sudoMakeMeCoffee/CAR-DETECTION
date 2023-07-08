@@ -1170,3 +1170,4 @@
 - [2023-07-03] Add preprocessing pipeline
 - [2023-07-04] Fix frame timing issue
 - [2023-07-04] Add sample inference notebook
+- [2023-07-08] Tune confidence threshold
