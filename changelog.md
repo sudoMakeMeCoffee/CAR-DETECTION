@@ -1172,3 +1172,4 @@
 - [2023-07-04] Add sample inference notebook
 - [2023-07-08] Tune confidence threshold
 - [2023-07-08] Add vehicle tracking module
+- [2023-07-08] Add vehicle tracking module
