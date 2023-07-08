@@ -1171,3 +1171,4 @@
 - [2023-07-04] Fix frame timing issue
 - [2023-07-04] Add sample inference notebook
 - [2023-07-08] Tune confidence threshold
+- [2023-07-08] Add vehicle tracking module
