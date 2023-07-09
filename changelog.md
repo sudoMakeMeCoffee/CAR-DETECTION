@@ -1177,3 +1177,4 @@
 - [2023-07-09] Update test video clips
 - [2023-07-09] Update test video clips
 - [2023-07-09] Update README with usage
+- [2023-07-09] Tune confidence threshold
