@@ -1180,3 +1180,4 @@
 - [2023-07-09] Tune confidence threshold
 - [2023-07-09] Fix model path bug
 - [2023-07-09] Add sample inference notebook
+- [2023-07-10] Update YOLOv5 model files
