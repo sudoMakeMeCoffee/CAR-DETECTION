@@ -1185,3 +1185,4 @@
 - [2023-07-12] Clean unused imports
 - [2023-07-13] Tune confidence threshold
 - [2023-07-13] Add preprocessing pipeline
+- [2023-07-13] Add sample inference notebook
