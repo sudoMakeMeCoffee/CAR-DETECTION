@@ -1186,3 +1186,4 @@
 - [2023-07-13] Tune confidence threshold
 - [2023-07-13] Add preprocessing pipeline
 - [2023-07-13] Add sample inference notebook
+- [2023-07-13] Update YOLOv5 model files
