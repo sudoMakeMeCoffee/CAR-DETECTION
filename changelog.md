@@ -1183,3 +1183,4 @@
 - [2023-07-10] Update YOLOv5 model files
 - [2023-07-12] Tune confidence threshold
 - [2023-07-12] Clean unused imports
+- [2023-07-13] Tune confidence threshold
