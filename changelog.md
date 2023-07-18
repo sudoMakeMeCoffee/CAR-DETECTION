@@ -1194,3 +1194,4 @@
 - [2023-07-18] Tune confidence threshold
 - [2023-07-18] Add preprocessing pipeline
 - [2023-07-18] Improve detection accuracy
+- [2023-07-18] Add sample inference notebook
