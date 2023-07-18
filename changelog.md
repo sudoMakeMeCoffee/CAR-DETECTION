@@ -1192,3 +1192,4 @@
 - [2023-07-15] Add sample inference notebook
 - [2023-07-15] Tune confidence threshold
 - [2023-07-18] Tune confidence threshold
+- [2023-07-18] Add preprocessing pipeline
