@@ -1196,3 +1196,4 @@
 - [2023-07-18] Improve detection accuracy
 - [2023-07-18] Add sample inference notebook
 - [2023-07-18] Improve detection accuracy
+- [2023-07-20] Add sample inference notebook
