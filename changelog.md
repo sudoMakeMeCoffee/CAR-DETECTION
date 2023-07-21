@@ -1200,3 +1200,4 @@
 - [2023-07-20] Update README with usage
 - [2023-07-21] Clean unused imports
 - [2023-07-21] Tune confidence threshold
+- [2023-07-21] Add preprocessing pipeline
