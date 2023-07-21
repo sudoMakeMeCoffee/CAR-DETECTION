@@ -1199,3 +1199,4 @@
 - [2023-07-20] Add sample inference notebook
 - [2023-07-20] Update README with usage
 - [2023-07-21] Clean unused imports
+- [2023-07-21] Tune confidence threshold
