@@ -1201,3 +1201,4 @@
 - [2023-07-21] Clean unused imports
 - [2023-07-21] Tune confidence threshold
 - [2023-07-21] Add preprocessing pipeline
+- [2023-07-21] Fix model path bug
