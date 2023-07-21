@@ -1203,3 +1203,4 @@
 - [2023-07-21] Add preprocessing pipeline
 - [2023-07-21] Fix model path bug
 - [2023-07-21] Update README with usage
+- [2023-07-21] Improve detection accuracy
