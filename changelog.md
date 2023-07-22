@@ -1204,3 +1204,4 @@
 - [2023-07-21] Fix model path bug
 - [2023-07-21] Update README with usage
 - [2023-07-21] Improve detection accuracy
+- [2023-07-22] Fix model path bug
