@@ -1209,3 +1209,4 @@
 - [2023-07-26] Add vehicle tracking module
 - [2023-07-26] Fix frame timing issue
 - [2023-07-26] Update README with usage
+- [2023-07-26] Fix frame timing issue
