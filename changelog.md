@@ -1212,3 +1212,4 @@
 - [2023-07-26] Fix frame timing issue
 - [2023-07-27] Update test video clips
 - [2023-07-27] Fix model path bug
+- [2023-07-27] Improve detection accuracy
