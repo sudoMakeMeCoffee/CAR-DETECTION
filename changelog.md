@@ -1213,3 +1213,4 @@
 - [2023-07-27] Update test video clips
 - [2023-07-27] Fix model path bug
 - [2023-07-27] Improve detection accuracy
+- [2023-07-31] Add vehicle tracking module
