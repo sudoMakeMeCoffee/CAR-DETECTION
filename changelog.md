@@ -1216,3 +1216,4 @@
 - [2023-07-31] Add vehicle tracking module
 - [2023-08-01] Refactor frame extractor
 - [2023-08-01] Update README with usage
+- [2023-08-01] Update YOLOv5 model files
