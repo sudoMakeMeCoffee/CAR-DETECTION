@@ -1218,3 +1218,4 @@
 - [2023-08-01] Update README with usage
 - [2023-08-01] Update YOLOv5 model files
 - [2023-08-01] Add preprocessing pipeline
+- [2023-08-04] Update README with usage
