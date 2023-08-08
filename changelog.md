@@ -1225,3 +1225,4 @@
 - [2023-08-04] Update YOLOv5 model files
 - [2023-08-08] Refactor frame extractor
 - [2023-08-08] Clean unused imports
+- [2023-08-08] Add preprocessing pipeline
