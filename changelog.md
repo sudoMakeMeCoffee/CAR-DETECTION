@@ -1228,3 +1228,4 @@
 - [2023-08-08] Add preprocessing pipeline
 - [2023-08-09] Tune confidence threshold
 - [2023-08-09] Clean unused imports
+- [2023-08-09] Update test video clips
