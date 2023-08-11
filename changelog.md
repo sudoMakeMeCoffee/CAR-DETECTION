@@ -1231,3 +1231,4 @@
 - [2023-08-09] Update test video clips
 - [2023-08-11] Add sample inference notebook
 - [2023-08-11] Improve detection accuracy
+- [2023-08-11] Improve detection accuracy
