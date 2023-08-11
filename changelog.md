@@ -1234,3 +1234,4 @@
 - [2023-08-11] Improve detection accuracy
 - [2023-08-11] Clean unused imports
 - [2023-08-11] Add preprocessing pipeline
+- [2023-08-11] Update README with usage
