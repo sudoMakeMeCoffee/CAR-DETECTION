@@ -1236,3 +1236,4 @@
 - [2023-08-11] Add preprocessing pipeline
 - [2023-08-11] Update README with usage
 - [2023-08-12] Update test video clips
+- [2023-08-12] Fix frame timing issue
