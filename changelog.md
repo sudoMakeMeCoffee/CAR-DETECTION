@@ -1238,3 +1238,4 @@
 - [2023-08-12] Update test video clips
 - [2023-08-12] Fix frame timing issue
 - [2023-08-12] Add preprocessing pipeline
+- [2023-08-13] Tune confidence threshold
