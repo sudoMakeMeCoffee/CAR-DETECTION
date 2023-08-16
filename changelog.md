@@ -1242,3 +1242,4 @@
 - [2023-08-13] Improve detection accuracy
 - [2023-08-13] Add preprocessing pipeline
 - [2023-08-14] Improve detection accuracy
+- [2023-08-16] Fix frame timing issue
