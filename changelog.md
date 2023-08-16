@@ -1244,3 +1244,4 @@
 - [2023-08-14] Improve detection accuracy
 - [2023-08-16] Fix frame timing issue
 - [2023-08-16] Tune confidence threshold
+- [2023-08-16] Update test video clips
