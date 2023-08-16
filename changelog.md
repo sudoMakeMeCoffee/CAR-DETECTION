@@ -1245,3 +1245,4 @@
 - [2023-08-16] Fix frame timing issue
 - [2023-08-16] Tune confidence threshold
 - [2023-08-16] Update test video clips
+- [2023-08-16] Update README with usage
