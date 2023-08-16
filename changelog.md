@@ -1247,3 +1247,4 @@
 - [2023-08-16] Update test video clips
 - [2023-08-16] Update README with usage
 - [2023-08-16] Add sample inference notebook
+- [2023-08-16] Fix model path bug
