@@ -1251,3 +1251,4 @@
 - [2023-08-20] Fix frame timing issue
 - [2023-08-20] Update test video clips
 - [2023-08-24] Update README with usage
+- [2023-08-24] Refactor frame extractor
