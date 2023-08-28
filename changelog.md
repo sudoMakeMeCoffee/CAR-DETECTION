@@ -1258,3 +1258,4 @@
 - [2023-08-28] Fix model path bug
 - [2023-08-28] Add vehicle tracking module
 - [2023-08-28] Update test video clips
+- [2023-08-28] Add sample inference notebook
