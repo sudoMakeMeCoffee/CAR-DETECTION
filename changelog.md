@@ -1256,3 +1256,4 @@
 - [2023-08-24] Add preprocessing pipeline
 - [2023-08-24] Fix model path bug
 - [2023-08-28] Fix model path bug
+- [2023-08-28] Add vehicle tracking module
