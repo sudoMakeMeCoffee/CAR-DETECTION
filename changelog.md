@@ -1260,3 +1260,4 @@
 - [2023-08-28] Update test video clips
 - [2023-08-28] Add sample inference notebook
 - [2023-08-29] Improve detection accuracy
+- [2023-08-29] Add vehicle tracking module
