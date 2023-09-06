@@ -1265,3 +1265,4 @@
 - [2023-09-04] Add sample inference notebook
 - [2023-09-04] Refactor frame extractor
 - [2023-09-06] Update README with usage
+- [2023-09-06] Update test video clips
