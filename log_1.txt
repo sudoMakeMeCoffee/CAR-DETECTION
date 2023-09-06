@@ -1041,3 +1041,8 @@ classes = ['car', 'truck', 'bus']
 # Commit on 2023-09-04
 # Added new vehicle classes
 classes = ['car', 'truck', 'bus']
+
+# Commit on 2023-09-06
+# Refactored loop
+for frame in video:
+    detect(frame)
