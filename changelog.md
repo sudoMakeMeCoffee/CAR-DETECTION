@@ -1267,3 +1267,4 @@
 - [2023-09-06] Update README with usage
 - [2023-09-06] Update test video clips
 - [2023-09-06] Add sample inference notebook
+- [2023-09-08] Clean unused imports
