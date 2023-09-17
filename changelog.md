@@ -1272,3 +1272,4 @@
 - [2023-09-08] Add sample inference notebook
 - [2023-09-17] Tune confidence threshold
 - [2023-09-17] Fix model path bug
+- [2023-09-17] Add vehicle tracking module
