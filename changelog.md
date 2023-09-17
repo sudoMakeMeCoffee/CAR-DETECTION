@@ -1271,3 +1271,4 @@
 - [2023-09-08] Update README with usage
 - [2023-09-08] Add sample inference notebook
 - [2023-09-17] Tune confidence threshold
+- [2023-09-17] Fix model path bug
