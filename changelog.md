@@ -1275,3 +1275,4 @@
 - [2023-09-17] Add vehicle tracking module
 - [2023-09-18] Refactor frame extractor
 - [2023-09-18] Add sample inference notebook
+- [2023-09-18] Add sample inference notebook
