@@ -1276,3 +1276,4 @@
 - [2023-09-18] Refactor frame extractor
 - [2023-09-18] Add sample inference notebook
 - [2023-09-18] Add sample inference notebook
+- [2023-09-20] Refactor frame extractor
