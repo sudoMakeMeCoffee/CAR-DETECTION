@@ -1279,3 +1279,4 @@
 - [2023-09-20] Refactor frame extractor
 - [2023-09-20] Clean unused imports
 - [2023-09-20] Add preprocessing pipeline
+- [2023-09-21] Add vehicle tracking module
