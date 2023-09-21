@@ -1282,3 +1282,4 @@
 - [2023-09-21] Add vehicle tracking module
 - [2023-09-21] Update test video clips
 - [2023-09-21] Add preprocessing pipeline
+- [2023-09-21] Refactor frame extractor
