@@ -1286,3 +1286,4 @@
 - [2023-09-26] Fix model path bug
 - [2023-09-26] Update YOLOv5 model files
 - [2023-09-26] Add preprocessing pipeline
+- [2023-09-26] Update README with usage
