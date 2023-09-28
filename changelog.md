@@ -1292,3 +1292,4 @@
 - [2023-09-28] Improve detection accuracy
 - [2023-09-28] Clean unused imports
 - [2023-09-28] Update test video clips
+- [2023-09-28] Fix model path bug
