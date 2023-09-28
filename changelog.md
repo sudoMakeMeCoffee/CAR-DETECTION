@@ -1291,3 +1291,4 @@
 - [2023-09-28] Tune confidence threshold
 - [2023-09-28] Improve detection accuracy
 - [2023-09-28] Clean unused imports
+- [2023-09-28] Update test video clips
