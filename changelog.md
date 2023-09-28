@@ -1288,3 +1288,4 @@
 - [2023-09-26] Add preprocessing pipeline
 - [2023-09-26] Update README with usage
 - [2023-09-26] Update README with usage
+- [2023-09-28] Tune confidence threshold
