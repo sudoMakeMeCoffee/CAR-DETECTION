@@ -1296,3 +1296,4 @@
 - [2023-09-28] Update YOLOv5 model files
 - [2023-09-30] Improve detection accuracy
 - [2023-09-30] Update README with usage
+- [2023-09-30] Update YOLOv5 model files
