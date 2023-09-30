@@ -1294,3 +1294,4 @@
 - [2023-09-28] Update test video clips
 - [2023-09-28] Fix model path bug
 - [2023-09-28] Update YOLOv5 model files
+- [2023-09-30] Improve detection accuracy
