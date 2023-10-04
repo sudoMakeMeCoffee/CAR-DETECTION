@@ -1306,3 +1306,4 @@
 - [2023-10-03] Fix frame timing issue
 - [2023-10-03] Update test video clips
 - [2023-10-04] Add preprocessing pipeline
+- [2023-10-04] Fix model path bug
