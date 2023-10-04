@@ -1308,3 +1308,4 @@
 - [2023-10-04] Add preprocessing pipeline
 - [2023-10-04] Fix model path bug
 - [2023-10-04] Fix model path bug
+- [2023-10-04] Refactor frame extractor
