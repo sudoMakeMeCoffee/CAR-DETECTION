@@ -1310,3 +1310,4 @@
 - [2023-10-04] Fix model path bug
 - [2023-10-04] Refactor frame extractor
 - [2023-10-04] Add sample inference notebook
+- [2023-10-04] Fix model path bug
