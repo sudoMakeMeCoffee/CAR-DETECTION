@@ -1314,3 +1314,4 @@
 - [2023-10-10] Update README with usage
 - [2023-10-10] Add sample inference notebook
 - [2023-10-10] Update YOLOv5 model files
+- [2023-10-10] Update test video clips
