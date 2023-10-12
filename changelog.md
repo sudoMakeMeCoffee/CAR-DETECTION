@@ -1317,3 +1317,4 @@
 - [2023-10-10] Update test video clips
 - [2023-10-10] Add sample inference notebook
 - [2023-10-10] Fix model path bug
+- [2023-10-12] Fix frame timing issue
