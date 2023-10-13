@@ -1102,3 +1102,7 @@ print('DEBUG: frame loaded')
 # Refactored loop
 for frame in video:
     detect(frame)
+
+# Commit on 2023-10-13
+# Added bounding box format
+bbox = [x, y, w, h]
