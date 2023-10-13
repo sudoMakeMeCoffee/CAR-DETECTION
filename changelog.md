@@ -1319,3 +1319,4 @@
 - [2023-10-10] Fix model path bug
 - [2023-10-12] Fix frame timing issue
 - [2023-10-12] Fix model path bug
+- [2023-10-13] Improve detection accuracy
