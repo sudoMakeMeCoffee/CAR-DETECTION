@@ -1323,3 +1323,4 @@
 - [2023-10-13] Refactor frame extractor
 - [2023-10-13] Update test video clips
 - [2023-10-16] Add vehicle tracking module
+- [2023-10-16] Update README with usage
