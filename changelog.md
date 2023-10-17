@@ -1326,3 +1326,4 @@
 - [2023-10-16] Update README with usage
 - [2023-10-16] Fix model path bug
 - [2023-10-17] Add sample inference notebook
+- [2023-10-17] Update YOLOv5 model files
