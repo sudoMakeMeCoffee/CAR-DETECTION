@@ -1329,3 +1329,4 @@
 - [2023-10-17] Update YOLOv5 model files
 - [2023-10-19] Clean unused imports
 - [2023-10-19] Fix frame timing issue
+- [2023-10-19] Tune confidence threshold
