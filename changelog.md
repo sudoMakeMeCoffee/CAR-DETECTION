@@ -1331,3 +1331,4 @@
 - [2023-10-19] Fix frame timing issue
 - [2023-10-19] Tune confidence threshold
 - [2023-10-19] Add vehicle tracking module
+- [2023-10-19] Update YOLOv5 model files
