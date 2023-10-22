@@ -1340,3 +1340,4 @@
 - [2023-10-22] Refactor frame extractor
 - [2023-10-22] Clean unused imports
 - [2023-10-22] Add preprocessing pipeline
+- [2023-10-22] Add sample inference notebook
