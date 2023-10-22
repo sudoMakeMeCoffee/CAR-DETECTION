@@ -1338,3 +1338,4 @@
 - [2023-10-20] Update test video clips
 - [2023-10-22] Improve detection accuracy
 - [2023-10-22] Refactor frame extractor
+- [2023-10-22] Clean unused imports
