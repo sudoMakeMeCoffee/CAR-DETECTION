@@ -1336,3 +1336,4 @@
 - [2023-10-20] Tune confidence threshold
 - [2023-10-20] Improve detection accuracy
 - [2023-10-20] Update test video clips
+- [2023-10-22] Improve detection accuracy
