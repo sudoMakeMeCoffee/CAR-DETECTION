@@ -1342,3 +1342,4 @@
 - [2023-10-22] Add preprocessing pipeline
 - [2023-10-22] Add sample inference notebook
 - [2023-10-23] Update YOLOv5 model files
+- [2023-10-23] Update test video clips
