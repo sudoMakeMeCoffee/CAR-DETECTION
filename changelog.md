@@ -1346,3 +1346,4 @@
 - [2023-10-24] Update README with usage
 - [2023-10-25] Update test video clips
 - [2023-10-26] Update README with usage
+- [2023-10-26] Improve detection accuracy
