@@ -1348,3 +1348,4 @@
 - [2023-10-26] Update README with usage
 - [2023-10-26] Improve detection accuracy
 - [2023-10-27] Tune confidence threshold
+- [2023-10-27] Update YOLOv5 model files
