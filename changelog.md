@@ -1352,3 +1352,4 @@
 - [2023-10-27] Add preprocessing pipeline
 - [2023-10-27] Improve detection accuracy
 - [2023-10-28] Update test video clips
+- [2023-10-28] Update README with usage
