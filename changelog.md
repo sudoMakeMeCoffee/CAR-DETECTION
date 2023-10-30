@@ -1353,3 +1353,4 @@
 - [2023-10-27] Improve detection accuracy
 - [2023-10-28] Update test video clips
 - [2023-10-28] Update README with usage
+- [2023-10-30] Fix model path bug
