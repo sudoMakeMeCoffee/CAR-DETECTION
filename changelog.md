@@ -1359,3 +1359,4 @@
 - [2023-10-31] Fix model path bug
 - [2023-10-31] Add vehicle tracking module
 - [2023-10-31] Add vehicle tracking module
+- [2023-11-04] Update YOLOv5 model files
