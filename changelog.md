@@ -1371,3 +1371,4 @@
 - [2023-11-06] Add sample inference notebook
 - [2023-11-06] Fix model path bug
 - [2023-11-06] Improve detection accuracy
+- [2023-11-06] Improve detection accuracy
