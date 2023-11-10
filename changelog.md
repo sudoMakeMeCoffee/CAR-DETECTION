@@ -1375,3 +1375,4 @@
 - [2023-11-06] Fix model path bug
 - [2023-11-08] Clean unused imports
 - [2023-11-08] Update test video clips
+- [2023-11-10] Add vehicle tracking module
