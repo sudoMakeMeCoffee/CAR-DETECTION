@@ -1376,3 +1376,4 @@
 - [2023-11-08] Clean unused imports
 - [2023-11-08] Update test video clips
 - [2023-11-10] Add vehicle tracking module
+- [2023-11-10] Add preprocessing pipeline
