@@ -1383,3 +1383,4 @@
 - [2023-11-11] Improve detection accuracy
 - [2023-11-11] Clean unused imports
 - [2023-11-11] Fix frame timing issue
+- [2023-11-11] Update README with usage
