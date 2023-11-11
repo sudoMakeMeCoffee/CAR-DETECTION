@@ -1382,3 +1382,4 @@
 - [2023-11-11] Add vehicle tracking module
 - [2023-11-11] Improve detection accuracy
 - [2023-11-11] Clean unused imports
+- [2023-11-11] Fix frame timing issue
