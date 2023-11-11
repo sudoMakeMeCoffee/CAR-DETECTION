@@ -1381,3 +1381,4 @@
 - [2023-11-11] Update YOLOv5 model files
 - [2023-11-11] Add vehicle tracking module
 - [2023-11-11] Improve detection accuracy
+- [2023-11-11] Clean unused imports
