@@ -1173,3 +1173,7 @@ CONFIDENCE_THRESHOLD = 0.45
 # Commit on 2023-11-11
 # Added bounding box format
 bbox = [x, y, w, h]
+
+# Commit on 2023-11-12
+# Temporary debug log
+print('DEBUG: frame loaded')

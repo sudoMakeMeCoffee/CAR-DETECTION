@@ -1385,3 +1385,4 @@
 - [2023-11-11] Fix frame timing issue
 - [2023-11-11] Update README with usage
 - [2023-11-12] Update YOLOv5 model files
+- [2023-11-12] Update YOLOv5 model files
