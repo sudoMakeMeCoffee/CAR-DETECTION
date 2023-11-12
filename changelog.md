@@ -1387,3 +1387,4 @@
 - [2023-11-12] Update YOLOv5 model files
 - [2023-11-12] Update YOLOv5 model files
 - [2023-11-12] Tune confidence threshold
+- [2023-11-12] Update README with usage
