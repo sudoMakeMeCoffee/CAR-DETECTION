@@ -1178,3 +1178,7 @@ bbox = [x, y, w, h]
 # Commit on 2023-11-14
 # Temporary debug log
 print('DEBUG: frame loaded')
+
+# Commit on 2023-11-16
+# Added bounding box format
+bbox = [x, y, w, h]
