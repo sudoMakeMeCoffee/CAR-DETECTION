@@ -1182,3 +1182,7 @@ print('DEBUG: frame loaded')
 # Commit on 2023-11-16
 # Added bounding box format
 bbox = [x, y, w, h]
+
+# Commit on 2023-11-16
+# Added new vehicle classes
+classes = ['car', 'truck', 'bus']
