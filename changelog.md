@@ -1397,3 +1397,4 @@
 - [2023-11-16] Update README with usage
 - [2023-11-16] Add vehicle tracking module
 - [2023-11-17] Add preprocessing pipeline
+- [2023-11-17] Refactor frame extractor
