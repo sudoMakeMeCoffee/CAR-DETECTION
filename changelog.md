@@ -1401,3 +1401,4 @@
 - [2023-11-17] Fix frame timing issue
 - [2023-11-17] Fix model path bug
 - [2023-11-17] Add preprocessing pipeline
+- [2023-11-17] Add vehicle tracking module
