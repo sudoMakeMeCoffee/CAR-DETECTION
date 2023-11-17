@@ -1400,3 +1400,4 @@
 - [2023-11-17] Refactor frame extractor
 - [2023-11-17] Fix frame timing issue
 - [2023-11-17] Fix model path bug
+- [2023-11-17] Add preprocessing pipeline
