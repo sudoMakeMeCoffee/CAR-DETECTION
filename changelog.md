@@ -1402,3 +1402,4 @@
 - [2023-11-17] Fix model path bug
 - [2023-11-17] Add preprocessing pipeline
 - [2023-11-17] Add vehicle tracking module
+- [2023-11-21] Add vehicle tracking module
