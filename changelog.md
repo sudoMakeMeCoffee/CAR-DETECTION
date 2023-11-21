@@ -1406,3 +1406,4 @@
 - [2023-11-21] Clean unused imports
 - [2023-11-21] Tune confidence threshold
 - [2023-11-21] Refactor frame extractor
+- [2023-11-21] Fix frame timing issue
