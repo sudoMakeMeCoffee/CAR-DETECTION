@@ -1415,3 +1415,4 @@
 - [2023-11-25] Add sample inference notebook
 - [2023-11-25] Clean unused imports
 - [2023-11-27] Refactor frame extractor
+- [2023-11-27] Update README with usage
