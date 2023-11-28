@@ -1420,3 +1420,4 @@
 - [2023-11-28] Fix frame timing issue
 - [2023-11-28] Refactor frame extractor
 - [2023-11-28] Refactor frame extractor
+- [2023-11-28] Update README with usage
