@@ -1423,3 +1423,4 @@
 - [2023-11-28] Update README with usage
 - [2023-11-28] Add preprocessing pipeline
 - [2023-11-30] Add preprocessing pipeline
+- [2023-12-01] Improve detection accuracy
