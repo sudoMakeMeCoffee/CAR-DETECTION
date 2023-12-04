@@ -1433,3 +1433,4 @@
 - [2023-12-04] Add vehicle tracking module
 - [2023-12-04] Add vehicle tracking module
 - [2023-12-04] Update test video clips
+- [2023-12-04] Fix model path bug
