@@ -1436,3 +1436,4 @@
 - [2023-12-04] Fix model path bug
 - [2023-12-06] Refactor frame extractor
 - [2023-12-06] Add vehicle tracking module
+- [2023-12-06] Clean unused imports
