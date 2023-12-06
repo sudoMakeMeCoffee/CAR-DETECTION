@@ -1437,3 +1437,4 @@
 - [2023-12-06] Refactor frame extractor
 - [2023-12-06] Add vehicle tracking module
 - [2023-12-06] Clean unused imports
+- [2023-12-06] Improve detection accuracy
