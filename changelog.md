@@ -1439,3 +1439,4 @@
 - [2023-12-06] Clean unused imports
 - [2023-12-06] Improve detection accuracy
 - [2023-12-08] Add vehicle tracking module
+- [2023-12-08] Fix model path bug
