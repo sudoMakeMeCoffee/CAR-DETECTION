@@ -1447,3 +1447,4 @@
 - [2023-12-10] Tune confidence threshold
 - [2023-12-10] Update README with usage
 - [2023-12-10] Add sample inference notebook
+- [2023-12-10] Add sample inference notebook
