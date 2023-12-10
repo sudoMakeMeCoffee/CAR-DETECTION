@@ -1445,3 +1445,4 @@
 - [2023-12-08] Add vehicle tracking module
 - [2023-12-08] Update test video clips
 - [2023-12-10] Tune confidence threshold
+- [2023-12-10] Update README with usage
