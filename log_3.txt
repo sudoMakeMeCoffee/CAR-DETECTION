@@ -1230,3 +1230,8 @@ print('DEBUG: frame loaded')
 # Commit on 2023-12-08
 # Model tuning params
 CONFIDENCE_THRESHOLD = 0.45
+
+# Commit on 2023-12-11
+# Refactored loop
+for frame in video:
+    detect(frame)
