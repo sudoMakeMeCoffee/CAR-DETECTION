@@ -1454,3 +1454,4 @@
 - [2023-12-11] Refactor frame extractor
 - [2023-12-11] Clean unused imports
 - [2023-12-11] Clean unused imports
+- [2023-12-13] Tune confidence threshold
