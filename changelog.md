@@ -1458,3 +1458,4 @@
 - [2023-12-13] Clean unused imports
 - [2023-12-14] Update test video clips
 - [2023-12-14] Add sample inference notebook
+- [2023-12-14] Improve detection accuracy
