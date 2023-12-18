@@ -1466,3 +1466,4 @@
 - [2023-12-18] Update test video clips
 - [2023-12-18] Add preprocessing pipeline
 - [2023-12-18] Update YOLOv5 model files
+- [2023-12-18] Update test video clips
