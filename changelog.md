@@ -1463,3 +1463,4 @@
 - [2023-12-14] Clean unused imports
 - [2023-12-14] Tune confidence threshold
 - [2023-12-18] Add vehicle tracking module
+- [2023-12-18] Update test video clips
