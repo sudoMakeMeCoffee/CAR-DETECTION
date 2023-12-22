@@ -1472,3 +1472,4 @@
 - [2023-12-21] Update test video clips
 - [2023-12-22] Add preprocessing pipeline
 - [2023-12-22] Improve detection accuracy
+- [2023-12-22] Update test video clips
