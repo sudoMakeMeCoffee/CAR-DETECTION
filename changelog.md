@@ -1480,3 +1480,4 @@
 - [2023-12-23] Fix model path bug
 - [2023-12-23] Refactor frame extractor
 - [2023-12-23] Clean unused imports
+- [2023-12-25] Update README with usage
