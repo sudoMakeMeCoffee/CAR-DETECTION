@@ -1487,3 +1487,4 @@
 - [2023-12-28] Add vehicle tracking module
 - [2023-12-28] Clean unused imports
 - [2023-12-28] Refactor frame extractor
+- [2023-12-28] Tune confidence threshold
