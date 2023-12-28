@@ -1486,3 +1486,4 @@
 - [2023-12-28] Update README with usage
 - [2023-12-28] Add vehicle tracking module
 - [2023-12-28] Clean unused imports
+- [2023-12-28] Refactor frame extractor
