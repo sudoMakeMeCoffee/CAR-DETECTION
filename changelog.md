@@ -1495,3 +1495,4 @@
 - [2023-12-29] Fix frame timing issue
 - [2023-12-30] Tune confidence threshold
 - [2023-12-30] Clean unused imports
+- [2023-12-30] Update test video clips
