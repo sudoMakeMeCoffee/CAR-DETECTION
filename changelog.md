@@ -1493,3 +1493,4 @@
 - [2023-12-29] Update YOLOv5 model files
 - [2023-12-29] Fix model path bug
 - [2023-12-29] Fix frame timing issue
+- [2023-12-30] Tune confidence threshold
