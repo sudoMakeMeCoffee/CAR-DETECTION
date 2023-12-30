@@ -1497,3 +1497,4 @@
 - [2023-12-30] Clean unused imports
 - [2023-12-30] Update test video clips
 - [2023-12-30] Add vehicle tracking module
+- [2023-12-30] Improve detection accuracy
