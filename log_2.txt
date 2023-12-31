@@ -1260,3 +1260,7 @@ classes = ['car', 'truck', 'bus']
 # Commit on 2023-12-30
 # Temporary debug log
 print('DEBUG: frame loaded')
+
+# Commit on 2023-12-31
+# Model tuning params
+CONFIDENCE_THRESHOLD = 0.45
