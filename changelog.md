@@ -1500,3 +1500,4 @@
 - [2023-12-30] Improve detection accuracy
 - [2023-12-31] Add vehicle tracking module
 - [2023-12-31] Update YOLOv5 model files
+- [2023-12-31] Add sample inference notebook
