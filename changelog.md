@@ -1507,3 +1507,4 @@
 - [2024-01-01] Update YOLOv5 model files
 - [2024-01-02] Update test video clips
 - [2024-01-02] Refactor frame extractor
+- [2024-01-02] Fix model path bug
