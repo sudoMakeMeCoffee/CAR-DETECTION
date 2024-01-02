@@ -1508,3 +1508,4 @@
 - [2024-01-02] Update test video clips
 - [2024-01-02] Refactor frame extractor
 - [2024-01-02] Fix model path bug
+- [2024-01-02] Fix frame timing issue

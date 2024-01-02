@@ -1272,3 +1272,7 @@ CONFIDENCE_THRESHOLD = 0.45
 # Commit on 2024-01-02
 # Temporary debug log
 print('DEBUG: frame loaded')
+
+# Commit on 2024-01-02
+# Temporary debug log
+print('DEBUG: frame loaded')
