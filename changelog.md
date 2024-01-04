@@ -1514,3 +1514,4 @@
 - [2024-01-04] Fix model path bug
 - [2024-01-04] Add sample inference notebook
 - [2024-01-04] Tune confidence threshold
+- [2024-01-04] Add sample inference notebook
