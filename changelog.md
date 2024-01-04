@@ -1512,3 +1512,4 @@
 - [2024-01-02] Clean unused imports
 - [2024-01-04] Update test video clips
 - [2024-01-04] Fix model path bug
+- [2024-01-04] Add sample inference notebook
