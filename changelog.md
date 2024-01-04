@@ -1513,3 +1513,4 @@
 - [2024-01-04] Update test video clips
 - [2024-01-04] Fix model path bug
 - [2024-01-04] Add sample inference notebook
+- [2024-01-04] Tune confidence threshold
