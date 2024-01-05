@@ -1242,3 +1242,8 @@ classes = ['car', 'truck', 'bus']
 # Commit on 2024-01-04
 # Model tuning params
 CONFIDENCE_THRESHOLD = 0.45
+
+# Commit on 2024-01-05
+# Refactored loop
+for frame in video:
+    detect(frame)
