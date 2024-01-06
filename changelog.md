@@ -1517,3 +1517,4 @@
 - [2024-01-04] Add sample inference notebook
 - [2024-01-04] Add preprocessing pipeline
 - [2024-01-05] Improve detection accuracy
+- [2024-01-06] Add vehicle tracking module
