@@ -1519,3 +1519,4 @@
 - [2024-01-05] Improve detection accuracy
 - [2024-01-06] Add vehicle tracking module
 - [2024-01-06] Fix model path bug
+- [2024-01-06] Update YOLOv5 model files
