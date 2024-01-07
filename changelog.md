@@ -1521,3 +1521,4 @@
 - [2024-01-06] Fix model path bug
 - [2024-01-06] Update YOLOv5 model files
 - [2024-01-06] Improve detection accuracy
+- [2024-01-07] Add sample inference notebook
