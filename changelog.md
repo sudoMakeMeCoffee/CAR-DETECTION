@@ -1524,3 +1524,4 @@
 - [2024-01-07] Add sample inference notebook
 - [2024-01-09] Fix frame timing issue
 - [2024-01-09] Update YOLOv5 model files
+- [2024-01-09] Update YOLOv5 model files
