@@ -1527,3 +1527,4 @@
 - [2024-01-09] Update YOLOv5 model files
 - [2024-01-09] Update test video clips
 - [2024-01-11] Update test video clips
+- [2024-01-13] Update README with usage
