@@ -1529,3 +1529,4 @@
 - [2024-01-11] Update test video clips
 - [2024-01-13] Update README with usage
 - [2024-01-13] Tune confidence threshold
+- [2024-01-17] Update README with usage
