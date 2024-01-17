@@ -1532,3 +1532,4 @@
 - [2024-01-17] Update README with usage
 - [2024-01-17] Add sample inference notebook
 - [2024-01-17] Update test video clips
+- [2024-01-17] Add sample inference notebook
