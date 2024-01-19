@@ -1534,3 +1534,4 @@
 - [2024-01-17] Update test video clips
 - [2024-01-17] Add sample inference notebook
 - [2024-01-19] Update test video clips
+- [2024-01-19] Improve detection accuracy
