@@ -1540,3 +1540,4 @@
 - [2024-01-19] Fix model path bug
 - [2024-01-19] Update README with usage
 - [2024-01-21] Fix frame timing issue
+- [2024-01-24] Add sample inference notebook
