@@ -1547,3 +1547,4 @@
 - [2024-01-25] Fix model path bug
 - [2024-01-26] Fix model path bug
 - [2024-01-26] Update test video clips
+- [2024-01-26] Refactor frame extractor
