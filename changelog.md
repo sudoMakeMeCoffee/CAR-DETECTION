@@ -1545,3 +1545,4 @@
 - [2024-01-24] Clean unused imports
 - [2024-01-25] Update YOLOv5 model files
 - [2024-01-25] Fix model path bug
+- [2024-01-26] Fix model path bug
