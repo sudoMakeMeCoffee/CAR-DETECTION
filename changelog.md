@@ -1554,3 +1554,4 @@
 - [2024-01-28] Refactor frame extractor
 - [2024-01-28] Improve detection accuracy
 - [2024-01-31] Clean unused imports
+- [2024-01-31] Add preprocessing pipeline
