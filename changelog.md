@@ -1556,3 +1556,4 @@
 - [2024-01-31] Clean unused imports
 - [2024-01-31] Add preprocessing pipeline
 - [2024-01-31] Tune confidence threshold
+- [2024-01-31] Improve detection accuracy
