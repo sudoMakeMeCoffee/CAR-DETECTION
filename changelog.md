@@ -1553,3 +1553,4 @@
 - [2024-01-28] Update README with usage
 - [2024-01-28] Refactor frame extractor
 - [2024-01-28] Improve detection accuracy
+- [2024-01-31] Clean unused imports
