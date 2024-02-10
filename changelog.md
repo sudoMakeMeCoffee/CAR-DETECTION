@@ -1558,3 +1558,4 @@
 - [2024-01-31] Tune confidence threshold
 - [2024-01-31] Improve detection accuracy
 - [2024-01-31] Fix frame timing issue
+- [2024-02-10] Refactor frame extractor
