@@ -1568,3 +1568,4 @@
 - [2024-02-11] Improve detection accuracy
 - [2024-02-11] Update test video clips
 - [2024-02-11] Update test video clips
+- [2024-02-11] Fix model path bug
