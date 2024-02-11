@@ -1563,3 +1563,4 @@
 - [2024-02-10] Improve detection accuracy
 - [2024-02-10] Refactor frame extractor
 - [2024-02-10] Update YOLOv5 model files
+- [2024-02-11] Tune confidence threshold
