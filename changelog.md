@@ -1572,3 +1572,4 @@
 - [2024-02-12] Refactor frame extractor
 - [2024-02-12] Update YOLOv5 model files
 - [2024-02-12] Tune confidence threshold
+- [2024-02-12] Refactor frame extractor
