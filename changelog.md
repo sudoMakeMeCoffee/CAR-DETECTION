@@ -1574,3 +1574,4 @@
 - [2024-02-12] Tune confidence threshold
 - [2024-02-12] Refactor frame extractor
 - [2024-02-18] Clean unused imports
+- [2024-02-18] Add sample inference notebook
