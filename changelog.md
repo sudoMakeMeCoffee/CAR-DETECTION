@@ -1575,3 +1575,4 @@
 - [2024-02-12] Refactor frame extractor
 - [2024-02-18] Clean unused imports
 - [2024-02-18] Add sample inference notebook
+- [2024-02-18] Fix model path bug
