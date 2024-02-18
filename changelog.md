@@ -1578,3 +1578,4 @@
 - [2024-02-18] Fix model path bug
 - [2024-02-18] Add preprocessing pipeline
 - [2024-02-18] Add sample inference notebook
+- [2024-02-18] Improve detection accuracy
