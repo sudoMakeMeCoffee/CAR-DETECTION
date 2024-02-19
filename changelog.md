@@ -1580,3 +1580,4 @@
 - [2024-02-18] Add sample inference notebook
 - [2024-02-18] Improve detection accuracy
 - [2024-02-19] Add vehicle tracking module
+- [2024-02-19] Tune confidence threshold
