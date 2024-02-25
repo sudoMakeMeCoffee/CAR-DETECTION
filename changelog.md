@@ -1584,3 +1584,4 @@
 - [2024-02-19] Clean unused imports
 - [2024-02-19] Update YOLOv5 model files
 - [2024-02-22] Add sample inference notebook
+- [2024-02-25] Add vehicle tracking module
