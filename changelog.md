@@ -1587,3 +1587,4 @@
 - [2024-02-25] Add vehicle tracking module
 - [2024-02-25] Fix frame timing issue
 - [2024-02-28] Update test video clips
+- [2024-02-28] Add sample inference notebook
