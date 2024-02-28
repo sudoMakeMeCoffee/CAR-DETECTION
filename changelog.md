@@ -1589,3 +1589,4 @@
 - [2024-02-28] Update test video clips
 - [2024-02-28] Add sample inference notebook
 - [2024-02-28] Refactor frame extractor
+- [2024-02-28] Fix frame timing issue
