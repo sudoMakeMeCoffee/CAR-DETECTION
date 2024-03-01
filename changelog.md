@@ -1596,3 +1596,4 @@
 - [2024-02-29] Add sample inference notebook
 - [2024-03-01] Refactor frame extractor
 - [2024-03-01] Improve detection accuracy
+- [2024-03-01] Add vehicle tracking module

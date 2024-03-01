@@ -1359,3 +1359,8 @@ print('DEBUG: frame loaded')
 # Commit on 2024-02-29
 # Temporary debug log
 print('DEBUG: frame loaded')
+
+# Commit on 2024-03-01
+# Refactored loop
+for frame in video:
+    detect(frame)
