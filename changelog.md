@@ -1597,3 +1597,4 @@
 - [2024-03-01] Refactor frame extractor
 - [2024-03-01] Improve detection accuracy
 - [2024-03-01] Add vehicle tracking module
+- [2024-03-02] Fix frame timing issue
