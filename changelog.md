@@ -1601,3 +1601,4 @@
 - [2024-03-06] Add sample inference notebook
 - [2024-03-06] Refactor frame extractor
 - [2024-03-09] Add vehicle tracking module
+- [2024-03-09] Update test video clips
