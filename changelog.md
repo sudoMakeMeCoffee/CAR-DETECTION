@@ -1606,3 +1606,4 @@
 - [2024-03-10] Update test video clips
 - [2024-03-10] Add sample inference notebook
 - [2024-03-10] Update README with usage
+- [2024-03-11] Refactor frame extractor
