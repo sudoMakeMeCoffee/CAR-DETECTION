@@ -1611,3 +1611,4 @@
 - [2024-03-11] Tune confidence threshold
 - [2024-03-11] Fix model path bug
 - [2024-03-11] Fix frame timing issue
+- [2024-03-11] Add vehicle tracking module
