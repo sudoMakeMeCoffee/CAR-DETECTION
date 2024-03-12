@@ -1615,3 +1615,4 @@
 - [2024-03-12] Fix frame timing issue
 - [2024-03-12] Update test video clips
 - [2024-03-12] Update YOLOv5 model files
+- [2024-03-12] Tune confidence threshold
