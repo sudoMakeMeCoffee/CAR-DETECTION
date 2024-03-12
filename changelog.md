@@ -1614,3 +1614,4 @@
 - [2024-03-11] Add vehicle tracking module
 - [2024-03-12] Fix frame timing issue
 - [2024-03-12] Update test video clips
+- [2024-03-12] Update YOLOv5 model files
