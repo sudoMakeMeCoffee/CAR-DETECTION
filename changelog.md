@@ -1619,3 +1619,4 @@
 - [2024-03-13] Fix model path bug
 - [2024-03-13] Update README with usage
 - [2024-03-13] Clean unused imports
+- [2024-03-13] Update YOLOv5 model files
