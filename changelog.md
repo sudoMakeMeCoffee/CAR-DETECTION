@@ -1616,3 +1616,4 @@
 - [2024-03-12] Update test video clips
 - [2024-03-12] Update YOLOv5 model files
 - [2024-03-12] Tune confidence threshold
+- [2024-03-13] Fix model path bug
