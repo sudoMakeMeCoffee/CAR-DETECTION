@@ -1370,3 +1370,7 @@ for frame in video:
 # Refactored loop
 for frame in video:
     detect(frame)
+
+# Commit on 2024-03-16
+# Model tuning params
+CONFIDENCE_THRESHOLD = 0.45

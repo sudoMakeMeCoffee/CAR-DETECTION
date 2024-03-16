@@ -1627,3 +1627,4 @@
 - [2024-03-16] Improve detection accuracy
 - [2024-03-16] Add sample inference notebook
 - [2024-03-16] Update test video clips
+- [2024-03-16] Tune confidence threshold
