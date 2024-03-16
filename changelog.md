@@ -1625,3 +1625,4 @@
 - [2024-03-16] Add preprocessing pipeline
 - [2024-03-16] Add preprocessing pipeline
 - [2024-03-16] Improve detection accuracy
+- [2024-03-16] Add sample inference notebook
