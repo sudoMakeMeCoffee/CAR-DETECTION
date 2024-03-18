@@ -1629,3 +1629,4 @@
 - [2024-03-16] Update test video clips
 - [2024-03-16] Tune confidence threshold
 - [2024-03-17] Refactor frame extractor
+- [2024-03-18] Tune confidence threshold
