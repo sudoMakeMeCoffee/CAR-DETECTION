@@ -1640,3 +1640,4 @@
 - [2024-03-21] Refactor frame extractor
 - [2024-03-21] Improve detection accuracy
 - [2024-03-22] Tune confidence threshold
+- [2024-03-22] Update README with usage
