@@ -1647,3 +1647,4 @@
 - [2024-03-25] Refactor frame extractor
 - [2024-03-25] Tune confidence threshold
 - [2024-03-25] Add sample inference notebook
+- [2024-03-25] Add preprocessing pipeline
