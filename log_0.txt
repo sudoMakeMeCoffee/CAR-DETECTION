@@ -1390,3 +1390,7 @@ print('DEBUG: frame loaded')
 # Commit on 2024-03-25
 # Added new vehicle classes
 classes = ['car', 'truck', 'bus']
+
+# Commit on 2024-04-01
+# Added new vehicle classes
+classes = ['car', 'truck', 'bus']
