@@ -1656,3 +1656,4 @@
 - [2024-04-03] Update README with usage
 - [2024-04-03] Update test video clips
 - [2024-04-03] Tune confidence threshold
+- [2024-04-03] Add preprocessing pipeline
