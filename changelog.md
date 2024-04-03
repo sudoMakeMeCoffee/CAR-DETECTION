@@ -1655,3 +1655,4 @@
 - [2024-04-01] Update YOLOv5 model files
 - [2024-04-03] Update README with usage
 - [2024-04-03] Update test video clips
+- [2024-04-03] Tune confidence threshold
