@@ -1653,3 +1653,4 @@
 - [2024-04-01] Tune confidence threshold
 - [2024-04-01] Improve detection accuracy
 - [2024-04-01] Update YOLOv5 model files
+- [2024-04-03] Update README with usage
