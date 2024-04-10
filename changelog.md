@@ -1666,3 +1666,4 @@
 - [2024-04-10] Improve detection accuracy
 - [2024-04-10] Tune confidence threshold
 - [2024-04-10] Add vehicle tracking module
+- [2024-04-10] Fix frame timing issue
