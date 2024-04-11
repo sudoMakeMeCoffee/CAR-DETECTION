@@ -1670,3 +1670,4 @@
 - [2024-04-10] Refactor frame extractor
 - [2024-04-11] Refactor frame extractor
 - [2024-04-11] Fix model path bug
+- [2024-04-11] Update YOLOv5 model files
