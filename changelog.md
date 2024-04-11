@@ -1669,3 +1669,4 @@
 - [2024-04-10] Fix frame timing issue
 - [2024-04-10] Refactor frame extractor
 - [2024-04-11] Refactor frame extractor
+- [2024-04-11] Fix model path bug
