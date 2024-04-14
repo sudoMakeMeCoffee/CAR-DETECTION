@@ -1677,3 +1677,4 @@
 - [2024-04-14] Update README with usage
 - [2024-04-14] Clean unused imports
 - [2024-04-14] Fix frame timing issue
+- [2024-04-14] Improve detection accuracy
