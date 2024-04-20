@@ -1680,3 +1680,4 @@
 - [2024-04-14] Improve detection accuracy
 - [2024-04-15] Update test video clips
 - [2024-04-18] Fix model path bug
+- [2024-04-20] Tune confidence threshold
