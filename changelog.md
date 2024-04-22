@@ -1687,3 +1687,4 @@
 - [2024-04-21] Tune confidence threshold
 - [2024-04-21] Clean unused imports
 - [2024-04-22] Refactor frame extractor
+- [2024-04-22] Add preprocessing pipeline
