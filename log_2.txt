@@ -1393,3 +1393,7 @@ bbox = [x, y, w, h]
 # Commit on 2024-04-21
 # Temporary debug log
 print('DEBUG: frame loaded')
+
+# Commit on 2024-04-22
+# Model tuning params
+CONFIDENCE_THRESHOLD = 0.45
