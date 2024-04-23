@@ -1694,3 +1694,4 @@
 - [2024-04-23] Fix model path bug
 - [2024-04-23] Tune confidence threshold
 - [2024-04-23] Fix model path bug
+- [2024-04-23] Add preprocessing pipeline
