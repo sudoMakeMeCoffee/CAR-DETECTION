@@ -1696,3 +1696,4 @@
 - [2024-04-23] Fix model path bug
 - [2024-04-23] Add preprocessing pipeline
 - [2024-04-23] Add sample inference notebook
+- [2024-04-24] Add preprocessing pipeline
