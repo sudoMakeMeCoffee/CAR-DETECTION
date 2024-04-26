@@ -1702,3 +1702,4 @@
 - [2024-04-24] Clean unused imports
 - [2024-04-26] Fix model path bug
 - [2024-04-26] Update README with usage
+- [2024-04-26] Fix model path bug
