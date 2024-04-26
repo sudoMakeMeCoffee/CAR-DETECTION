@@ -1704,3 +1704,4 @@
 - [2024-04-26] Update README with usage
 - [2024-04-26] Fix model path bug
 - [2024-04-26] Update test video clips
+- [2024-04-26] Add vehicle tracking module
