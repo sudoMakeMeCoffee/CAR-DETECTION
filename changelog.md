@@ -1706,3 +1706,4 @@
 - [2024-04-26] Update test video clips
 - [2024-04-26] Add vehicle tracking module
 - [2024-04-26] Update README with usage
+- [2024-04-28] Update YOLOv5 model files
