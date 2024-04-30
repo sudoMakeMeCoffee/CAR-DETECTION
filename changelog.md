@@ -1712,3 +1712,4 @@
 - [2024-04-30] Fix frame timing issue
 - [2024-04-30] Tune confidence threshold
 - [2024-04-30] Add preprocessing pipeline
+- [2024-04-30] Update README with usage
