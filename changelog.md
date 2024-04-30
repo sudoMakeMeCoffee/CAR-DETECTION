@@ -1711,3 +1711,4 @@
 - [2024-04-30] Refactor frame extractor
 - [2024-04-30] Fix frame timing issue
 - [2024-04-30] Tune confidence threshold
+- [2024-04-30] Add preprocessing pipeline
