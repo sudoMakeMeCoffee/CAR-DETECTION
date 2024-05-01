@@ -1715,3 +1715,4 @@
 - [2024-04-30] Update README with usage
 - [2024-05-01] Tune confidence threshold
 - [2024-05-01] Clean unused imports
+- [2024-05-01] Update README with usage
