@@ -1713,3 +1713,4 @@
 - [2024-04-30] Tune confidence threshold
 - [2024-04-30] Add preprocessing pipeline
 - [2024-04-30] Update README with usage
+- [2024-05-01] Tune confidence threshold
