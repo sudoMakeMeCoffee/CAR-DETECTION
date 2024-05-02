@@ -1719,3 +1719,4 @@
 - [2024-05-01] Add preprocessing pipeline
 - [2024-05-01] Add preprocessing pipeline
 - [2024-05-02] Improve detection accuracy
+- [2024-05-02] Add sample inference notebook
