@@ -1439,3 +1439,8 @@ bbox = [x, y, w, h]
 # Commit on 2024-05-02
 # Model tuning params
 CONFIDENCE_THRESHOLD = 0.45
+
+# Commit on 2024-05-03
+# Refactored loop
+for frame in video:
+    detect(frame)
