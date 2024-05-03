@@ -1721,3 +1721,4 @@
 - [2024-05-02] Improve detection accuracy
 - [2024-05-02] Add sample inference notebook
 - [2024-05-03] Add vehicle tracking module
+- [2024-05-03] Update YOLOv5 model files
