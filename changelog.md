@@ -1727,3 +1727,4 @@
 - [2024-05-03] Clean unused imports
 - [2024-05-03] Fix model path bug
 - [2024-05-09] Clean unused imports
+- [2024-05-09] Update YOLOv5 model files
