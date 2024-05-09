@@ -1450,3 +1450,7 @@ bbox = [x, y, w, h]
 # Commit on 2024-05-09
 # Temporary debug log
 print('DEBUG: frame loaded')
+
+# Commit on 2024-05-09
+# Temporary debug log
+print('DEBUG: frame loaded')
