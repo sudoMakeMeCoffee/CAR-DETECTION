@@ -1731,3 +1731,4 @@
 - [2024-05-09] Clean unused imports
 - [2024-05-10] Tune confidence threshold
 - [2024-05-13] Tune confidence threshold
+- [2024-05-13] Fix frame timing issue
