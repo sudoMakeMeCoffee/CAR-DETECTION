@@ -1732,3 +1732,4 @@
 - [2024-05-10] Tune confidence threshold
 - [2024-05-13] Tune confidence threshold
 - [2024-05-13] Fix frame timing issue
+- [2024-05-14] Add vehicle tracking module
