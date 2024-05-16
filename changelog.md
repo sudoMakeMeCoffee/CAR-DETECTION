@@ -1737,3 +1737,4 @@
 - [2024-05-14] Refactor frame extractor
 - [2024-05-14] Update YOLOv5 model files
 - [2024-05-16] Add preprocessing pipeline
+- [2024-05-16] Improve detection accuracy
