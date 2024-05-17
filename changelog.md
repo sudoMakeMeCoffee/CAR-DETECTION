@@ -1739,3 +1739,4 @@
 - [2024-05-16] Add preprocessing pipeline
 - [2024-05-16] Improve detection accuracy
 - [2024-05-16] Add sample inference notebook
+- [2024-05-17] Update test video clips
