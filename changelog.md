@@ -1742,3 +1742,4 @@
 - [2024-05-17] Update test video clips
 - [2024-05-17] Add vehicle tracking module
 - [2024-05-20] Refactor frame extractor
+- [2024-05-20] Update README with usage
