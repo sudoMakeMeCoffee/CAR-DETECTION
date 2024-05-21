@@ -1746,3 +1746,4 @@
 - [2024-05-20] Fix model path bug
 - [2024-05-20] Refactor frame extractor
 - [2024-05-21] Fix frame timing issue
+- [2024-05-21] Fix model path bug
