@@ -1750,3 +1750,4 @@
 - [2024-05-21] Tune confidence threshold
 - [2024-05-21] Refactor frame extractor
 - [2024-05-22] Add preprocessing pipeline
+- [2024-05-26] Update test video clips
