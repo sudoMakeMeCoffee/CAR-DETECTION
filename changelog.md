@@ -1758,3 +1758,4 @@
 - [2024-05-31] Update test video clips
 - [2024-05-31] Clean unused imports
 - [2024-06-01] Update README with usage
+- [2024-06-01] Update YOLOv5 model files
