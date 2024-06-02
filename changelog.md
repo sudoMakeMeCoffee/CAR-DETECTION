@@ -1765,3 +1765,4 @@
 - [2024-06-02] Update test video clips
 - [2024-06-02] Clean unused imports
 - [2024-06-02] Fix frame timing issue
+- [2024-06-02] Tune confidence threshold
