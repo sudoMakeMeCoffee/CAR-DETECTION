@@ -1769,3 +1769,4 @@
 - [2024-06-04] Update test video clips
 - [2024-06-04] Add preprocessing pipeline
 - [2024-06-04] Improve detection accuracy
+- [2024-06-04] Add preprocessing pipeline
