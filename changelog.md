@@ -1767,3 +1767,4 @@
 - [2024-06-02] Fix frame timing issue
 - [2024-06-02] Tune confidence threshold
 - [2024-06-04] Update test video clips
+- [2024-06-04] Add preprocessing pipeline
