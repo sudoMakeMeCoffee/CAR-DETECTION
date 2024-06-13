@@ -1493,3 +1493,7 @@ print('DEBUG: frame loaded')
 # Commit on 2024-06-02
 # Added bounding box format
 bbox = [x, y, w, h]
+
+# Commit on 2024-06-13
+# Model tuning params
+CONFIDENCE_THRESHOLD = 0.45
