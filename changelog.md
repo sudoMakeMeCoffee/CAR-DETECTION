@@ -1784,3 +1784,4 @@
 - [2024-06-13] Update README with usage
 - [2024-06-13] Update YOLOv5 model files
 - [2024-06-13] Improve detection accuracy
+- [2024-06-13] Add sample inference notebook
