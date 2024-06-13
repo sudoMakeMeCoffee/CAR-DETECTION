@@ -1781,3 +1781,4 @@
 - [2024-06-11] Update README with usage
 - [2024-06-11] Fix frame timing issue
 - [2024-06-13] Update test video clips
+- [2024-06-13] Update README with usage
