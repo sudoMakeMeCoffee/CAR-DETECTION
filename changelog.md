@@ -1786,3 +1786,4 @@
 - [2024-06-13] Improve detection accuracy
 - [2024-06-13] Add sample inference notebook
 - [2024-06-13] Fix model path bug
+- [2024-06-15] Fix frame timing issue
