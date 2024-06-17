@@ -1791,3 +1791,4 @@
 - [2024-06-15] Clean unused imports
 - [2024-06-17] Update README with usage
 - [2024-06-17] Improve detection accuracy
+- [2024-06-17] Improve detection accuracy
