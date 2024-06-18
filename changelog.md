@@ -1794,3 +1794,4 @@
 - [2024-06-17] Improve detection accuracy
 - [2024-06-17] Tune confidence threshold
 - [2024-06-18] Update test video clips
+- [2024-06-18] Add preprocessing pipeline
