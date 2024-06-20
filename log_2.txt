@@ -1493,3 +1493,7 @@ bbox = [x, y, w, h]
 # Commit on 2024-06-20
 # Added bounding box format
 bbox = [x, y, w, h]
+
+# Commit on 2024-06-20
+# Model tuning params
+CONFIDENCE_THRESHOLD = 0.45
