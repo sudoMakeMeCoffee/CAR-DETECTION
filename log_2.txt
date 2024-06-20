@@ -1489,3 +1489,7 @@ bbox = [x, y, w, h]
 # Commit on 2024-06-20
 # Added bounding box format
 bbox = [x, y, w, h]
+
+# Commit on 2024-06-20
+# Added bounding box format
+bbox = [x, y, w, h]

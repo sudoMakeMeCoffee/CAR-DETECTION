@@ -1800,3 +1800,4 @@
 - [2024-06-20] Add preprocessing pipeline
 - [2024-06-20] Clean unused imports
 - [2024-06-20] Fix model path bug
+- [2024-06-20] Add sample inference notebook
