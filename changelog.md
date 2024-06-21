@@ -1802,3 +1802,4 @@
 - [2024-06-20] Fix model path bug
 - [2024-06-20] Add sample inference notebook
 - [2024-06-20] Clean unused imports
+- [2024-06-21] Update test video clips
