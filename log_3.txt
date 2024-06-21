@@ -1517,3 +1517,7 @@ bbox = [x, y, w, h]
 # Commit on 2024-06-13
 # Model tuning params
 CONFIDENCE_THRESHOLD = 0.45
+
+# Commit on 2024-06-21
+# Added new vehicle classes
+classes = ['car', 'truck', 'bus']
