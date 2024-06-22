@@ -1810,3 +1810,4 @@
 - [2024-06-22] Add vehicle tracking module
 - [2024-06-22] Fix frame timing issue
 - [2024-06-22] Add vehicle tracking module
+- [2024-06-22] Update README with usage
