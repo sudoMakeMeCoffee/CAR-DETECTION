@@ -1815,3 +1815,4 @@
 - [2024-06-23] Add sample inference notebook
 - [2024-06-23] Add sample inference notebook
 - [2024-06-23] Add preprocessing pipeline
+- [2024-06-23] Add sample inference notebook
