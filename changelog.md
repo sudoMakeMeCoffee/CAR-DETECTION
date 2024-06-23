@@ -1814,3 +1814,4 @@
 - [2024-06-22] Fix frame timing issue
 - [2024-06-23] Add sample inference notebook
 - [2024-06-23] Add sample inference notebook
+- [2024-06-23] Add preprocessing pipeline
