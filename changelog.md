@@ -1819,3 +1819,4 @@
 - [2024-06-23] Update README with usage
 - [2024-06-28] Update README with usage
 - [2024-06-28] Update test video clips
+- [2024-06-30] Fix model path bug
