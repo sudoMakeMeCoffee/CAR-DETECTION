@@ -1822,3 +1822,4 @@
 - [2024-06-30] Fix model path bug
 - [2024-06-30] Update test video clips
 - [2024-06-30] Add preprocessing pipeline
+- [2024-06-30] Fix frame timing issue
