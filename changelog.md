@@ -1824,3 +1824,4 @@
 - [2024-06-30] Add preprocessing pipeline
 - [2024-06-30] Fix frame timing issue
 - [2024-07-01] Clean unused imports
+- [2024-07-01] Update README with usage
