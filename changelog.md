@@ -1826,3 +1826,4 @@
 - [2024-07-01] Clean unused imports
 - [2024-07-01] Update README with usage
 - [2024-07-01] Update test video clips
+- [2024-07-03] Improve detection accuracy
