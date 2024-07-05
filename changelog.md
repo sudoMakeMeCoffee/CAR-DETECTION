@@ -1832,3 +1832,4 @@
 - [2024-07-03] Tune confidence threshold
 - [2024-07-03] Update README with usage
 - [2024-07-04] Clean unused imports
+- [2024-07-05] Tune confidence threshold
