@@ -1836,3 +1836,4 @@
 - [2024-07-08] Update test video clips
 - [2024-07-08] Add sample inference notebook
 - [2024-07-08] Improve detection accuracy
+- [2024-07-08] Clean unused imports
