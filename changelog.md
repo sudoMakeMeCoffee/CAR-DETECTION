@@ -1834,3 +1834,4 @@
 - [2024-07-04] Clean unused imports
 - [2024-07-05] Tune confidence threshold
 - [2024-07-08] Update test video clips
+- [2024-07-08] Add sample inference notebook
