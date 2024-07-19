@@ -1840,3 +1840,4 @@
 - [2024-07-17] Clean unused imports
 - [2024-07-17] Refactor frame extractor
 - [2024-07-17] Update README with usage
+- [2024-07-19] Fix frame timing issue
