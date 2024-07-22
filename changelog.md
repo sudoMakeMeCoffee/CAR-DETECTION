@@ -1844,3 +1844,4 @@
 - [2024-07-19] Refactor frame extractor
 - [2024-07-20] Update README with usage
 - [2024-07-22] Add sample inference notebook
+- [2024-07-22] Tune confidence threshold
