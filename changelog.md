@@ -1850,3 +1850,4 @@
 - [2024-07-25] Update test video clips
 - [2024-07-25] Add vehicle tracking module
 - [2024-07-25] Improve detection accuracy
+- [2024-07-25] Update README with usage
