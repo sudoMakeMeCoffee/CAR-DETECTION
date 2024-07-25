@@ -1846,3 +1846,4 @@
 - [2024-07-22] Add sample inference notebook
 - [2024-07-22] Tune confidence threshold
 - [2024-07-22] Add sample inference notebook
+- [2024-07-25] Fix model path bug
