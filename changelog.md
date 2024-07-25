@@ -1848,3 +1848,4 @@
 - [2024-07-22] Add sample inference notebook
 - [2024-07-25] Fix model path bug
 - [2024-07-25] Update test video clips
+- [2024-07-25] Add vehicle tracking module
