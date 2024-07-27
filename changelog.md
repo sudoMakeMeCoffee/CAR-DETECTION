@@ -1854,3 +1854,4 @@
 - [2024-07-27] Update YOLOv5 model files
 - [2024-07-27] Tune confidence threshold
 - [2024-07-27] Update YOLOv5 model files
+- [2024-07-27] Tune confidence threshold
