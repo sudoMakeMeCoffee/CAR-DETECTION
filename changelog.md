@@ -1851,3 +1851,4 @@
 - [2024-07-25] Add vehicle tracking module
 - [2024-07-25] Improve detection accuracy
 - [2024-07-25] Update README with usage
+- [2024-07-27] Update YOLOv5 model files
