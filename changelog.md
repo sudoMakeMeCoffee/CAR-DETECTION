@@ -1858,3 +1858,4 @@
 - [2024-07-27] Improve detection accuracy
 - [2024-07-27] Fix frame timing issue
 - [2024-07-31] Add preprocessing pipeline
+- [2024-07-31] Add sample inference notebook
