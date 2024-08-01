@@ -1864,3 +1864,4 @@
 - [2024-08-01] Improve detection accuracy
 - [2024-08-01] Add sample inference notebook
 - [2024-08-01] Refactor frame extractor
+- [2024-08-01] Improve detection accuracy
