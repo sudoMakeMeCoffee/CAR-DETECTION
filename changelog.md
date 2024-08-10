@@ -1872,3 +1872,4 @@
 - [2024-08-06] Add preprocessing pipeline
 - [2024-08-10] Update README with usage
 - [2024-08-10] Add vehicle tracking module
+- [2024-08-10] Update README with usage
