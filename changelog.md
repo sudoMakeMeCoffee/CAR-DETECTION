@@ -1870,3 +1870,4 @@
 - [2024-08-06] Clean unused imports
 - [2024-08-06] Refactor frame extractor
 - [2024-08-06] Add preprocessing pipeline
+- [2024-08-10] Update README with usage
