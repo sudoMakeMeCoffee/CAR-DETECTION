@@ -1878,3 +1878,4 @@
 - [2024-08-10] Add sample inference notebook
 - [2024-08-13] Tune confidence threshold
 - [2024-08-14] Refactor frame extractor
+- [2024-08-14] Improve detection accuracy
