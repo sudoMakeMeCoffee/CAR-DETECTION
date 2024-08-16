@@ -1879,3 +1879,4 @@
 - [2024-08-13] Tune confidence threshold
 - [2024-08-14] Refactor frame extractor
 - [2024-08-14] Improve detection accuracy
+- [2024-08-16] Clean unused imports
