@@ -1883,3 +1883,4 @@
 - [2024-08-16] Update test video clips
 - [2024-08-16] Update README with usage
 - [2024-08-17] Fix frame timing issue
+- [2024-08-17] Improve detection accuracy
