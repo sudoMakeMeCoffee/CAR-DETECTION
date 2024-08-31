@@ -1896,3 +1896,4 @@
 - [2024-08-22] Add vehicle tracking module
 - [2024-08-22] Add sample inference notebook
 - [2024-08-31] Add vehicle tracking module
+- [2024-08-31] Add vehicle tracking module
