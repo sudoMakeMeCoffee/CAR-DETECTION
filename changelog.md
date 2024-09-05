@@ -1904,3 +1904,4 @@
 - [2024-09-05] Refactor frame extractor
 - [2024-09-05] Refactor frame extractor
 - [2024-09-05] Tune confidence threshold
+- [2024-09-05] Improve detection accuracy
