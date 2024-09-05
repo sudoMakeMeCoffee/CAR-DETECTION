@@ -1903,3 +1903,4 @@
 - [2024-09-05] Fix model path bug
 - [2024-09-05] Refactor frame extractor
 - [2024-09-05] Refactor frame extractor
+- [2024-09-05] Tune confidence threshold
