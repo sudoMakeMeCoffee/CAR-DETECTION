@@ -1900,3 +1900,4 @@
 - [2024-08-31] Fix model path bug
 - [2024-09-04] Fix frame timing issue
 - [2024-09-04] Refactor frame extractor
+- [2024-09-05] Fix model path bug
