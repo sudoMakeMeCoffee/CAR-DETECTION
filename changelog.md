@@ -1906,3 +1906,4 @@
 - [2024-09-05] Tune confidence threshold
 - [2024-09-05] Improve detection accuracy
 - [2024-09-06] Add preprocessing pipeline
+- [2024-09-06] Update YOLOv5 model files
