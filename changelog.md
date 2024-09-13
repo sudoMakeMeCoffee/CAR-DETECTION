@@ -1910,3 +1910,4 @@
 - [2024-09-06] Add preprocessing pipeline
 - [2024-09-13] Fix model path bug
 - [2024-09-13] Add sample inference notebook
+- [2024-09-13] Tune confidence threshold
