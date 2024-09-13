@@ -1604,3 +1604,7 @@ classes = ['car', 'truck', 'bus']
 # Commit on 2024-09-05
 # Added new vehicle classes
 classes = ['car', 'truck', 'bus']
+
+# Commit on 2024-09-13
+# Added bounding box format
+bbox = [x, y, w, h]

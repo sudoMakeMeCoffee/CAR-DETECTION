@@ -1908,3 +1908,4 @@
 - [2024-09-06] Add preprocessing pipeline
 - [2024-09-06] Update YOLOv5 model files
 - [2024-09-06] Add preprocessing pipeline
+- [2024-09-13] Fix model path bug
