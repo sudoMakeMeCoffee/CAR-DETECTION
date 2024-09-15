@@ -1915,3 +1915,4 @@
 - [2024-09-13] Clean unused imports
 - [2024-09-15] Update YOLOv5 model files
 - [2024-09-15] Fix frame timing issue
+- [2024-09-15] Clean unused imports
