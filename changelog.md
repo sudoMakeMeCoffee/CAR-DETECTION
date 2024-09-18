@@ -1923,3 +1923,4 @@
 - [2024-09-18] Clean unused imports
 - [2024-09-18] Tune confidence threshold
 - [2024-09-18] Improve detection accuracy
+- [2024-09-18] Improve detection accuracy
