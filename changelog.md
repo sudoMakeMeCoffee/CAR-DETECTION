@@ -1928,3 +1928,4 @@
 - [2024-09-20] Add sample inference notebook
 - [2024-09-20] Add vehicle tracking module
 - [2024-09-20] Improve detection accuracy
+- [2024-09-24] Clean unused imports
