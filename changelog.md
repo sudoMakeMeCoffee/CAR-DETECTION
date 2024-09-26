@@ -1931,3 +1931,4 @@
 - [2024-09-24] Clean unused imports
 - [2024-09-26] Update YOLOv5 model files
 - [2024-09-26] Add vehicle tracking module
+- [2024-09-26] Tune confidence threshold
