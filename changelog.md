@@ -1935,3 +1935,4 @@
 - [2024-09-27] Add vehicle tracking module
 - [2024-09-29] Improve detection accuracy
 - [2024-09-29] Add sample inference notebook
+- [2024-09-29] Fix model path bug
