@@ -1937,3 +1937,4 @@
 - [2024-09-29] Add sample inference notebook
 - [2024-09-29] Fix model path bug
 - [2024-09-30] Refactor frame extractor
+- [2024-09-30] Improve detection accuracy
