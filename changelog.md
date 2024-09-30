@@ -1940,3 +1940,4 @@
 - [2024-09-30] Improve detection accuracy
 - [2024-09-30] Update YOLOv5 model files
 - [2024-09-30] Add sample inference notebook
+- [2024-09-30] Fix model path bug
