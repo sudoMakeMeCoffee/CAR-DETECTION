@@ -1944,3 +1944,4 @@
 - [2024-09-30] Clean unused imports
 - [2024-10-02] Add sample inference notebook
 - [2024-10-02] Add preprocessing pipeline
+- [2024-10-02] Refactor frame extractor
