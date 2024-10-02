@@ -1946,3 +1946,4 @@
 - [2024-10-02] Add preprocessing pipeline
 - [2024-10-02] Refactor frame extractor
 - [2024-10-02] Fix model path bug
+- [2024-10-02] Update test video clips
