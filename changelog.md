@@ -1949,3 +1949,4 @@
 - [2024-10-02] Update test video clips
 - [2024-10-03] Update YOLOv5 model files
 - [2024-10-03] Fix model path bug
+- [2024-10-03] Refactor frame extractor
