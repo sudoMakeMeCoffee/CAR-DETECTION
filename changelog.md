@@ -1952,3 +1952,4 @@
 - [2024-10-03] Refactor frame extractor
 - [2024-10-03] Add vehicle tracking module
 - [2024-10-04] Tune confidence threshold
+- [2024-10-04] Update README with usage
