@@ -1951,3 +1951,4 @@
 - [2024-10-03] Fix model path bug
 - [2024-10-03] Refactor frame extractor
 - [2024-10-03] Add vehicle tracking module
+- [2024-10-04] Tune confidence threshold
