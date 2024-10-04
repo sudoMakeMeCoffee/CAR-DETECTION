@@ -1954,3 +1954,4 @@
 - [2024-10-04] Tune confidence threshold
 - [2024-10-04] Update README with usage
 - [2024-10-04] Add preprocessing pipeline
+- [2024-10-04] Update YOLOv5 model files
