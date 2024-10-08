@@ -1960,3 +1960,4 @@
 - [2024-10-08] Fix model path bug
 - [2024-10-08] Add sample inference notebook
 - [2024-10-08] Update test video clips
+- [2024-10-08] Fix model path bug

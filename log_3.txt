@@ -1616,3 +1616,7 @@ for frame in video:
 # Commit on 2024-10-03
 # Model tuning params
 CONFIDENCE_THRESHOLD = 0.45
+
+# Commit on 2024-10-08
+# Model tuning params
+CONFIDENCE_THRESHOLD = 0.45
