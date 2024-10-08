@@ -1957,3 +1957,4 @@
 - [2024-10-04] Update YOLOv5 model files
 - [2024-10-04] Add preprocessing pipeline
 - [2024-10-04] Update YOLOv5 model files
+- [2024-10-08] Fix model path bug
