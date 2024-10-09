@@ -1962,3 +1962,4 @@
 - [2024-10-08] Update test video clips
 - [2024-10-08] Fix model path bug
 - [2024-10-08] Update README with usage
+- [2024-10-09] Add preprocessing pipeline
