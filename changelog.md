@@ -1964,3 +1964,4 @@
 - [2024-10-08] Update README with usage
 - [2024-10-09] Add preprocessing pipeline
 - [2024-10-11] Refactor frame extractor
+- [2024-10-11] Update README with usage
