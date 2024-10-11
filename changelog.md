@@ -1963,3 +1963,4 @@
 - [2024-10-08] Fix model path bug
 - [2024-10-08] Update README with usage
 - [2024-10-09] Add preprocessing pipeline
+- [2024-10-11] Refactor frame extractor
