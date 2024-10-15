@@ -1967,3 +1967,4 @@
 - [2024-10-11] Update README with usage
 - [2024-10-11] Tune confidence threshold
 - [2024-10-15] Update README with usage
+- [2024-10-15] Refactor frame extractor
