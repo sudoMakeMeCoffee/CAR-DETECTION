@@ -1972,3 +1972,4 @@
 - [2024-10-19] Refactor frame extractor
 - [2024-10-19] Fix model path bug
 - [2024-10-19] Refactor frame extractor
+- [2024-10-19] Add preprocessing pipeline
