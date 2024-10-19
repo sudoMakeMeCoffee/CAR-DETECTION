@@ -1969,3 +1969,4 @@
 - [2024-10-15] Update README with usage
 - [2024-10-15] Refactor frame extractor
 - [2024-10-19] Clean unused imports
+- [2024-10-19] Refactor frame extractor
