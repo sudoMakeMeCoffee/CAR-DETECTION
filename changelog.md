@@ -1974,3 +1974,4 @@
 - [2024-10-19] Refactor frame extractor
 - [2024-10-19] Add preprocessing pipeline
 - [2024-10-20] Clean unused imports
+- [2024-10-20] Refactor frame extractor
