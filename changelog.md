@@ -1976,3 +1976,4 @@
 - [2024-10-20] Clean unused imports
 - [2024-10-20] Refactor frame extractor
 - [2024-10-20] Tune confidence threshold
+- [2024-10-20] Improve detection accuracy
