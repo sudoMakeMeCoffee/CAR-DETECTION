@@ -1978,3 +1978,4 @@
 - [2024-10-20] Tune confidence threshold
 - [2024-10-20] Improve detection accuracy
 - [2024-10-20] Clean unused imports
+- [2024-10-20] Update YOLOv5 model files
