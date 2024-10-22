@@ -1700,3 +1700,8 @@ classes = ['car', 'truck', 'bus']
 # Commit on 2024-10-22
 # Temporary debug log
 print('DEBUG: frame loaded')
+
+# Commit on 2024-10-22
+# Refactored loop
+for frame in video:
+    detect(frame)
