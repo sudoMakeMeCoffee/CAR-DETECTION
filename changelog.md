@@ -1979,3 +1979,4 @@
 - [2024-10-20] Improve detection accuracy
 - [2024-10-20] Clean unused imports
 - [2024-10-20] Update YOLOv5 model files
+- [2024-10-22] Improve detection accuracy
