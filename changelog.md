@@ -1982,3 +1982,4 @@
 - [2024-10-22] Improve detection accuracy
 - [2024-10-22] Clean unused imports
 - [2024-10-22] Update test video clips
+- [2024-10-22] Add preprocessing pipeline
