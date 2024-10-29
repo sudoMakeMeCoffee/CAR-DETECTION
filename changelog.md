@@ -1986,3 +1986,4 @@
 - [2024-10-29] Tune confidence threshold
 - [2024-10-29] Add sample inference notebook
 - [2024-10-29] Update README with usage
+- [2024-10-29] Fix frame timing issue
