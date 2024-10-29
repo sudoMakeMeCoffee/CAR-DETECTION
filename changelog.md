@@ -1983,3 +1983,4 @@
 - [2024-10-22] Clean unused imports
 - [2024-10-22] Update test video clips
 - [2024-10-22] Add preprocessing pipeline
+- [2024-10-29] Tune confidence threshold
