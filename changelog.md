@@ -1989,3 +1989,4 @@
 - [2024-10-29] Fix frame timing issue
 - [2024-10-31] Tune confidence threshold
 - [2024-11-02] Fix model path bug
+- [2024-11-02] Update README with usage
