@@ -1991,3 +1991,4 @@
 - [2024-11-02] Fix model path bug
 - [2024-11-02] Update README with usage
 - [2024-11-02] Add preprocessing pipeline
+- [2024-11-02] Update README with usage
