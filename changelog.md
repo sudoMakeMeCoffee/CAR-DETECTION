@@ -1994,3 +1994,4 @@
 - [2024-11-02] Update README with usage
 - [2024-11-03] Update YOLOv5 model files
 - [2024-11-04] Add preprocessing pipeline
+- [2024-11-04] Update YOLOv5 model files
