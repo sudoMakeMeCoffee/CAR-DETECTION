@@ -1999,3 +1999,4 @@
 - [2024-11-04] Improve detection accuracy
 - [2024-11-05] Add vehicle tracking module
 - [2024-11-05] Clean unused imports
+- [2024-11-05] Add sample inference notebook
