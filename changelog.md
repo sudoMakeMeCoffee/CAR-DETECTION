@@ -2005,3 +2005,4 @@
 - [2024-11-05] Fix model path bug
 - [2024-11-06] Refactor frame extractor
 - [2024-11-06] Update test video clips
+- [2024-11-06] Fix model path bug
