@@ -2009,3 +2009,4 @@
 - [2024-11-06] Add sample inference notebook
 - [2024-11-07] Add preprocessing pipeline
 - [2024-11-07] Tune confidence threshold
+- [2024-11-07] Update test video clips
