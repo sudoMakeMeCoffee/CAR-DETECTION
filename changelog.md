@@ -2008,3 +2008,4 @@
 - [2024-11-06] Fix model path bug
 - [2024-11-06] Add sample inference notebook
 - [2024-11-07] Add preprocessing pipeline
+- [2024-11-07] Tune confidence threshold
