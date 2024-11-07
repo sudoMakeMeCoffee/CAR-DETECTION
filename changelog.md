@@ -2011,3 +2011,4 @@
 - [2024-11-07] Tune confidence threshold
 - [2024-11-07] Update test video clips
 - [2024-11-07] Refactor frame extractor
+- [2024-11-07] Update YOLOv5 model files
