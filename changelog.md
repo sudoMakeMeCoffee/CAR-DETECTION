@@ -2012,3 +2012,4 @@
 - [2024-11-07] Update test video clips
 - [2024-11-07] Refactor frame extractor
 - [2024-11-07] Update YOLOv5 model files
+- [2024-11-07] Fix frame timing issue
