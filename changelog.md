@@ -2016,3 +2016,4 @@
 - [2024-11-09] Fix frame timing issue
 - [2024-11-09] Refactor frame extractor
 - [2024-11-09] Update test video clips
+- [2024-11-09] Refactor frame extractor
