@@ -2022,3 +2022,4 @@
 - [2024-11-10] Add sample inference notebook
 - [2024-11-10] Update README with usage
 - [2024-11-10] Refactor frame extractor
+- [2024-11-10] Update README with usage
