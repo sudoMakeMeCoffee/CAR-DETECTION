@@ -2019,3 +2019,4 @@
 - [2024-11-09] Refactor frame extractor
 - [2024-11-09] Add preprocessing pipeline
 - [2024-11-09] Tune confidence threshold
+- [2024-11-10] Add sample inference notebook
