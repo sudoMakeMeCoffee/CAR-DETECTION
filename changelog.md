@@ -2026,3 +2026,4 @@
 - [2024-11-10] Improve detection accuracy
 - [2024-11-10] Add vehicle tracking module
 - [2024-11-14] Add sample inference notebook
+- [2024-11-14] Fix frame timing issue
