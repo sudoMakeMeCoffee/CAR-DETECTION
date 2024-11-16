@@ -2027,3 +2027,4 @@
 - [2024-11-10] Add vehicle tracking module
 - [2024-11-14] Add sample inference notebook
 - [2024-11-14] Fix frame timing issue
+- [2024-11-16] Clean unused imports
