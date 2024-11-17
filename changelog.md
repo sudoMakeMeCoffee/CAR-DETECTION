@@ -2031,3 +2031,4 @@
 - [2024-11-17] Fix frame timing issue
 - [2024-11-17] Clean unused imports
 - [2024-11-17] Update YOLOv5 model files
+- [2024-11-17] Add preprocessing pipeline
