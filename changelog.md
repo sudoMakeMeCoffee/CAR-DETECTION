@@ -2034,3 +2034,4 @@
 - [2024-11-17] Add preprocessing pipeline
 - [2024-11-17] Clean unused imports
 - [2024-11-17] Clean unused imports
+- [2024-11-19] Refactor frame extractor
