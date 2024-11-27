@@ -2038,3 +2038,4 @@
 - [2024-11-25] Update test video clips
 - [2024-11-25] Add vehicle tracking module
 - [2024-11-27] Clean unused imports
+- [2024-11-27] Refactor frame extractor
