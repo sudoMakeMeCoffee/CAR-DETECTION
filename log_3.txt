@@ -1686,3 +1686,7 @@ for frame in video:
 # Commit on 2024-11-25
 # Added bounding box format
 bbox = [x, y, w, h]
+
+# Commit on 2024-11-27
+# Added bounding box format
+bbox = [x, y, w, h]
