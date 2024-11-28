@@ -2043,3 +2043,4 @@
 - [2024-11-27] Fix frame timing issue
 - [2024-11-28] Improve detection accuracy
 - [2024-11-28] Update README with usage
+- [2024-11-28] Add sample inference notebook
