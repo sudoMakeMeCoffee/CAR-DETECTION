@@ -2045,3 +2045,4 @@
 - [2024-11-28] Update README with usage
 - [2024-11-28] Add sample inference notebook
 - [2024-11-28] Refactor frame extractor
+- [2024-11-28] Update YOLOv5 model files
