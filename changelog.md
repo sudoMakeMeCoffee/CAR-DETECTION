@@ -2046,3 +2046,4 @@
 - [2024-11-28] Add sample inference notebook
 - [2024-11-28] Refactor frame extractor
 - [2024-11-28] Update YOLOv5 model files
+- [2024-11-30] Clean unused imports
