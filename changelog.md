@@ -2049,3 +2049,4 @@
 - [2024-11-30] Clean unused imports
 - [2024-11-30] Refactor frame extractor
 - [2024-11-30] Update test video clips
+- [2024-11-30] Refactor frame extractor
