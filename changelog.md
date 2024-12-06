@@ -2058,3 +2058,4 @@
 - [2024-12-06] Add sample inference notebook
 - [2024-12-06] Update test video clips
 - [2024-12-06] Tune confidence threshold
+- [2024-12-06] Update YOLOv5 model files
