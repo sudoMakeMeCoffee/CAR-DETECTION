@@ -2055,3 +2055,4 @@
 - [2024-12-03] Clean unused imports
 - [2024-12-03] Refactor frame extractor
 - [2024-12-06] Improve detection accuracy
+- [2024-12-06] Add sample inference notebook
