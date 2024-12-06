@@ -2056,3 +2056,4 @@
 - [2024-12-03] Refactor frame extractor
 - [2024-12-06] Improve detection accuracy
 - [2024-12-06] Add sample inference notebook
+- [2024-12-06] Update test video clips
