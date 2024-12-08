@@ -1773,3 +1773,8 @@ for frame in video:
 # Commit on 2024-12-08
 # Temporary debug log
 print('DEBUG: frame loaded')
+
+# Commit on 2024-12-08
+# Refactored loop
+for frame in video:
+    detect(frame)
