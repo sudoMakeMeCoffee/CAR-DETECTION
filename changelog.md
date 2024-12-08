@@ -2060,3 +2060,4 @@
 - [2024-12-06] Tune confidence threshold
 - [2024-12-06] Update YOLOv5 model files
 - [2024-12-08] Clean unused imports
+- [2024-12-08] Refactor frame extractor
