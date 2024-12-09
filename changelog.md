@@ -2069,3 +2069,4 @@
 - [2024-12-09] Update README with usage
 - [2024-12-09] Add vehicle tracking module
 - [2024-12-09] Improve detection accuracy
+- [2024-12-09] Clean unused imports
