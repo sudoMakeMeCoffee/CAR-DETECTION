@@ -2066,3 +2066,4 @@
 - [2024-12-08] Fix frame timing issue
 - [2024-12-08] Clean unused imports
 - [2024-12-09] Update test video clips
+- [2024-12-09] Update README with usage
