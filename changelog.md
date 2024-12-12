@@ -2071,3 +2071,4 @@
 - [2024-12-09] Improve detection accuracy
 - [2024-12-09] Clean unused imports
 - [2024-12-09] Improve detection accuracy
+- [2024-12-12] Update README with usage
