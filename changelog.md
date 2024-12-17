@@ -2075,3 +2075,4 @@
 - [2024-12-12] Refactor frame extractor
 - [2024-12-14] Add vehicle tracking module
 - [2024-12-17] Update YOLOv5 model files
+- [2024-12-17] Add preprocessing pipeline
