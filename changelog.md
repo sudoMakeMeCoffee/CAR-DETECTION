@@ -2080,3 +2080,4 @@
 - [2024-12-20] Fix model path bug
 - [2024-12-20] Add preprocessing pipeline
 - [2024-12-26] Add vehicle tracking module
+- [2024-12-26] Update test video clips
