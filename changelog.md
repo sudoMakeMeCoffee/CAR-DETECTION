@@ -2083,3 +2083,4 @@
 - [2024-12-26] Update test video clips
 - [2024-12-26] Improve detection accuracy
 - [2024-12-26] Fix frame timing issue
+- [2024-12-26] Add preprocessing pipeline
