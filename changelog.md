@@ -2085,3 +2085,4 @@
 - [2024-12-26] Fix frame timing issue
 - [2024-12-26] Add preprocessing pipeline
 - [2024-12-31] Clean unused imports
+- [2024-12-31] Add vehicle tracking module
