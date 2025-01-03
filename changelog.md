@@ -2088,3 +2088,4 @@
 - [2024-12-31] Add vehicle tracking module
 - [2024-12-31] Fix model path bug
 - [2024-12-31] Refactor frame extractor
+- [2025-01-03] Add sample inference notebook
