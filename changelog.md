@@ -2093,3 +2093,4 @@
 - [2025-01-03] Update YOLOv5 model files
 - [2025-01-04] Update YOLOv5 model files
 - [2025-01-04] Add sample inference notebook
+- [2025-01-06] Fix model path bug
