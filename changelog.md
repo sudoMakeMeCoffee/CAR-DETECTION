@@ -2098,3 +2098,4 @@
 - [2025-01-06] Add vehicle tracking module
 - [2025-01-06] Add vehicle tracking module
 - [2025-01-08] Clean unused imports
+- [2025-01-08] Add preprocessing pipeline
