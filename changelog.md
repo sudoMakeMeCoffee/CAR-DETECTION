@@ -2102,3 +2102,4 @@
 - [2025-01-08] Add sample inference notebook
 - [2025-01-08] Refactor frame extractor
 - [2025-01-08] Add sample inference notebook
+- [2025-01-09] Tune confidence threshold
