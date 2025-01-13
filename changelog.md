@@ -2106,3 +2106,4 @@
 - [2025-01-09] Update test video clips
 - [2025-01-09] Update README with usage
 - [2025-01-13] Update README with usage
+- [2025-01-13] Fix model path bug
