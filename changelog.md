@@ -2108,3 +2108,4 @@
 - [2025-01-13] Update README with usage
 - [2025-01-13] Fix model path bug
 - [2025-01-15] Clean unused imports
+- [2025-01-15] Add vehicle tracking module
