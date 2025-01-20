@@ -2117,3 +2117,4 @@
 - [2025-01-20] Clean unused imports
 - [2025-01-20] Tune confidence threshold
 - [2025-01-20] Update test video clips
+- [2025-01-20] Add preprocessing pipeline
