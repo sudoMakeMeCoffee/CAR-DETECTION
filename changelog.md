@@ -2118,3 +2118,4 @@
 - [2025-01-20] Tune confidence threshold
 - [2025-01-20] Update test video clips
 - [2025-01-20] Add preprocessing pipeline
+- [2025-01-21] Fix frame timing issue
