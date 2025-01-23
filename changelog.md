@@ -2122,3 +2122,4 @@
 - [2025-01-21] Update YOLOv5 model files
 - [2025-01-21] Tune confidence threshold
 - [2025-01-21] Update test video clips
+- [2025-01-23] Improve detection accuracy
