@@ -2128,3 +2128,4 @@
 - [2025-01-25] Add vehicle tracking module
 - [2025-01-25] Add preprocessing pipeline
 - [2025-01-25] Fix frame timing issue
+- [2025-01-25] Update README with usage
