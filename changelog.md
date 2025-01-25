@@ -2124,3 +2124,4 @@
 - [2025-01-21] Update test video clips
 - [2025-01-23] Improve detection accuracy
 - [2025-01-25] Update test video clips
+- [2025-01-25] Improve detection accuracy
