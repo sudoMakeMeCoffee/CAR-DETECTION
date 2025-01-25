@@ -2126,3 +2126,4 @@
 - [2025-01-25] Update test video clips
 - [2025-01-25] Improve detection accuracy
 - [2025-01-25] Add vehicle tracking module
+- [2025-01-25] Add preprocessing pipeline
