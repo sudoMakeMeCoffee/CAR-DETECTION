@@ -2132,3 +2132,4 @@
 - [2025-01-26] Improve detection accuracy
 - [2025-01-26] Clean unused imports
 - [2025-01-26] Clean unused imports
+- [2025-01-26] Add sample inference notebook
