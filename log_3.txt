@@ -1770,3 +1770,8 @@ print('DEBUG: frame loaded')
 # Refactored loop
 for frame in video:
     detect(frame)
+
+# Commit on 2025-01-28
+# Refactored loop
+for frame in video:
+    detect(frame)
