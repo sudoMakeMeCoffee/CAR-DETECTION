@@ -2135,3 +2135,4 @@
 - [2025-01-26] Add sample inference notebook
 - [2025-01-26] Refactor frame extractor
 - [2025-01-28] Update YOLOv5 model files
+- [2025-01-28] Add vehicle tracking module
