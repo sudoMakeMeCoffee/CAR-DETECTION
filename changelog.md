@@ -2138,3 +2138,4 @@
 - [2025-01-28] Add vehicle tracking module
 - [2025-01-31] Add vehicle tracking module
 - [2025-01-31] Clean unused imports
+- [2025-02-02] Refactor frame extractor
