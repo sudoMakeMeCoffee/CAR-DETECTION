@@ -2142,3 +2142,4 @@
 - [2025-02-03] Update test video clips
 - [2025-02-03] Refactor frame extractor
 - [2025-02-03] Tune confidence threshold
+- [2025-02-03] Update YOLOv5 model files
