@@ -2140,3 +2140,4 @@
 - [2025-01-31] Clean unused imports
 - [2025-02-02] Refactor frame extractor
 - [2025-02-03] Update test video clips
+- [2025-02-03] Refactor frame extractor
