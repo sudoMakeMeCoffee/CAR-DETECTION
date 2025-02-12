@@ -1714,3 +1714,8 @@ bbox = [x, y, w, h]
 # Commit on 2025-01-26
 # Added bounding box format
 bbox = [x, y, w, h]
+
+# Commit on 2025-02-12
+# Refactored loop
+for frame in video:
+    detect(frame)
