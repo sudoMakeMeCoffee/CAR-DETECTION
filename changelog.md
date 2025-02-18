@@ -2151,3 +2151,4 @@
 - [2025-02-17] Add vehicle tracking module
 - [2025-02-18] Improve detection accuracy
 - [2025-02-18] Add sample inference notebook
+- [2025-02-18] Add sample inference notebook
