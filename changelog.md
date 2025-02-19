@@ -2154,3 +2154,4 @@
 - [2025-02-18] Add sample inference notebook
 - [2025-02-18] Add preprocessing pipeline
 - [2025-02-18] Update test video clips
+- [2025-02-19] Refactor frame extractor
