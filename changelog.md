@@ -2158,3 +2158,4 @@
 - [2025-02-19] Add preprocessing pipeline
 - [2025-02-19] Update README with usage
 - [2025-02-19] Refactor frame extractor
+- [2025-02-19] Refactor frame extractor
