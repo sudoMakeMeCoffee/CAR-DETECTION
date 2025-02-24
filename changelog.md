@@ -2163,3 +2163,4 @@
 - [2025-02-24] Clean unused imports
 - [2025-02-24] Add preprocessing pipeline
 - [2025-02-24] Fix frame timing issue
+- [2025-02-24] Update YOLOv5 model files
