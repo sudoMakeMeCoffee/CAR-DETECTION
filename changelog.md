@@ -2166,3 +2166,4 @@
 - [2025-02-24] Update YOLOv5 model files
 - [2025-02-24] Add preprocessing pipeline
 - [2025-02-25] Fix model path bug
+- [2025-02-25] Refactor frame extractor
