@@ -2168,3 +2168,4 @@
 - [2025-02-25] Fix model path bug
 - [2025-02-25] Refactor frame extractor
 - [2025-02-26] Refactor frame extractor
+- [2025-02-26] Add preprocessing pipeline
