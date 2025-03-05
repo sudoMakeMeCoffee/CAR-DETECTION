@@ -2171,3 +2171,4 @@
 - [2025-02-26] Add preprocessing pipeline
 - [2025-03-05] Tune confidence threshold
 - [2025-03-05] Clean unused imports
+- [2025-03-05] Fix frame timing issue
