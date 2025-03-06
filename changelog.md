@@ -2174,3 +2174,4 @@
 - [2025-03-05] Fix frame timing issue
 - [2025-03-06] Refactor frame extractor
 - [2025-03-06] Improve detection accuracy
+- [2025-03-06] Add vehicle tracking module
