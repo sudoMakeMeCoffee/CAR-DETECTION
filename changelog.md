@@ -2172,3 +2172,4 @@
 - [2025-03-05] Tune confidence threshold
 - [2025-03-05] Clean unused imports
 - [2025-03-05] Fix frame timing issue
+- [2025-03-06] Refactor frame extractor
