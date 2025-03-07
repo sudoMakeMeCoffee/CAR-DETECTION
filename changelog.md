@@ -2177,3 +2177,4 @@
 - [2025-03-06] Add vehicle tracking module
 - [2025-03-06] Add vehicle tracking module
 - [2025-03-07] Clean unused imports
+- [2025-03-07] Fix model path bug
