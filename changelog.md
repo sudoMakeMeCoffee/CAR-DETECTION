@@ -2182,3 +2182,4 @@
 - [2025-03-09] Add vehicle tracking module
 - [2025-03-11] Add vehicle tracking module
 - [2025-03-11] Clean unused imports
+- [2025-03-11] Add sample inference notebook
