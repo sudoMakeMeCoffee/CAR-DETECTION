@@ -2186,3 +2186,4 @@
 - [2025-03-11] Update YOLOv5 model files
 - [2025-03-11] Update test video clips
 - [2025-03-11] Update test video clips
+- [2025-03-15] Fix model path bug
