@@ -2189,3 +2189,4 @@
 - [2025-03-15] Fix model path bug
 - [2025-03-15] Fix model path bug
 - [2025-03-15] Refactor frame extractor
+- [2025-03-15] Add vehicle tracking module
