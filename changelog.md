@@ -2192,3 +2192,4 @@
 - [2025-03-15] Add vehicle tracking module
 - [2025-03-15] Tune confidence threshold
 - [2025-03-17] Update test video clips
+- [2025-03-17] Update YOLOv5 model files
