@@ -2196,3 +2196,4 @@
 - [2025-03-17] Update test video clips
 - [2025-03-17] Update test video clips
 - [2025-03-17] Add sample inference notebook
+- [2025-03-18] Fix frame timing issue
