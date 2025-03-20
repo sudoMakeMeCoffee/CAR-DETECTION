@@ -2200,3 +2200,4 @@
 - [2025-03-19] Clean unused imports
 - [2025-03-19] Add sample inference notebook
 - [2025-03-20] Fix frame timing issue
+- [2025-03-20] Improve detection accuracy
