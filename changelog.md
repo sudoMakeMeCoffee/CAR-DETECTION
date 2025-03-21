@@ -2202,3 +2202,4 @@
 - [2025-03-20] Fix frame timing issue
 - [2025-03-20] Improve detection accuracy
 - [2025-03-20] Update README with usage
+- [2025-03-21] Tune confidence threshold
