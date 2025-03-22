@@ -2205,3 +2205,4 @@
 - [2025-03-21] Tune confidence threshold
 - [2025-03-22] Tune confidence threshold
 - [2025-03-22] Improve detection accuracy
+- [2025-03-22] Refactor frame extractor
