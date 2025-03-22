@@ -2204,3 +2204,4 @@
 - [2025-03-20] Update README with usage
 - [2025-03-21] Tune confidence threshold
 - [2025-03-22] Tune confidence threshold
+- [2025-03-22] Improve detection accuracy
