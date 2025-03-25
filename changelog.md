@@ -2210,3 +2210,4 @@
 - [2025-03-25] Add sample inference notebook
 - [2025-03-25] Clean unused imports
 - [2025-03-25] Add vehicle tracking module
+- [2025-03-25] Add preprocessing pipeline
