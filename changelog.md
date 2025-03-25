@@ -2212,3 +2212,4 @@
 - [2025-03-25] Add vehicle tracking module
 - [2025-03-25] Add preprocessing pipeline
 - [2025-03-25] Improve detection accuracy
+- [2025-03-25] Tune confidence threshold
