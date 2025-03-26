@@ -2217,3 +2217,4 @@
 - [2025-03-26] Improve detection accuracy
 - [2025-03-26] Add vehicle tracking module
 - [2025-03-26] Improve detection accuracy
+- [2025-03-26] Fix frame timing issue
