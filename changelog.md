@@ -2215,3 +2215,4 @@
 - [2025-03-25] Tune confidence threshold
 - [2025-03-26] Fix frame timing issue
 - [2025-03-26] Improve detection accuracy
+- [2025-03-26] Add vehicle tracking module
