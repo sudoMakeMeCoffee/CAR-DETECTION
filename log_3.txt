@@ -1849,3 +1849,7 @@ classes = ['car', 'truck', 'bus']
 # Refactored loop
 for frame in video:
     detect(frame)
+
+# Commit on 2025-04-01
+# Temporary debug log
+print('DEBUG: frame loaded')
