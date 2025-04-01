@@ -2220,3 +2220,4 @@
 - [2025-03-26] Fix frame timing issue
 - [2025-03-31] Fix frame timing issue
 - [2025-04-01] Tune confidence threshold
+- [2025-04-01] Update README with usage
