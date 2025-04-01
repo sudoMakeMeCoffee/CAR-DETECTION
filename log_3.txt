@@ -1844,3 +1844,8 @@ bbox = [x, y, w, h]
 # Commit on 2025-03-26
 # Added new vehicle classes
 classes = ['car', 'truck', 'bus']
+
+# Commit on 2025-04-01
+# Refactored loop
+for frame in video:
+    detect(frame)
