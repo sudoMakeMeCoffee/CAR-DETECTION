@@ -2225,3 +2225,4 @@
 - [2025-04-01] Update README with usage
 - [2025-04-02] Fix frame timing issue
 - [2025-04-02] Update README with usage
+- [2025-04-02] Fix frame timing issue
