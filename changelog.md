@@ -2229,3 +2229,4 @@
 - [2025-04-02] Update README with usage
 - [2025-04-08] Refactor frame extractor
 - [2025-04-08] Add preprocessing pipeline
+- [2025-04-08] Update test video clips
