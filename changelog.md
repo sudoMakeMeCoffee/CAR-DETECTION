@@ -2235,3 +2235,4 @@
 - [2025-04-09] Add preprocessing pipeline
 - [2025-04-09] Refactor frame extractor
 - [2025-04-09] Add preprocessing pipeline
+- [2025-04-10] Improve detection accuracy
