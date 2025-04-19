@@ -2243,3 +2243,4 @@
 - [2025-04-19] Clean unused imports
 - [2025-04-19] Fix model path bug
 - [2025-04-19] Fix model path bug
+- [2025-04-19] Tune confidence threshold
