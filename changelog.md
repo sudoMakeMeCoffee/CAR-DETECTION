@@ -2247,3 +2247,4 @@
 - [2025-04-22] Tune confidence threshold
 - [2025-04-23] Fix model path bug
 - [2025-04-24] Update README with usage
+- [2025-04-29] Update test video clips
