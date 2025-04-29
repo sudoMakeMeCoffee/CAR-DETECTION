@@ -2249,3 +2249,4 @@
 - [2025-04-24] Update README with usage
 - [2025-04-29] Update test video clips
 - [2025-04-29] Clean unused imports
+- [2025-04-29] Update YOLOv5 model files
