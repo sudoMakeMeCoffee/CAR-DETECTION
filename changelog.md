@@ -2252,3 +2252,4 @@
 - [2025-04-29] Update YOLOv5 model files
 - [2025-04-29] Update test video clips
 - [2025-04-29] Fix frame timing issue
+- [2025-04-29] Fix model path bug
