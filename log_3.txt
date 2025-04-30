@@ -1874,3 +1874,7 @@ print('DEBUG: frame loaded')
 # Commit on 2025-04-29
 # Model tuning params
 CONFIDENCE_THRESHOLD = 0.45
+
+# Commit on 2025-04-30
+# Model tuning params
+CONFIDENCE_THRESHOLD = 0.45

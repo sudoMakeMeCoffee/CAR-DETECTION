@@ -2254,3 +2254,4 @@
 - [2025-04-29] Fix frame timing issue
 - [2025-04-29] Fix model path bug
 - [2025-04-30] Fix model path bug
+- [2025-04-30] Update README with usage
