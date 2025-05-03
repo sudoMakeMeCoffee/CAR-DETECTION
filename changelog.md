@@ -2255,3 +2255,4 @@
 - [2025-04-29] Fix model path bug
 - [2025-04-30] Fix model path bug
 - [2025-04-30] Update README with usage
+- [2025-05-03] Tune confidence threshold
