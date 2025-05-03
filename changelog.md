@@ -2257,3 +2257,4 @@
 - [2025-04-30] Update README with usage
 - [2025-05-03] Tune confidence threshold
 - [2025-05-03] Improve detection accuracy
+- [2025-05-03] Clean unused imports
