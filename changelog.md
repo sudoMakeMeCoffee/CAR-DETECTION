@@ -2259,3 +2259,4 @@
 - [2025-05-03] Improve detection accuracy
 - [2025-05-03] Clean unused imports
 - [2025-05-03] Update README with usage
+- [2025-05-03] Add preprocessing pipeline
