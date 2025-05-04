@@ -2260,3 +2260,4 @@
 - [2025-05-03] Clean unused imports
 - [2025-05-03] Update README with usage
 - [2025-05-03] Add preprocessing pipeline
+- [2025-05-04] Update YOLOv5 model files
