@@ -2268,3 +2268,4 @@
 - [2025-05-04] Add preprocessing pipeline
 - [2025-05-05] Add sample inference notebook
 - [2025-05-05] Add preprocessing pipeline
+- [2025-05-07] Tune confidence threshold
