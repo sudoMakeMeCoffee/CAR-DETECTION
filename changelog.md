@@ -2273,3 +2273,4 @@
 - [2025-05-09] Update README with usage
 - [2025-05-09] Refactor frame extractor
 - [2025-05-09] Add preprocessing pipeline
+- [2025-05-09] Fix frame timing issue
