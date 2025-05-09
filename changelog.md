@@ -2271,3 +2271,4 @@
 - [2025-05-07] Tune confidence threshold
 - [2025-05-07] Add preprocessing pipeline
 - [2025-05-09] Update README with usage
+- [2025-05-09] Refactor frame extractor
