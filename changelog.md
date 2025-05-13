@@ -2275,3 +2275,4 @@
 - [2025-05-09] Add preprocessing pipeline
 - [2025-05-09] Fix frame timing issue
 - [2025-05-09] Refactor frame extractor
+- [2025-05-13] Fix model path bug
