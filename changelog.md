@@ -2289,3 +2289,4 @@
 - [2025-05-19] Add preprocessing pipeline
 - [2025-05-19] Improve detection accuracy
 - [2025-05-20] Fix frame timing issue
+- [2025-05-21] Refactor frame extractor
