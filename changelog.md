@@ -2294,3 +2294,4 @@
 - [2025-05-21] Tune confidence threshold
 - [2025-05-21] Improve detection accuracy
 - [2025-05-23] Add vehicle tracking module
+- [2025-05-23] Clean unused imports
