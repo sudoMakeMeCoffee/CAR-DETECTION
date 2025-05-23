@@ -2298,3 +2298,4 @@
 - [2025-05-23] Add vehicle tracking module
 - [2025-05-23] Improve detection accuracy
 - [2025-05-23] Tune confidence threshold
+- [2025-05-23] Update test video clips
