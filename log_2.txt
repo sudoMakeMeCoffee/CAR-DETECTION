@@ -1817,3 +1817,8 @@ CONFIDENCE_THRESHOLD = 0.45
 # Commit on 2025-05-18
 # Added new vehicle classes
 classes = ['car', 'truck', 'bus']
+
+# Commit on 2025-05-23
+# Refactored loop
+for frame in video:
+    detect(frame)
