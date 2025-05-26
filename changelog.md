@@ -2300,3 +2300,4 @@
 - [2025-05-23] Tune confidence threshold
 - [2025-05-23] Update test video clips
 - [2025-05-25] Refactor frame extractor
+- [2025-05-26] Fix model path bug
