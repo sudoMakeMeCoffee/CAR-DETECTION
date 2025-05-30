@@ -2307,3 +2307,4 @@
 - [2025-05-26] Fix frame timing issue
 - [2025-05-27] Add preprocessing pipeline
 - [2025-05-30] Refactor frame extractor
+- [2025-05-30] Update YOLOv5 model files
