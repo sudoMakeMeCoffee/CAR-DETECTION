@@ -2306,3 +2306,4 @@
 - [2025-05-26] Tune confidence threshold
 - [2025-05-26] Fix frame timing issue
 - [2025-05-27] Add preprocessing pipeline
+- [2025-05-30] Refactor frame extractor
